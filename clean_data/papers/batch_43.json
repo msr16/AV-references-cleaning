@@ -1,0 +1,1725 @@
+[
+    {
+        "paper": {
+            "id": "https://openalex.org/W2081272479",
+            "doi": "https://doi.org/10.1109/tsmcc.2011.2166067",
+            "title": "Applying a Functional Neurofuzzy Network to Real-Time Lane Detection and Front-Vehicle Distance Measurement",
+            "publicationYear": 2011,
+            "language": "en",
+            "type": "article",
+            "crossrefType": "journal-article",
+            "numberOfCiteation": 75,
+            "FieldWeightedCitationImpact": 6.024,
+            "countsByYear": [
+                {
+                    "year": 2025,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2024,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 8
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 9
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 10
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 15
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 8
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 3
+                }
+            ],
+            "pdfUrl": null
+        },
+        "authorship": [
+            {
+                "authorPosition": "first",
+                "author": {
+                    "id": "https://openalex.org/A5061291583",
+                    "institutions": [
+                        "https://openalex.org/I919620872"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Dept. of Inf. Manage. & Commun., Wenzao Ursuline Coll. of Languages, Kaohsiung, Taiwan"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5058936239",
+                    "institutions": [
+                        "https://openalex.org/I65446980"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Department of Computer Science and Information Engineering, National Chin Yi University of Technology, Taichung, Taiwan"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "last",
+                "author": {
+                    "id": "https://openalex.org/A5020797629",
+                    "institutions": [
+                        "https://openalex.org/I205237279"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Department of Computer Science and Information Engineering, NanKai University of Technology, Nantou, Taiwan#TAB#"
+                    ]
+                }
+            }
+        ],
+        "source": {
+            "id": "https://openalex.org/S4210227557",
+            "hostOrganizationId": "https://openalex.org/P4310319808",
+            "volume": "42",
+            "issue": "4"
+        },
+        "referencedWorks": [
+            "https://openalex.org/W1954022664",
+            "https://openalex.org/W1968256263",
+            "https://openalex.org/W1971994065",
+            "https://openalex.org/W1973160187",
+            "https://openalex.org/W1973261441",
+            "https://openalex.org/W1974774806",
+            "https://openalex.org/W2041940848",
+            "https://openalex.org/W2055155564",
+            "https://openalex.org/W2055379894",
+            "https://openalex.org/W2073177254",
+            "https://openalex.org/W2078132328",
+            "https://openalex.org/W2088048461",
+            "https://openalex.org/W2089048878",
+            "https://openalex.org/W2092282499",
+            "https://openalex.org/W2098456462",
+            "https://openalex.org/W2106655640",
+            "https://openalex.org/W2107450959",
+            "https://openalex.org/W2125022378",
+            "https://openalex.org/W2128189613",
+            "https://openalex.org/W2129441664",
+            "https://openalex.org/W2129509694",
+            "https://openalex.org/W2132461991",
+            "https://openalex.org/W2142298816",
+            "https://openalex.org/W2146575011",
+            "https://openalex.org/W2147160479",
+            "https://openalex.org/W2150135914",
+            "https://openalex.org/W2152422345",
+            "https://openalex.org/W2158644752",
+            "https://openalex.org/W2162194504",
+            "https://openalex.org/W2162868193",
+            "https://openalex.org/W2168215035",
+            "https://openalex.org/W2170597348",
+            "https://openalex.org/W2240306106",
+            "https://openalex.org/W2542654179"
+        ],
+        "relatedWorks": [
+            "https://openalex.org/W641612223",
+            "https://openalex.org/W4323276068",
+            "https://openalex.org/W4205873045",
+            "https://openalex.org/W2906771794",
+            "https://openalex.org/W2470048815",
+            "https://openalex.org/W2324884046",
+            "https://openalex.org/W2174716869",
+            "https://openalex.org/W2080126316",
+            "https://openalex.org/W2028203774",
+            "https://openalex.org/W1984342691"
+        ],
+        "grants": [],
+        "concepts": [
+            "https://openalex.org/C2777551076",
+            "https://openalex.org/C2776378700",
+            "https://openalex.org/C79403827",
+            "https://openalex.org/C41008148",
+            "https://openalex.org/C117797892",
+            "https://openalex.org/C31972630"
+        ],
+        "keywords": [
+            "Position (finance)"
+        ],
+        "topics": [
+            "https://openalex.org/T11099",
+            "https://openalex.org/T10331",
+            "https://openalex.org/T11512"
+        ]
+    },
+    {
+        "paper": {
+            "id": "https://openalex.org/W2484134798",
+            "doi": "https://doi.org/10.1007/978-1-4471-2280-7",
+            "title": "Autonomous Intelligent Vehicles",
+            "publicationYear": 2011,
+            "language": "en",
+            "type": "book",
+            "crossrefType": "book",
+            "numberOfCiteation": 78,
+            "FieldWeightedCitationImpact": 0.834,
+            "countsByYear": [
+                {
+                    "year": 2024,
+                    "cited_by_count": 3
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 1
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 6
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 11
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 8
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 12
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 9
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 9
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 5
+                },
+                {
+                    "year": 2015,
+                    "cited_by_count": 7
+                },
+                {
+                    "year": 2014,
+                    "cited_by_count": 4
+                },
+                {
+                    "year": 2013,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2012,
+                    "cited_by_count": 1
+                }
+            ],
+            "pdfUrl": null
+        },
+        "authorship": [
+            {
+                "authorPosition": "first",
+                "author": {
+                    "id": "https://openalex.org/A5042965582",
+                    "institutions": [
+                        "https://openalex.org/I150229711"
+                    ],
+                    "isCorresponding": true,
+                    "affiliations": [
+                        "School of Automation Engineering, Univ. of Electronic Science & Technology, Chengdu, China, People's Republic"
+                    ]
+                }
+            }
+        ],
+        "source": {
+            "id": "https://openalex.org/S4306463937",
+            "hostOrganizationId": "https://openalex.org/P4310319965",
+            "volume": null,
+            "issue": null
+        },
+        "referencedWorks": [],
+        "relatedWorks": [
+            "https://openalex.org/W4245435724",
+            "https://openalex.org/W4205448459",
+            "https://openalex.org/W3028317537",
+            "https://openalex.org/W2794103424",
+            "https://openalex.org/W2389515972",
+            "https://openalex.org/W2376554934",
+            "https://openalex.org/W2077790809",
+            "https://openalex.org/W2055301889",
+            "https://openalex.org/W1996530509",
+            "https://openalex.org/W1505959757"
+        ],
+        "grants": [],
+        "concepts": [
+            "https://openalex.org/C2776650193",
+            "https://openalex.org/C41008148",
+            "https://openalex.org/C48103436"
+        ],
+        "keywords": [],
+        "topics": []
+    },
+    {
+        "paper": {
+            "id": "https://openalex.org/W4214873631",
+            "doi": "https://doi.org/10.1109/tim.2022.3156982",
+            "title": "A LiDAR SLAM With PCA-Based Feature Extraction and Two-Stage Matching",
+            "publicationYear": 2022,
+            "language": "en",
+            "type": "article",
+            "crossrefType": "journal-article",
+            "numberOfCiteation": 43,
+            "FieldWeightedCitationImpact": 6.226,
+            "countsByYear": [
+                {
+                    "year": 2025,
+                    "cited_by_count": 9
+                },
+                {
+                    "year": 2024,
+                    "cited_by_count": 16
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 14
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 4
+                }
+            ],
+            "pdfUrl": null
+        },
+        "authorship": [
+            {
+                "authorPosition": "first",
+                "author": {
+                    "id": "https://openalex.org/A5009439685",
+                    "institutions": [
+                        "https://openalex.org/I4210165038",
+                        "https://openalex.org/I4210112150",
+                        "https://openalex.org/I19820366",
+                        "https://openalex.org/I4210100255"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China",
+                        "School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5061708005",
+                    "institutions": [
+                        "https://openalex.org/I4210112150",
+                        "https://openalex.org/I19820366"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5025782205",
+                    "institutions": [
+                        "https://openalex.org/I4210100255",
+                        "https://openalex.org/I4210165038"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "last",
+                "author": {
+                    "id": "https://openalex.org/A5100645164",
+                    "institutions": [
+                        "https://openalex.org/I4210112150",
+                        "https://openalex.org/I19820366",
+                        "https://openalex.org/I4210100255",
+                        "https://openalex.org/I4210165038"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China",
+                        "School of Artificial Intelligence, University of Chinese Academy of Sciences, Beijing, China"
+                    ]
+                }
+            }
+        ],
+        "source": {
+            "id": "https://openalex.org/S10892749",
+            "hostOrganizationId": "https://openalex.org/P4310319808",
+            "volume": "71",
+            "issue": null
+        },
+        "referencedWorks": [
+            "https://openalex.org/W1567242735",
+            "https://openalex.org/W1967740178",
+            "https://openalex.org/W1989625560",
+            "https://openalex.org/W2020682184",
+            "https://openalex.org/W2083624955",
+            "https://openalex.org/W2089468765",
+            "https://openalex.org/W2119851068",
+            "https://openalex.org/W2130422193",
+            "https://openalex.org/W2150066425",
+            "https://openalex.org/W2153054365",
+            "https://openalex.org/W2296228853",
+            "https://openalex.org/W2411093439",
+            "https://openalex.org/W2474281075",
+            "https://openalex.org/W2909908358",
+            "https://openalex.org/W2940793188",
+            "https://openalex.org/W2963600667",
+            "https://openalex.org/W2980321648",
+            "https://openalex.org/W3003991701",
+            "https://openalex.org/W3034675048",
+            "https://openalex.org/W3043971245",
+            "https://openalex.org/W3044549235",
+            "https://openalex.org/W3085759494",
+            "https://openalex.org/W3089503906",
+            "https://openalex.org/W3102327032",
+            "https://openalex.org/W3110870077",
+            "https://openalex.org/W3176418612",
+            "https://openalex.org/W4249866455",
+            "https://openalex.org/W4251391716"
+        ],
+        "relatedWorks": [
+            "https://openalex.org/W4384112194",
+            "https://openalex.org/W4312958259",
+            "https://openalex.org/W4308259661",
+            "https://openalex.org/W4212966960",
+            "https://openalex.org/W3196708299",
+            "https://openalex.org/W3126674423",
+            "https://openalex.org/W3036493597",
+            "https://openalex.org/W2783354812",
+            "https://openalex.org/W2594043982",
+            "https://openalex.org/W2103009189"
+        ],
+        "grants": [
+            {
+                "funder": "https://openalex.org/F4320321001",
+                "awardId": "62002359"
+            },
+            {
+                "funder": "https://openalex.org/F4320321001",
+                "awardId": "61836015"
+            }
+        ],
+        "concepts": [
+            "https://openalex.org/C51399673",
+            "https://openalex.org/C154945302",
+            "https://openalex.org/C86369673",
+            "https://openalex.org/C41008148",
+            "https://openalex.org/C52622490",
+            "https://openalex.org/C115051666",
+            "https://openalex.org/C31972630",
+            "https://openalex.org/C2776436953"
+        ],
+        "keywords": [
+            "Ranging",
+            "Feature (linguistics)",
+            "Robustness"
+        ],
+        "topics": [
+            "https://openalex.org/T10191",
+            "https://openalex.org/T10326",
+            "https://openalex.org/T10868"
+        ]
+    },
+    {
+        "paper": {
+            "id": "https://openalex.org/W2967664003",
+            "doi": "https://doi.org/10.1109/icra.2019.8793728",
+            "title": "Real-Time Monocular Object-Model Aware Sparse SLAM",
+            "publicationYear": 2019,
+            "language": "en",
+            "type": "article",
+            "crossrefType": "proceedings-article",
+            "numberOfCiteation": 72,
+            "FieldWeightedCitationImpact": 15.555,
+            "countsByYear": [
+                {
+                    "year": 2025,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2024,
+                    "cited_by_count": 8
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 14
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 12
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 15
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 17
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 4
+                }
+            ],
+            "pdfUrl": null
+        },
+        "authorship": [
+            {
+                "authorPosition": "first",
+                "author": {
+                    "id": "https://openalex.org/A5058091799",
+                    "institutions": [
+                        "https://openalex.org/I4210127558",
+                        "https://openalex.org/I5681781"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Australian Center for Robotic Vision (ACRV) at the School of Computer Science, University of Adelaide"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5101988767",
+                    "institutions": [
+                        "https://openalex.org/I4210127558",
+                        "https://openalex.org/I5681781"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Australian Center for Robotic Vision (ACRV) at the School of Computer Science, University of Adelaide"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5018639058",
+                    "institutions": [
+                        "https://openalex.org/I4210127558",
+                        "https://openalex.org/I5681781"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Australian Center for Robotic Vision (ACRV) at the School of Computer Science, University of Adelaide"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "last",
+                "author": {
+                    "id": "https://openalex.org/A5089444805",
+                    "institutions": [
+                        "https://openalex.org/I4210127558",
+                        "https://openalex.org/I5681781"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Australian Center for Robotic Vision (ACRV) at the School of Computer Science, University of Adelaide"
+                    ]
+                }
+            }
+        ],
+        "source": {
+            "id": "https://openalex.org/S4363607759",
+            "hostOrganizationId": null,
+            "volume": null,
+            "issue": null
+        },
+        "referencedWorks": [
+            "https://openalex.org/W125693051",
+            "https://openalex.org/W1592619852",
+            "https://openalex.org/W1612997784",
+            "https://openalex.org/W1861492603",
+            "https://openalex.org/W1958957824",
+            "https://openalex.org/W1970504153",
+            "https://openalex.org/W1987648924",
+            "https://openalex.org/W1993267444",
+            "https://openalex.org/W1996520948",
+            "https://openalex.org/W1997452076",
+            "https://openalex.org/W2017814585",
+            "https://openalex.org/W2021851106",
+            "https://openalex.org/W2033819227",
+            "https://openalex.org/W2080823437",
+            "https://openalex.org/W2097696373",
+            "https://openalex.org/W2108134361",
+            "https://openalex.org/W2150066425",
+            "https://openalex.org/W2153054365",
+            "https://openalex.org/W2222512263",
+            "https://openalex.org/W2342277278",
+            "https://openalex.org/W2474281075",
+            "https://openalex.org/W2523049145",
+            "https://openalex.org/W2560722161",
+            "https://openalex.org/W2566881119",
+            "https://openalex.org/W2613718673",
+            "https://openalex.org/W2741658264",
+            "https://openalex.org/W2743154296",
+            "https://openalex.org/W2779423082",
+            "https://openalex.org/W2886388988",
+            "https://openalex.org/W2887751724",
+            "https://openalex.org/W2963357556",
+            "https://openalex.org/W2963710007",
+            "https://openalex.org/W2968136324",
+            "https://openalex.org/W3103648783",
+            "https://openalex.org/W3124420883",
+            "https://openalex.org/W4293584584",
+            "https://openalex.org/W4394671432",
+            "https://openalex.org/W612478963",
+            "https://openalex.org/W639708223"
+        ],
+        "relatedWorks": [
+            "https://openalex.org/W3033220023",
+            "https://openalex.org/W3017621005",
+            "https://openalex.org/W2992292799",
+            "https://openalex.org/W2980723633",
+            "https://openalex.org/W2963200201",
+            "https://openalex.org/W2950567443",
+            "https://openalex.org/W2384882317",
+            "https://openalex.org/W2327777938",
+            "https://openalex.org/W2116952306",
+            "https://openalex.org/W2037264771"
+        ],
+        "grants": [],
+        "concepts": [
+            "https://openalex.org/C154945302",
+            "https://openalex.org/C86369673",
+            "https://openalex.org/C31972630",
+            "https://openalex.org/C41008148",
+            "https://openalex.org/C179458375",
+            "https://openalex.org/C2781238097",
+            "https://openalex.org/C65909025"
+        ],
+        "keywords": [
+            "Bundle adjustment",
+            "Monocular",
+            "Quadric"
+        ],
+        "topics": [
+            "https://openalex.org/T10191",
+            "https://openalex.org/T10627",
+            "https://openalex.org/T10586"
+        ]
+    },
+    {
+        "paper": {
+            "id": "https://openalex.org/W3175849542",
+            "doi": "https://doi.org/10.1609/aaai.v35i3.16359",
+            "title": "AttaNet: Attention-Augmented Network for Fast and Accurate Scene Parsing",
+            "publicationYear": 2021,
+            "language": "en",
+            "type": "article",
+            "crossrefType": "journal-article",
+            "numberOfCiteation": 73,
+            "FieldWeightedCitationImpact": 3.76,
+            "countsByYear": [
+                {
+                    "year": 2025,
+                    "cited_by_count": 10
+                },
+                {
+                    "year": 2024,
+                    "cited_by_count": 21
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 22
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 11
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 9
+                }
+            ],
+            "pdfUrl": "https://ojs.aaai.org/index.php/AAAI/article/download/16359/16166"
+        },
+        "authorship": [
+            {
+                "authorPosition": "first",
+                "author": {
+                    "id": "https://openalex.org/A5101445794",
+                    "institutions": [
+                        "https://openalex.org/I4210121405",
+                        "https://openalex.org/I4210105595"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Shenzhen Institute of Artificial Intelligence and Robotics for Society\nJilin University"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5061336891",
+                    "institutions": [
+                        "https://openalex.org/I4210116924"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "The Chinese University of Hong Kong, Shenzhen\nShenzhen Institute of Artificial Intelligence and Robotics for Society"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "last",
+                "author": {
+                    "id": "https://openalex.org/A5029499523",
+                    "institutions": [
+                        "https://openalex.org/I4210116924"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "The Chinese University of Hong Kong, Shenzhen\nShenzhen Institute of Artificial Intelligence and Robotics for Society"
+                    ]
+                }
+            }
+        ],
+        "source": {
+            "id": "https://openalex.org/S4210191458",
+            "hostOrganizationId": "https://openalex.org/P4310320058",
+            "volume": "35",
+            "issue": "3"
+        },
+        "referencedWorks": [
+            "https://openalex.org/W1901129140",
+            "https://openalex.org/W2117539524",
+            "https://openalex.org/W2163605009",
+            "https://openalex.org/W2267186426",
+            "https://openalex.org/W2302255633",
+            "https://openalex.org/W2340897893",
+            "https://openalex.org/W2560023338",
+            "https://openalex.org/W2563705555",
+            "https://openalex.org/W2630837129",
+            "https://openalex.org/W2737258237",
+            "https://openalex.org/W2780664485",
+            "https://openalex.org/W2799166040",
+            "https://openalex.org/W2883780447",
+            "https://openalex.org/W2884822772",
+            "https://openalex.org/W2886934227",
+            "https://openalex.org/W2890782586",
+            "https://openalex.org/W2895340641",
+            "https://openalex.org/W2921495890",
+            "https://openalex.org/W2925552749",
+            "https://openalex.org/W2955058313",
+            "https://openalex.org/W2955813853",
+            "https://openalex.org/W2961666066",
+            "https://openalex.org/W2963091558",
+            "https://openalex.org/W2963323244",
+            "https://openalex.org/W2963378109",
+            "https://openalex.org/W2963419596",
+            "https://openalex.org/W2963727650",
+            "https://openalex.org/W2963881378",
+            "https://openalex.org/W2963890956",
+            "https://openalex.org/W2964217532",
+            "https://openalex.org/W2964309882",
+            "https://openalex.org/W2981689412",
+            "https://openalex.org/W2990775046",
+            "https://openalex.org/W2991062542",
+            "https://openalex.org/W2993235622",
+            "https://openalex.org/W2996106355",
+            "https://openalex.org/W3034502973",
+            "https://openalex.org/W3108450508",
+            "https://openalex.org/W3110440461",
+            "https://openalex.org/W3133630855",
+            "https://openalex.org/W3196904463",
+            "https://openalex.org/W4308909683",
+            "https://openalex.org/W4385245566"
+        ],
+        "relatedWorks": [
+            "https://openalex.org/W579810227",
+            "https://openalex.org/W2979495269",
+            "https://openalex.org/W2952780262",
+            "https://openalex.org/W2807110902",
+            "https://openalex.org/W2392917763",
+            "https://openalex.org/W2359307945",
+            "https://openalex.org/W2358855848",
+            "https://openalex.org/W2142145894",
+            "https://openalex.org/W2083429127",
+            "https://openalex.org/W2033808215"
+        ],
+        "grants": [],
+        "concepts": [
+            "https://openalex.org/C41008148",
+            "https://openalex.org/C186644900",
+            "https://openalex.org/C89600930",
+            "https://openalex.org/C184337299",
+            "https://openalex.org/C2779343474",
+            "https://openalex.org/C2776359362",
+            "https://openalex.org/C154945302",
+            "https://openalex.org/C125411270"
+        ],
+        "keywords": [
+            "Representation"
+        ],
+        "topics": [
+            "https://openalex.org/T10036",
+            "https://openalex.org/T10627",
+            "https://openalex.org/T11714"
+        ]
+    },
+    {
+        "paper": {
+            "id": "https://openalex.org/W3131567678",
+            "doi": "https://doi.org/10.1109/tcyb.2021.3052816",
+            "title": "Robust Optimal Control for the Vehicle Suspension System With Uncertainties",
+            "publicationYear": 2021,
+            "language": "en",
+            "type": "article",
+            "crossrefType": "journal-article",
+            "numberOfCiteation": 72,
+            "FieldWeightedCitationImpact": 6.72,
+            "countsByYear": [
+                {
+                    "year": 2025,
+                    "cited_by_count": 15
+                },
+                {
+                    "year": 2024,
+                    "cited_by_count": 27
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 15
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 12
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 1
+                }
+            ],
+            "pdfUrl": null
+        },
+        "authorship": [
+            {
+                "authorPosition": "first",
+                "author": {
+                    "id": "https://openalex.org/A5017405924",
+                    "institutions": [
+                        "https://openalex.org/I2898894"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "School of Electrical Engineering, Liaoning University of Technology, Jinzhou, China"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "last",
+                "author": {
+                    "id": "https://openalex.org/A5032156192",
+                    "institutions": [
+                        "https://openalex.org/I2898894"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "School of Electrical Engineering, Liaoning University of Technology, Jinzhou, China"
+                    ]
+                }
+            }
+        ],
+        "source": {
+            "id": "https://openalex.org/S4210191041",
+            "hostOrganizationId": "https://openalex.org/P4310319808",
+            "volume": "52",
+            "issue": "9"
+        },
+        "referencedWorks": [
+            "https://openalex.org/W1491031532",
+            "https://openalex.org/W1990524103",
+            "https://openalex.org/W2041364179",
+            "https://openalex.org/W2054576071",
+            "https://openalex.org/W2064551186",
+            "https://openalex.org/W2071502543",
+            "https://openalex.org/W2078753239",
+            "https://openalex.org/W2110512311",
+            "https://openalex.org/W2122375213",
+            "https://openalex.org/W2130416198",
+            "https://openalex.org/W2133689935",
+            "https://openalex.org/W2140249634",
+            "https://openalex.org/W2145456832",
+            "https://openalex.org/W2150030751",
+            "https://openalex.org/W2154383479",
+            "https://openalex.org/W2161475107",
+            "https://openalex.org/W2163900241",
+            "https://openalex.org/W2175997243",
+            "https://openalex.org/W2203300934",
+            "https://openalex.org/W2319415081",
+            "https://openalex.org/W2428098056",
+            "https://openalex.org/W2462438590",
+            "https://openalex.org/W2517836063",
+            "https://openalex.org/W2518283862",
+            "https://openalex.org/W2550595012",
+            "https://openalex.org/W2770936562",
+            "https://openalex.org/W2806601903",
+            "https://openalex.org/W2883984081",
+            "https://openalex.org/W2889616990",
+            "https://openalex.org/W2912557679",
+            "https://openalex.org/W2913093499",
+            "https://openalex.org/W2917597083",
+            "https://openalex.org/W2970630354",
+            "https://openalex.org/W3038204299",
+            "https://openalex.org/W4254644094"
+        ],
+        "relatedWorks": [
+            "https://openalex.org/W4283166633",
+            "https://openalex.org/W3037753826",
+            "https://openalex.org/W2977097987",
+            "https://openalex.org/W2465092630",
+            "https://openalex.org/W2335200680",
+            "https://openalex.org/W2082691201",
+            "https://openalex.org/W2073192513",
+            "https://openalex.org/W2028361564",
+            "https://openalex.org/W2004495732",
+            "https://openalex.org/W1990582753"
+        ],
+        "grants": [
+            {
+                "funder": "https://openalex.org/F4320321001",
+                "awardId": "61773189"
+            },
+            {
+                "funder": "https://openalex.org/F4320323086",
+                "awardId": "2020-KF-12-10"
+            },
+            {
+                "funder": "https://openalex.org/F4320327670",
+                "awardId": "LR2019033"
+            }
+        ],
+        "concepts": [
+            "https://openalex.org/C47446073",
+            "https://openalex.org/C91575142",
+            "https://openalex.org/C2778293426",
+            "https://openalex.org/C63479239",
+            "https://openalex.org/C98779006",
+            "https://openalex.org/C2780365114",
+            "https://openalex.org/C36662352"
+        ],
+        "keywords": [
+            "Active suspension",
+            "Robustness",
+            "Integral sliding mode",
+            "CarSim"
+        ],
+        "topics": [
+            "https://openalex.org/T10690",
+            "https://openalex.org/T10805",
+            "https://openalex.org/T11372"
+        ]
+    },
+    {
+        "paper": {
+            "id": "https://openalex.org/W2410627718",
+            "doi": "https://doi.org/10.1109/icra.2016.7487260",
+            "title": "CPA-SLAM: Consistent plane-model alignment for direct RGB-D SLAM",
+            "publicationYear": 2016,
+            "language": "en",
+            "type": "article",
+            "crossrefType": "proceedings-article",
+            "numberOfCiteation": 142,
+            "FieldWeightedCitationImpact": 27.25,
+            "countsByYear": [
+                {
+                    "year": 2025,
+                    "cited_by_count": 2
+                },
+                {
+                    "year": 2024,
+                    "cited_by_count": 7
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 12
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 18
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 16
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 20
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 27
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 23
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 17
+                }
+            ],
+            "pdfUrl": null
+        },
+        "authorship": [
+            {
+                "authorPosition": "first",
+                "author": {
+                    "id": "https://openalex.org/A5110921670",
+                    "institutions": [
+                        "https://openalex.org/I62916508"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Cremers are with the Computer Vision Group, Technical University of Munich"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5086140486",
+                    "institutions": [],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Technische Universitat Munchen, Munchen, Bayern, DE"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5113699486",
+                    "institutions": [
+                        "https://openalex.org/I62916508"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Cremers are with the Computer Vision Group, Technical University of Munich"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "last",
+                "author": {
+                    "id": "https://openalex.org/A5087710605",
+                    "institutions": [
+                        "https://openalex.org/I62916508"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Cremers are with the Computer Vision Group, Technical University of Munich"
+                    ]
+                }
+            }
+        ],
+        "source": {
+            "id": null,
+            "hostOrganizationId": null,
+            "volume": null,
+            "issue": null
+        },
+        "referencedWorks": [
+            "https://openalex.org/W1601795611",
+            "https://openalex.org/W1663973292",
+            "https://openalex.org/W1664845165",
+            "https://openalex.org/W1965851203",
+            "https://openalex.org/W1987648924",
+            "https://openalex.org/W1994075312",
+            "https://openalex.org/W1996520948",
+            "https://openalex.org/W2000760692",
+            "https://openalex.org/W2006934542",
+            "https://openalex.org/W2021851106",
+            "https://openalex.org/W2049981393",
+            "https://openalex.org/W2058535340",
+            "https://openalex.org/W2064280431",
+            "https://openalex.org/W2064451896",
+            "https://openalex.org/W2065906272",
+            "https://openalex.org/W2073660060",
+            "https://openalex.org/W2086002651",
+            "https://openalex.org/W2096878151",
+            "https://openalex.org/W2097696373",
+            "https://openalex.org/W2108402667",
+            "https://openalex.org/W2112082021",
+            "https://openalex.org/W2143769815",
+            "https://openalex.org/W2143906193",
+            "https://openalex.org/W2153054365"
+        ],
+        "relatedWorks": [
+            "https://openalex.org/W4386066041",
+            "https://openalex.org/W4313250983",
+            "https://openalex.org/W4229046684",
+            "https://openalex.org/W3088596192",
+            "https://openalex.org/W3008091119",
+            "https://openalex.org/W3000098384",
+            "https://openalex.org/W2962973652",
+            "https://openalex.org/W2945487881",
+            "https://openalex.org/W2086478527",
+            "https://openalex.org/W2030712947"
+        ],
+        "grants": [],
+        "concepts": [
+            "https://openalex.org/C41008148",
+            "https://openalex.org/C154945302",
+            "https://openalex.org/C31972630",
+            "https://openalex.org/C82990744",
+            "https://openalex.org/C126042441",
+            "https://openalex.org/C2776330181",
+            "https://openalex.org/C86369673",
+            "https://openalex.org/C2775936607"
+        ],
+        "keywords": [
+            "RGB color model",
+            "Maximization",
+            "Tracking (education)",
+            "Image plane"
+        ],
+        "topics": [
+            "https://openalex.org/T10191",
+            "https://openalex.org/T11211",
+            "https://openalex.org/T11164"
+        ]
+    },
+    {
+        "paper": {
+            "id": "https://openalex.org/W3135204376",
+            "doi": "https://doi.org/10.1109/tits.2021.3059674",
+            "title": "Robust Target Recognition and Tracking of Self-Driving Cars With Radar and Camera Information Fusion Under Severe Weather Conditions",
+            "publicationYear": 2021,
+            "language": "en",
+            "type": "article",
+            "crossrefType": "journal-article",
+            "numberOfCiteation": 225,
+            "FieldWeightedCitationImpact": 15.558,
+            "countsByYear": [
+                {
+                    "year": 2025,
+                    "cited_by_count": 23
+                },
+                {
+                    "year": 2024,
+                    "cited_by_count": 67
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 61
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 51
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 21
+                }
+            ],
+            "pdfUrl": null
+        },
+        "authorship": [
+            {
+                "authorPosition": "first",
+                "author": {
+                    "id": "https://openalex.org/A5100349461",
+                    "institutions": [
+                        "https://openalex.org/I115592961"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Automotive Engineering Research Institute, Jiangsu University, Zhenjiang, China"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5057276700",
+                    "institutions": [
+                        "https://openalex.org/I115592961"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Automotive Engineering Research Institute, Jiangsu University, Zhenjiang, China"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5100771674",
+                    "institutions": [
+                        "https://openalex.org/I115592961"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Jiangsu University Engineering Technology Research Institute, Zhenjiang, China",
+                        "School of Automotive and Traffic Engineering, Jiangsu University, Zhenjiang, China"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5100630554",
+                    "institutions": [
+                        "https://openalex.org/I115592961"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Automotive Engineering Research Institute, Jiangsu University, Zhenjiang, China"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5007825395",
+                    "institutions": [
+                        "https://openalex.org/I126520041"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Department of Automation, University of Science and Technology of China, Hefei, China"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5100725721",
+                    "institutions": [
+                        "https://openalex.org/I8078737"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Department of Automotive Engineering, Clemson University International Center for Automotive Research (CU-ICAR), Greenville, SC, USA"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "last",
+                "author": {
+                    "id": "https://openalex.org/A5100657987",
+                    "institutions": [
+                        "https://openalex.org/I115592961"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Automotive Engineering Research Institute, Jiangsu University, Zhenjiang, China"
+                    ]
+                }
+            }
+        ],
+        "source": {
+            "id": "https://openalex.org/S144771191",
+            "hostOrganizationId": "https://openalex.org/P4310319808",
+            "volume": "23",
+            "issue": "7"
+        },
+        "referencedWorks": [
+            "https://openalex.org/W1513628946",
+            "https://openalex.org/W1536680647",
+            "https://openalex.org/W1575210522",
+            "https://openalex.org/W1686810756",
+            "https://openalex.org/W1849277567",
+            "https://openalex.org/W1954022664",
+            "https://openalex.org/W1973092432",
+            "https://openalex.org/W2011833091",
+            "https://openalex.org/W2065467285",
+            "https://openalex.org/W2109255472",
+            "https://openalex.org/W211285526",
+            "https://openalex.org/W2120010140",
+            "https://openalex.org/W2194775991",
+            "https://openalex.org/W2738562458",
+            "https://openalex.org/W2743685750",
+            "https://openalex.org/W2763008529",
+            "https://openalex.org/W2768662421",
+            "https://openalex.org/W2775797804",
+            "https://openalex.org/W2791920409",
+            "https://openalex.org/W2793067285",
+            "https://openalex.org/W2796096089",
+            "https://openalex.org/W2883855574",
+            "https://openalex.org/W2896358718",
+            "https://openalex.org/W2921271497",
+            "https://openalex.org/W2922426219",
+            "https://openalex.org/W2963446712",
+            "https://openalex.org/W3005626802",
+            "https://openalex.org/W3023113104",
+            "https://openalex.org/W3106250896",
+            "https://openalex.org/W3125464730",
+            "https://openalex.org/W3129176582",
+            "https://openalex.org/W3187867541",
+            "https://openalex.org/W4240139931",
+            "https://openalex.org/W4293584584",
+            "https://openalex.org/W56385144",
+            "https://openalex.org/W639708223"
+        ],
+        "relatedWorks": [
+            "https://openalex.org/W939486154",
+            "https://openalex.org/W4382795578",
+            "https://openalex.org/W3214791684",
+            "https://openalex.org/W2402648945",
+            "https://openalex.org/W2355463328",
+            "https://openalex.org/W2152662039",
+            "https://openalex.org/W2132659060",
+            "https://openalex.org/W2055761197",
+            "https://openalex.org/W2031992971",
+            "https://openalex.org/W1431147547"
+        ],
+        "grants": [
+            {
+                "funder": "https://openalex.org/F4320321001",
+                "awardId": "51875255"
+            },
+            {
+                "funder": "https://openalex.org/F4320321001",
+                "awardId": "U20A20333"
+            },
+            {
+                "funder": "https://openalex.org/F4320321001",
+                "awardId": "52072160"
+            },
+            {
+                "funder": "https://openalex.org/F4320322769",
+                "awardId": "BK20180100"
+            },
+            {
+                "funder": "https://openalex.org/F4320326182",
+                "awardId": "TD-GDZB-022"
+            },
+            {
+                "funder": "https://openalex.org/F4320327777",
+                "awardId": "BE2019010-2"
+            },
+            {
+                "funder": "https://openalex.org/F4320327777",
+                "awardId": "BE2020083-3"
+            },
+            {
+                "funder": "https://openalex.org/F4320335777",
+                "awardId": "2018YFB0105000"
+            }
+        ],
+        "concepts": [
+            "https://openalex.org/C33954974",
+            "https://openalex.org/C554190296",
+            "https://openalex.org/C63479239",
+            "https://openalex.org/C31972630",
+            "https://openalex.org/C1921717",
+            "https://openalex.org/C154945302",
+            "https://openalex.org/C41008148"
+        ],
+        "keywords": [
+            "Sensor Fusion",
+            "Robustness",
+            "Mahalanobis distance"
+        ],
+        "topics": [
+            "https://openalex.org/T12120",
+            "https://openalex.org/T12153",
+            "https://openalex.org/T10711"
+        ]
+    },
+    {
+        "paper": {
+            "id": "https://openalex.org/W4390873371",
+            "doi": "https://doi.org/10.1109/iccv51070.2023.01703",
+            "title": "SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos",
+            "publicationYear": 2023,
+            "language": "en",
+            "type": "article",
+            "crossrefType": "proceedings-article",
+            "numberOfCiteation": 52,
+            "FieldWeightedCitationImpact": 8.989,
+            "countsByYear": [
+                {
+                    "year": 2025,
+                    "cited_by_count": 20
+                },
+                {
+                    "year": 2024,
+                    "cited_by_count": 31
+                }
+            ],
+            "pdfUrl": null
+        },
+        "authorship": [
+            {
+                "authorPosition": "first",
+                "author": {
+                    "id": "https://openalex.org/A5102873317",
+                    "institutions": [
+                        "https://openalex.org/I881766915"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "State Key Laboratory for Novel Software Technology, Nanjing University"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5044601563",
+                    "institutions": [
+                        "https://openalex.org/I881766915"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "State Key Laboratory for Novel Software Technology, Nanjing University"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5101594702",
+                    "institutions": [
+                        "https://openalex.org/I881766915"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "State Key Laboratory for Novel Software Technology, Nanjing University"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5007464615",
+                    "institutions": [
+                        "https://openalex.org/I881766915"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "State Key Laboratory for Novel Software Technology, Nanjing University"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "last",
+                "author": {
+                    "id": "https://openalex.org/A5100436505",
+                    "institutions": [
+                        "https://openalex.org/I4391012619",
+                        "https://openalex.org/I881766915"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Shanghai AI Lab",
+                        "State Key Laboratory for Novel Software Technology, Nanjing University"
+                    ]
+                }
+            }
+        ],
+        "source": {
+            "id": "https://openalex.org/S4363607764",
+            "hostOrganizationId": null,
+            "volume": null,
+            "issue": null
+        },
+        "referencedWorks": [
+            "https://openalex.org/W2194775991",
+            "https://openalex.org/W2222512263",
+            "https://openalex.org/W2565639579",
+            "https://openalex.org/W2954174912",
+            "https://openalex.org/W2963150697",
+            "https://openalex.org/W2963351448",
+            "https://openalex.org/W2968296999",
+            "https://openalex.org/W2969987486",
+            "https://openalex.org/W2982770724",
+            "https://openalex.org/W2990503944",
+            "https://openalex.org/W3035049382",
+            "https://openalex.org/W3035574168",
+            "https://openalex.org/W3094502228",
+            "https://openalex.org/W3096609285",
+            "https://openalex.org/W3102343027",
+            "https://openalex.org/W3109395584",
+            "https://openalex.org/W3122239467",
+            "https://openalex.org/W3138516171",
+            "https://openalex.org/W3167095230",
+            "https://openalex.org/W3172752666",
+            "https://openalex.org/W3173668541",
+            "https://openalex.org/W3215100485",
+            "https://openalex.org/W4212774754",
+            "https://openalex.org/W4214558638",
+            "https://openalex.org/W4214627427",
+            "https://openalex.org/W4221146106",
+            "https://openalex.org/W4224947594",
+            "https://openalex.org/W4225793049",
+            "https://openalex.org/W4226013992",
+            "https://openalex.org/W4226305814",
+            "https://openalex.org/W4289283268",
+            "https://openalex.org/W4296544717",
+            "https://openalex.org/W4303443326",
+            "https://openalex.org/W4309795819",
+            "https://openalex.org/W4310561607",
+            "https://openalex.org/W4312312588",
+            "https://openalex.org/W4312443924",
+            "https://openalex.org/W4312692509",
+            "https://openalex.org/W4312894406",
+            "https://openalex.org/W4378468525",
+            "https://openalex.org/W4382240316",
+            "https://openalex.org/W4382450829",
+            "https://openalex.org/W4382464460",
+            "https://openalex.org/W4382466543",
+            "https://openalex.org/W4386065740",
+            "https://openalex.org/W4386072002",
+            "https://openalex.org/W4386075736",
+            "https://openalex.org/W4386076222",
+            "https://openalex.org/W4390872833",
+            "https://openalex.org/W4390873545",
+            "https://openalex.org/W4390874598",
+            "https://openalex.org/W569478347"
+        ],
+        "relatedWorks": [
+            "https://openalex.org/W3116076068",
+            "https://openalex.org/W2951359407",
+            "https://openalex.org/W2772917594",
+            "https://openalex.org/W2755342338",
+            "https://openalex.org/W2229312674",
+            "https://openalex.org/W2166024367",
+            "https://openalex.org/W2079911747",
+            "https://openalex.org/W2058170566",
+            "https://openalex.org/W2036807459",
+            "https://openalex.org/W1969923398"
+        ],
+        "grants": [
+            {
+                "funder": "https://openalex.org/F4320321001",
+                "awardId": null
+            }
+        ],
+        "concepts": [
+            "https://openalex.org/C31972630",
+            "https://openalex.org/C41008148",
+            "https://openalex.org/C154945302",
+            "https://openalex.org/C2776151529"
+        ],
+        "keywords": [],
+        "topics": [
+            "https://openalex.org/T10036",
+            "https://openalex.org/T11605",
+            "https://openalex.org/T10627"
+        ]
+    },
+    {
+        "paper": {
+            "id": "https://openalex.org/W2119112357",
+            "doi": "https://doi.org/10.1109/iccv.2015.312",
+            "title": "DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving",
+            "publicationYear": 2015,
+            "language": "en",
+            "type": "preprint",
+            "crossrefType": "proceedings-article",
+            "numberOfCiteation": 1678,
+            "FieldWeightedCitationImpact": null,
+            "countsByYear": [
+                {
+                    "year": 2025,
+                    "cited_by_count": 49
+                },
+                {
+                    "year": 2024,
+                    "cited_by_count": 111
+                },
+                {
+                    "year": 2023,
+                    "cited_by_count": 157
+                },
+                {
+                    "year": 2022,
+                    "cited_by_count": 196
+                },
+                {
+                    "year": 2021,
+                    "cited_by_count": 246
+                },
+                {
+                    "year": 2020,
+                    "cited_by_count": 331
+                },
+                {
+                    "year": 2019,
+                    "cited_by_count": 280
+                },
+                {
+                    "year": 2018,
+                    "cited_by_count": 166
+                },
+                {
+                    "year": 2017,
+                    "cited_by_count": 116
+                },
+                {
+                    "year": 2016,
+                    "cited_by_count": 23
+                }
+            ],
+            "pdfUrl": null
+        },
+        "authorship": [
+            {
+                "authorPosition": "first",
+                "author": {
+                    "id": "https://openalex.org/A5036324889",
+                    "institutions": [
+                        "https://openalex.org/I20089843"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Princeton University, Princeton, United States"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5059415607",
+                    "institutions": [
+                        "https://openalex.org/I1299303238"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "National Institutes of Health, Bethesda, United States"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "middle",
+                "author": {
+                    "id": "https://openalex.org/A5108544349",
+                    "institutions": [
+                        "https://openalex.org/I20089843"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Princeton University, Princeton, United States"
+                    ]
+                }
+            },
+            {
+                "authorPosition": "last",
+                "author": {
+                    "id": "https://openalex.org/A5040082544",
+                    "institutions": [
+                        "https://openalex.org/I20089843"
+                    ],
+                    "isCorresponding": false,
+                    "affiliations": [
+                        "Princeton University, Princeton, United States"
+                    ]
+                }
+            }
+        ],
+        "source": {
+            "id": null,
+            "hostOrganizationId": null,
+            "volume": null,
+            "issue": null
+        },
+        "referencedWorks": [
+            "https://openalex.org/W1566135517",
+            "https://openalex.org/W1933657216",
+            "https://openalex.org/W1979690402",
+            "https://openalex.org/W2032621648",
+            "https://openalex.org/W2068730032",
+            "https://openalex.org/W2102605133",
+            "https://openalex.org/W2109521789",
+            "https://openalex.org/W2113221323",
+            "https://openalex.org/W2115579991",
+            "https://openalex.org/W2118545852",
+            "https://openalex.org/W2123277060",
+            "https://openalex.org/W2124817418",
+            "https://openalex.org/W2133233905",
+            "https://openalex.org/W2137097255",
+            "https://openalex.org/W2153635508",
+            "https://openalex.org/W2155893237",
+            "https://openalex.org/W2163605009",
+            "https://openalex.org/W2167224731",
+            "https://openalex.org/W2168356304",
+            "https://openalex.org/W2218433086",
+            "https://openalex.org/W2727840223",
+            "https://openalex.org/W3102168793",
+            "https://openalex.org/W4232280717"
+        ],
+        "relatedWorks": [
+            "https://openalex.org/W4312417841",
+            "https://openalex.org/W4226493464",
+            "https://openalex.org/W3193565141",
+            "https://openalex.org/W3167935049",
+            "https://openalex.org/W3133861977",
+            "https://openalex.org/W3103566983",
+            "https://openalex.org/W3029198973",
+            "https://openalex.org/W2951211570",
+            "https://openalex.org/W1972718289",
+            "https://openalex.org/W1791514435"
+        ],
+        "grants": [],
+        "concepts": [
+            "https://openalex.org/C194995250",
+            "https://openalex.org/C41008148",
+            "https://openalex.org/C81363708",
+            "https://openalex.org/C26760741",
+            "https://openalex.org/C177264268",
+            "https://openalex.org/C154945302",
+            "https://openalex.org/C2776359362"
+        ],
+        "keywords": [
+            "Affordance",
+            "Representation",
+            "Abstraction"
+        ],
+        "topics": [
+            "https://openalex.org/T11099",
+            "https://openalex.org/T10331",
+            "https://openalex.org/T10531"
+        ]
+    }
+]
