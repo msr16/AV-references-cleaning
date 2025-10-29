@@ -1,0 +1,623 @@
+[
+    {
+        "id": "https://openalex.org/fields/18",
+        "name": "Decision Sciences",
+        "description": "branch of applied probability theory",
+        "nameAlternatives": [
+            "decision theory",
+            "theory of choice",
+            "operations research"
+        ],
+        "domainId": "https://openalex.org/domains/2",
+        "subfields": [
+            "https://openalex.org/subfields/1800",
+            "https://openalex.org/subfields/1802",
+            "https://openalex.org/subfields/1803",
+            "https://openalex.org/subfields/1804"
+        ],
+        "worksCount": 2096477,
+        "citedByCount": 29367741
+    },
+    {
+        "id": "https://openalex.org/fields/27",
+        "name": "Medicine",
+        "description": "field of study for diagnosing, treating and preventing disease",
+        "nameAlternatives": [
+            "healthcare sciences"
+        ],
+        "domainId": "https://openalex.org/domains/4",
+        "subfields": [
+            "https://openalex.org/subfields/2702",
+            "https://openalex.org/subfields/2703",
+            "https://openalex.org/subfields/2704",
+            "https://openalex.org/subfields/2705",
+            "https://openalex.org/subfields/2707",
+            "https://openalex.org/subfields/2706",
+            "https://openalex.org/subfields/2708",
+            "https://openalex.org/subfields/2711",
+            "https://openalex.org/subfields/2712",
+            "https://openalex.org/subfields/2713",
+            "https://openalex.org/subfields/2714",
+            "https://openalex.org/subfields/2715",
+            "https://openalex.org/subfields/2716",
+            "https://openalex.org/subfields/2717",
+            "https://openalex.org/subfields/2718",
+            "https://openalex.org/subfields/2720",
+            "https://openalex.org/subfields/2721",
+            "https://openalex.org/subfields/2723",
+            "https://openalex.org/subfields/2725",
+            "https://openalex.org/subfields/2724",
+            "https://openalex.org/subfields/2726",
+            "https://openalex.org/subfields/2727",
+            "https://openalex.org/subfields/2728",
+            "https://openalex.org/subfields/2729",
+            "https://openalex.org/subfields/2730",
+            "https://openalex.org/subfields/2731",
+            "https://openalex.org/subfields/2732",
+            "https://openalex.org/subfields/2733",
+            "https://openalex.org/subfields/2734",
+            "https://openalex.org/subfields/2735",
+            "https://openalex.org/subfields/2736",
+            "https://openalex.org/subfields/2737",
+            "https://openalex.org/subfields/2738",
+            "https://openalex.org/subfields/2739",
+            "https://openalex.org/subfields/2740",
+            "https://openalex.org/subfields/2741",
+            "https://openalex.org/subfields/2742",
+            "https://openalex.org/subfields/2743",
+            "https://openalex.org/subfields/2745",
+            "https://openalex.org/subfields/2746",
+            "https://openalex.org/subfields/2747",
+            "https://openalex.org/subfields/2748"
+        ],
+        "worksCount": 36272606,
+        "citedByCount": 433646577
+    },
+    {
+        "id": "https://openalex.org/fields/31",
+        "name": "Physics and Astronomy",
+        "description": "study of matter and its motion, along with related concepts such as energy and force",
+        "nameAlternatives": [
+            "general physics",
+            "physical science",
+            "astrophysics"
+        ],
+        "domainId": "https://openalex.org/domains/3",
+        "subfields": [
+            "https://openalex.org/subfields/3102",
+            "https://openalex.org/subfields/3103",
+            "https://openalex.org/subfields/3107",
+            "https://openalex.org/subfields/3104",
+            "https://openalex.org/subfields/3105",
+            "https://openalex.org/subfields/3106",
+            "https://openalex.org/subfields/3108",
+            "https://openalex.org/subfields/3109"
+        ],
+        "worksCount": 7186862,
+        "citedByCount": 98776463
+    },
+    {
+        "id": "https://openalex.org/fields/16",
+        "name": "Chemistry",
+        "description": "branch of physical science concerned with the composition, structure and properties of matter",
+        "nameAlternatives": [
+            "chemical sciences"
+        ],
+        "domainId": "https://openalex.org/domains/3",
+        "subfields": [
+            "https://openalex.org/subfields/1602",
+            "https://openalex.org/subfields/1603",
+            "https://openalex.org/subfields/1604",
+            "https://openalex.org/subfields/1605",
+            "https://openalex.org/subfields/1606",
+            "https://openalex.org/subfields/1607"
+        ],
+        "worksCount": 5206967,
+        "citedByCount": 69125028
+    },
+    {
+        "id": "https://openalex.org/fields/22",
+        "name": "Engineering",
+        "description": "practice of using natural science, mathematics, and the engineering design process to solve technical problems",
+        "nameAlternatives": [
+            "engineering sciences"
+        ],
+        "domainId": "https://openalex.org/domains/3",
+        "subfields": [
+            "https://openalex.org/subfields/2202",
+            "https://openalex.org/subfields/2216",
+            "https://openalex.org/subfields/2203",
+            "https://openalex.org/subfields/2204",
+            "https://openalex.org/subfields/2215",
+            "https://openalex.org/subfields/2205",
+            "https://openalex.org/subfields/2206",
+            "https://openalex.org/subfields/2207",
+            "https://openalex.org/subfields/2208",
+            "https://openalex.org/subfields/2200",
+            "https://openalex.org/subfields/2209",
+            "https://openalex.org/subfields/2210",
+            "https://openalex.org/subfields/2211",
+            "https://openalex.org/subfields/2214",
+            "https://openalex.org/subfields/2212",
+            "https://openalex.org/subfields/2213"
+        ],
+        "worksCount": 24885260,
+        "citedByCount": 201862525
+    },
+    {
+        "id": "https://openalex.org/fields/11",
+        "name": "Agricultural and Biological Sciences",
+        "description": "study of plant and animal biology for food, fuel, fiber, and reclamation, including environmental and economic impacts",
+        "nameAlternatives": [
+            "scientific agriculture",
+            "agrobiology"
+        ],
+        "domainId": "https://openalex.org/domains/1",
+        "subfields": [
+            "https://openalex.org/subfields/1102",
+            "https://openalex.org/subfields/1103",
+            "https://openalex.org/subfields/1104",
+            "https://openalex.org/subfields/1105",
+            "https://openalex.org/subfields/1106",
+            "https://openalex.org/subfields/1107",
+            "https://openalex.org/subfields/1100",
+            "https://openalex.org/subfields/1108",
+            "https://openalex.org/subfields/1109",
+            "https://openalex.org/subfields/1110",
+            "https://openalex.org/subfields/1111"
+        ],
+        "worksCount": 10328653,
+        "citedByCount": 88700076
+    },
+    {
+        "id": "https://openalex.org/fields/26",
+        "name": "Mathematics",
+        "description": "area of knowledge that includes the topics of numbers, formulas and related structures, shapes and the spaces in which they are contained, and quantities and their changes",
+        "nameAlternatives": null,
+        "domainId": "https://openalex.org/domains/3",
+        "subfields": [
+            "https://openalex.org/subfields/2602",
+            "https://openalex.org/subfields/2604",
+            "https://openalex.org/subfields/2605",
+            "https://openalex.org/subfields/2607",
+            "https://openalex.org/subfields/2608",
+            "https://openalex.org/subfields/2610",
+            "https://openalex.org/subfields/2611",
+            "https://openalex.org/subfields/2612",
+            "https://openalex.org/subfields/2613",
+            "https://openalex.org/subfields/2614"
+        ],
+        "worksCount": 2975539,
+        "citedByCount": 29062766
+    },
+    {
+        "id": "https://openalex.org/fields/23",
+        "name": "Environmental Science",
+        "description": "interdisciplinary field that studies human interaction with the environment",
+        "nameAlternatives": [
+            "green science",
+            "environmental studies",
+            "environmental and ecological sciences"
+        ],
+        "domainId": "https://openalex.org/domains/3",
+        "subfields": [
+            "https://openalex.org/subfields/2302",
+            "https://openalex.org/subfields/2303",
+            "https://openalex.org/subfields/2304",
+            "https://openalex.org/subfields/2305",
+            "https://openalex.org/subfields/2306",
+            "https://openalex.org/subfields/2307",
+            "https://openalex.org/subfields/2311",
+            "https://openalex.org/subfields/2308",
+            "https://openalex.org/subfields/2309",
+            "https://openalex.org/subfields/2310",
+            "https://openalex.org/subfields/2312"
+        ],
+        "worksCount": 9191866,
+        "citedByCount": 103819012
+    },
+    {
+        "id": "https://openalex.org/fields/36",
+        "name": "Health Professions",
+        "description": "field encompassing a wide range of disciplines focused on health care, treatment, and advice, including public health and occupational therapy",
+        "nameAlternatives": [
+            "health sciences"
+        ],
+        "domainId": "https://openalex.org/domains/4",
+        "subfields": [
+            "https://openalex.org/subfields/3603",
+            "https://openalex.org/subfields/3604",
+            "https://openalex.org/subfields/3600",
+            "https://openalex.org/subfields/3605",
+            "https://openalex.org/subfields/3607",
+            "https://openalex.org/subfields/3608",
+            "https://openalex.org/subfields/3609",
+            "https://openalex.org/subfields/3611",
+            "https://openalex.org/subfields/3612",
+            "https://openalex.org/subfields/3614",
+            "https://openalex.org/subfields/3616"
+        ],
+        "worksCount": 6075190,
+        "citedByCount": 37937400
+    },
+    {
+        "id": "https://openalex.org/fields/15",
+        "name": "Chemical Engineering",
+        "description": "branch of science that applies physical sciences and life sciences together with applied mathematics and economics to produce, transform, transport, and properly use chemicals, materials and energy",
+        "nameAlternatives": [
+            "process engineering",
+            "chemical process engineering"
+        ],
+        "domainId": "https://openalex.org/domains/3",
+        "subfields": [
+            "https://openalex.org/subfields/1502",
+            "https://openalex.org/subfields/1503",
+            "https://openalex.org/subfields/1504",
+            "https://openalex.org/subfields/1506",
+            "https://openalex.org/subfields/1507",
+            "https://openalex.org/subfields/1508"
+        ],
+        "worksCount": 682213,
+        "citedByCount": 9924138
+    },
+    {
+        "id": "https://openalex.org/fields/28",
+        "name": "Neuroscience",
+        "description": "scientific study of the nervous system",
+        "nameAlternatives": [
+            "neurobiology",
+            "cognitive neuroscience"
+        ],
+        "domainId": "https://openalex.org/domains/1",
+        "subfields": [
+            "https://openalex.org/subfields/2802",
+            "https://openalex.org/subfields/2803",
+            "https://openalex.org/subfields/2804",
+            "https://openalex.org/subfields/2805",
+            "https://openalex.org/subfields/2806",
+            "https://openalex.org/subfields/2807",
+            "https://openalex.org/subfields/2808",
+            "https://openalex.org/subfields/2809"
+        ],
+        "worksCount": 3086383,
+        "citedByCount": 72964776
+    },
+    {
+        "id": "https://openalex.org/fields/24",
+        "name": "Immunology and Microbiology",
+        "description": "study of the immune system and microorganisms, including their roles in health and disease",
+        "nameAlternatives": [
+            "allergy and immunology",
+            "microbial sciences"
+        ],
+        "domainId": "https://openalex.org/domains/1",
+        "subfields": [
+            "https://openalex.org/subfields/2402",
+            "https://openalex.org/subfields/2403",
+            "https://openalex.org/subfields/2404",
+            "https://openalex.org/subfields/2405",
+            "https://openalex.org/subfields/2406"
+        ],
+        "worksCount": 2114940,
+        "citedByCount": 48588602
+    },
+    {
+        "id": "https://openalex.org/fields/33",
+        "name": "Social Sciences",
+        "description": "academic disciplines concerned with society and the relationships between individuals in society",
+        "nameAlternatives": [
+            "political sciences",
+            "sociology",
+            "anthropology"
+        ],
+        "domainId": "https://openalex.org/domains/2",
+        "subfields": [
+            "https://openalex.org/subfields/3314",
+            "https://openalex.org/subfields/3302",
+            "https://openalex.org/subfields/3315",
+            "https://openalex.org/subfields/3316",
+            "https://openalex.org/subfields/3317",
+            "https://openalex.org/subfields/3303",
+            "https://openalex.org/subfields/3304",
+            "https://openalex.org/subfields/3318",
+            "https://openalex.org/subfields/3300",
+            "https://openalex.org/subfields/3305",
+            "https://openalex.org/subfields/3306",
+            "https://openalex.org/subfields/3307",
+            "https://openalex.org/subfields/3308",
+            "https://openalex.org/subfields/3309",
+            "https://openalex.org/subfields/3319",
+            "https://openalex.org/subfields/3310",
+            "https://openalex.org/subfields/3320",
+            "https://openalex.org/subfields/3321",
+            "https://openalex.org/subfields/3311",
+            "https://openalex.org/subfields/3312",
+            "https://openalex.org/subfields/3313",
+            "https://openalex.org/subfields/3322"
+        ],
+        "worksCount": 32062906,
+        "citedByCount": 97065020
+    },
+    {
+        "id": "https://openalex.org/fields/21",
+        "name": "Energy",
+        "description": "study of energy in physical systems, its sources, technology, management, and impact on sustainability",
+        "nameAlternatives": [
+            "energy studies",
+            "energy science and technology"
+        ],
+        "domainId": "https://openalex.org/domains/3",
+        "subfields": [
+            "https://openalex.org/subfields/2102",
+            "https://openalex.org/subfields/2103",
+            "https://openalex.org/subfields/2100",
+            "https://openalex.org/subfields/2104",
+            "https://openalex.org/subfields/2105"
+        ],
+        "worksCount": 1326642,
+        "citedByCount": 23641707
+    },
+    {
+        "id": "https://openalex.org/fields/12",
+        "name": "Arts and Humanities",
+        "description": "examination of human culture, including art, literature, philosophy, history, and artifacts",
+        "nameAlternatives": [
+            "humanities"
+        ],
+        "domainId": "https://openalex.org/domains/2",
+        "subfields": [
+            "https://openalex.org/subfields/1204",
+            "https://openalex.org/subfields/1205",
+            "https://openalex.org/subfields/1206",
+            "https://openalex.org/subfields/1200",
+            "https://openalex.org/subfields/1202",
+            "https://openalex.org/subfields/1207",
+            "https://openalex.org/subfields/1203",
+            "https://openalex.org/subfields/1208",
+            "https://openalex.org/subfields/1209",
+            "https://openalex.org/subfields/1210",
+            "https://openalex.org/subfields/1211",
+            "https://openalex.org/subfields/1212",
+            "https://openalex.org/subfields/1213"
+        ],
+        "worksCount": 13485134,
+        "citedByCount": 21136726
+    },
+    {
+        "id": "https://openalex.org/fields/20",
+        "name": "Economics, Econometrics and Finance",
+        "description": "social science that studies the production, distribution, and consumption of goods and services",
+        "nameAlternatives": [
+            "applied economics",
+            "financial economics"
+        ],
+        "domainId": "https://openalex.org/domains/2",
+        "subfields": [
+            "https://openalex.org/subfields/2002",
+            "https://openalex.org/subfields/2003",
+            "https://openalex.org/subfields/2000"
+        ],
+        "worksCount": 5727127,
+        "citedByCount": 35289733
+    },
+    {
+        "id": "https://openalex.org/fields/19",
+        "name": "Earth and Planetary Sciences",
+        "description": "all fields of natural science related to the planet Earth and other planets",
+        "nameAlternatives": [
+            "geosciences",
+            "planetary sciences"
+        ],
+        "domainId": "https://openalex.org/domains/3",
+        "subfields": [
+            "https://openalex.org/subfields/1902",
+            "https://openalex.org/subfields/1904",
+            "https://openalex.org/subfields/1906",
+            "https://openalex.org/subfields/1907",
+            "https://openalex.org/subfields/1908",
+            "https://openalex.org/subfields/1910",
+            "https://openalex.org/subfields/1911",
+            "https://openalex.org/subfields/1912"
+        ],
+        "worksCount": 4334720,
+        "citedByCount": 65830936
+    },
+    {
+        "id": "https://openalex.org/fields/17",
+        "name": "Computer Science",
+        "description": "study of computation",
+        "nameAlternatives": [
+            "CS",
+            "science of computing",
+            "information processing science",
+            "computing sciences",
+            "sciences of computing",
+            "computation science",
+            "computing",
+            "computer studies",
+            "comp sci",
+            "comp. sci",
+            "comp. sci.",
+            "compsci",
+            "informatics"
+        ],
+        "domainId": "https://openalex.org/domains/3",
+        "subfields": [
+            "https://openalex.org/subfields/1702",
+            "https://openalex.org/subfields/1703",
+            "https://openalex.org/subfields/1704",
+            "https://openalex.org/subfields/1705",
+            "https://openalex.org/subfields/1706",
+            "https://openalex.org/subfields/1707",
+            "https://openalex.org/subfields/1708",
+            "https://openalex.org/subfields/1709",
+            "https://openalex.org/subfields/1710",
+            "https://openalex.org/subfields/1711",
+            "https://openalex.org/subfields/1712"
+        ],
+        "worksCount": 12130693,
+        "citedByCount": 93502418
+    },
+    {
+        "id": "https://openalex.org/fields/34",
+        "name": "Veterinary",
+        "description": "branch of medicine that deals with the prevention, management, diagnosis, and treatment of disease, disorder, and injury in non-human animals",
+        "nameAlternatives": [
+            "veterinary science",
+            "veterinary medicine"
+        ],
+        "domainId": "https://openalex.org/domains/4",
+        "subfields": [
+            "https://openalex.org/subfields/3402",
+            "https://openalex.org/subfields/3404"
+        ],
+        "worksCount": 372785,
+        "citedByCount": 4446506
+    },
+    {
+        "id": "https://openalex.org/fields/32",
+        "name": "Psychology",
+        "description": "study of mental functions and behaviours",
+        "nameAlternatives": null,
+        "domainId": "https://openalex.org/domains/2",
+        "subfields": [
+            "https://openalex.org/subfields/3202",
+            "https://openalex.org/subfields/3203",
+            "https://openalex.org/subfields/3204",
+            "https://openalex.org/subfields/3205",
+            "https://openalex.org/subfields/3200",
+            "https://openalex.org/subfields/3206",
+            "https://openalex.org/subfields/3207"
+        ],
+        "worksCount": 5630278,
+        "citedByCount": 62630909
+    },
+    {
+        "id": "https://openalex.org/fields/35",
+        "name": "Dentistry",
+        "description": "branch of medicine dealing with oral health and teeth",
+        "nameAlternatives": [
+            "dental medicine",
+            "oral medicine",
+            "oral health sciences"
+        ],
+        "domainId": "https://openalex.org/domains/4",
+        "subfields": [
+            "https://openalex.org/subfields/3500",
+            "https://openalex.org/subfields/3504",
+            "https://openalex.org/subfields/3505",
+            "https://openalex.org/subfields/3506"
+        ],
+        "worksCount": 787779,
+        "citedByCount": 10990522
+    },
+    {
+        "id": "https://openalex.org/fields/25",
+        "name": "Materials Science",
+        "description": "research, discovery and design of physical materials (especially solids)",
+        "nameAlternatives": [
+            "materials science and engineering",
+            "materials of engineering and construction",
+            "material engineering"
+        ],
+        "domainId": "https://openalex.org/domains/3",
+        "subfields": [
+            "https://openalex.org/subfields/2502",
+            "https://openalex.org/subfields/2503",
+            "https://openalex.org/subfields/2504",
+            "https://openalex.org/subfields/2500",
+            "https://openalex.org/subfields/2505",
+            "https://openalex.org/subfields/2506",
+            "https://openalex.org/subfields/2507",
+            "https://openalex.org/subfields/2508"
+        ],
+        "worksCount": 7401713,
+        "citedByCount": 123368630
+    },
+    {
+        "id": "https://openalex.org/fields/14",
+        "name": "Business, Management and Accounting",
+        "description": "administration of a commercial enterprise",
+        "nameAlternatives": [
+            "business management",
+            "business administration",
+            "corporate studies"
+        ],
+        "domainId": "https://openalex.org/domains/2",
+        "subfields": [
+            "https://openalex.org/subfields/1402",
+            "https://openalex.org/subfields/1403",
+            "https://openalex.org/subfields/1410",
+            "https://openalex.org/subfields/1404",
+            "https://openalex.org/subfields/1405",
+            "https://openalex.org/subfields/1406",
+            "https://openalex.org/subfields/1407",
+            "https://openalex.org/subfields/1408",
+            "https://openalex.org/subfields/1409"
+        ],
+        "worksCount": 6169235,
+        "citedByCount": 37923824
+    },
+    {
+        "id": "https://openalex.org/fields/29",
+        "name": "Nursing",
+        "description": "caring for people who are sick or injured",
+        "nameAlternatives": null,
+        "domainId": "https://openalex.org/domains/4",
+        "subfields": [
+            "https://openalex.org/subfields/2910",
+            "https://openalex.org/subfields/2911",
+            "https://openalex.org/subfields/2916",
+            "https://openalex.org/subfields/2922"
+        ],
+        "worksCount": 992791,
+        "citedByCount": 11986874
+    },
+    {
+        "id": "https://openalex.org/fields/13",
+        "name": "Biochemistry, Genetics and Molecular Biology",
+        "description": "study of chemical processes in living organisms",
+        "nameAlternatives": [
+            "biological chemistry",
+            "genomics",
+            "molecular biology"
+        ],
+        "domainId": "https://openalex.org/domains/1",
+        "subfields": [
+            "https://openalex.org/subfields/1302",
+            "https://openalex.org/subfields/1303",
+            "https://openalex.org/subfields/1304",
+            "https://openalex.org/subfields/1305",
+            "https://openalex.org/subfields/1306",
+            "https://openalex.org/subfields/1307",
+            "https://openalex.org/subfields/1308",
+            "https://openalex.org/subfields/1309",
+            "https://openalex.org/subfields/1310",
+            "https://openalex.org/subfields/1311",
+            "https://openalex.org/subfields/1312",
+            "https://openalex.org/subfields/1313",
+            "https://openalex.org/subfields/1314",
+            "https://openalex.org/subfields/1315"
+        ],
+        "worksCount": 11320047,
+        "citedByCount": 235131635
+    },
+    {
+        "id": "https://openalex.org/fields/30",
+        "name": "Pharmacology, Toxicology and Pharmaceutics",
+        "description": "branch of biology concerning drugs",
+        "nameAlternatives": [
+            "therapeutics",
+            "pharmaceutical sciences"
+        ],
+        "domainId": "https://openalex.org/domains/1",
+        "subfields": [
+            "https://openalex.org/subfields/3002",
+            "https://openalex.org/subfields/3003",
+            "https://openalex.org/subfields/3004",
+            "https://openalex.org/subfields/3005"
+        ],
+        "worksCount": 821944,
+        "citedByCount": 9218081
+    }
+]

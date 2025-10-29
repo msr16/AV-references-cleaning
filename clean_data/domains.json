@@ -1,0 +1,64 @@
+[
+    {
+        "id": "https://openalex.org/domains/3",
+        "name": "Physical Sciences",
+        "description": "branch of natural science that studies non-living systems",
+        "fields": [
+            "https://openalex.org/fields/15",
+            "https://openalex.org/fields/16",
+            "https://openalex.org/fields/17",
+            "https://openalex.org/fields/19",
+            "https://openalex.org/fields/21",
+            "https://openalex.org/fields/22",
+            "https://openalex.org/fields/23",
+            "https://openalex.org/fields/25",
+            "https://openalex.org/fields/26",
+            "https://openalex.org/fields/31"
+        ],
+        "worksCount": 73237366,
+        "citedByCount": 770120022
+    },
+    {
+        "id": "https://openalex.org/domains/2",
+        "name": "Social Sciences",
+        "description": "branch of science focused on societies and the relationships among individuals within those societies",
+        "fields": [
+            "https://openalex.org/fields/12",
+            "https://openalex.org/fields/14",
+            "https://openalex.org/fields/18",
+            "https://openalex.org/fields/20",
+            "https://openalex.org/fields/32",
+            "https://openalex.org/fields/33"
+        ],
+        "worksCount": 64995390,
+        "citedByCount": 273064988
+    },
+    {
+        "id": "https://openalex.org/domains/4",
+        "name": "Health Sciences",
+        "description": "branch of science focused on human health and disease prevention, diagnosis, treatment, and management",
+        "fields": [
+            "https://openalex.org/fields/35",
+            "https://openalex.org/fields/36",
+            "https://openalex.org/fields/27",
+            "https://openalex.org/fields/29",
+            "https://openalex.org/fields/34"
+        ],
+        "worksCount": 43957129,
+        "citedByCount": 480875956
+    },
+    {
+        "id": "https://openalex.org/domains/1",
+        "name": "Life Sciences",
+        "description": "branch of science that involve the scientific study of life – such as microorganisms, plants, and animals including human beings",
+        "fields": [
+            "https://openalex.org/fields/11",
+            "https://openalex.org/fields/13",
+            "https://openalex.org/fields/24",
+            "https://openalex.org/fields/28",
+            "https://openalex.org/fields/30"
+        ],
+        "worksCount": 27536918,
+        "citedByCount": 445784583
+    }
+]
