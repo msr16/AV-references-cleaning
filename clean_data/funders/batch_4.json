@@ -1,0 +1,432 @@
+[
+    {
+        "id": "https://openalex.org/F4320333688",
+        "name": "National Outstanding Youth Science Fund Project of National Natural Science Foundation of China",
+        "ror": null,
+        "doi": "https://doi.org/10.13039/100014717",
+        "countryCode": "CN",
+        "description": null,
+        "grantsCount": 6260,
+        "worksCount": 7310,
+        "citedByCount": 139452,
+        "twoYearMeanCitedness": 6.6162506118453255,
+        "hIndex": 126,
+        "iTenIndex": 3285,
+        "countsByYear": [
+            {
+                "year": 2025,
+                "worksCount": 1003,
+                "citedByCount": 32805
+            },
+            {
+                "year": 2024,
+                "worksCount": 1653,
+                "citedByCount": 34442
+            },
+            {
+                "year": 2023,
+                "worksCount": 1034,
+                "citedByCount": 26046
+            },
+            {
+                "year": 2022,
+                "worksCount": 1009,
+                "citedByCount": 21070
+            },
+            {
+                "year": 2021,
+                "worksCount": 753,
+                "citedByCount": 14304
+            },
+            {
+                "year": 2020,
+                "worksCount": 1013,
+                "citedByCount": 7222
+            },
+            {
+                "year": 2019,
+                "worksCount": 594,
+                "citedByCount": 1518
+            },
+            {
+                "year": 2018,
+                "worksCount": 71,
+                "citedByCount": 931
+            },
+            {
+                "year": 2017,
+                "worksCount": 56,
+                "citedByCount": 614
+            },
+            {
+                "year": 2016,
+                "worksCount": 59,
+                "citedByCount": 312
+            },
+            {
+                "year": 2015,
+                "worksCount": 31,
+                "citedByCount": 143
+            },
+            {
+                "year": 2014,
+                "worksCount": 25,
+                "citedByCount": 67
+            },
+            {
+                "year": 2013,
+                "worksCount": 9,
+                "citedByCount": 21
+            },
+            {
+                "year": 2012,
+                "worksCount": 3,
+                "citedByCount": 5
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/F4320306555",
+        "name": "Wisconsin Alumni Research Foundation",
+        "ror": "https://ror.org/00hwxbz16",
+        "doi": "https://doi.org/10.13039/100001395",
+        "countryCode": "US",
+        "description": "technology transfer office of the University of Wisconsin–Madison, United States",
+        "grantsCount": 219,
+        "worksCount": 1745,
+        "citedByCount": 50301,
+        "twoYearMeanCitedness": 5.431137724550898,
+        "hIndex": 100,
+        "iTenIndex": 990,
+        "countsByYear": [
+            {
+                "year": 2025,
+                "worksCount": 140,
+                "citedByCount": 5459
+            },
+            {
+                "year": 2024,
+                "worksCount": 202,
+                "citedByCount": 6891
+            },
+            {
+                "year": 2023,
+                "worksCount": 169,
+                "citedByCount": 6605
+            },
+            {
+                "year": 2022,
+                "worksCount": 165,
+                "citedByCount": 5607
+            },
+            {
+                "year": 2021,
+                "worksCount": 155,
+                "citedByCount": 5475
+            },
+            {
+                "year": 2020,
+                "worksCount": 135,
+                "citedByCount": 3987
+            },
+            {
+                "year": 2019,
+                "worksCount": 146,
+                "citedByCount": 2979
+            },
+            {
+                "year": 2018,
+                "worksCount": 122,
+                "citedByCount": 2099
+            },
+            {
+                "year": 2017,
+                "worksCount": 100,
+                "citedByCount": 1745
+            },
+            {
+                "year": 2016,
+                "worksCount": 89,
+                "citedByCount": 1262
+            },
+            {
+                "year": 2015,
+                "worksCount": 61,
+                "citedByCount": 762
+            },
+            {
+                "year": 2014,
+                "worksCount": 30,
+                "citedByCount": 350
+            },
+            {
+                "year": 2013,
+                "worksCount": 8,
+                "citedByCount": 441
+            },
+            {
+                "year": 2012,
+                "worksCount": 9,
+                "citedByCount": 252
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/F4320320300",
+        "name": "European Commission",
+        "ror": "https://ror.org/00k4n6c32",
+        "doi": "https://doi.org/10.13039/501100000780",
+        "countryCode": null,
+        "description": "executive branch of the European Union",
+        "grantsCount": 39554,
+        "worksCount": 96678,
+        "citedByCount": 3096686,
+        "twoYearMeanCitedness": 5.499871524744334,
+        "hIndex": 450,
+        "iTenIndex": 53110,
+        "countsByYear": [
+            {
+                "year": 2025,
+                "worksCount": 9089,
+                "citedByCount": 361542
+            },
+            {
+                "year": 2024,
+                "worksCount": 12162,
+                "citedByCount": 458433
+            },
+            {
+                "year": 2023,
+                "worksCount": 10395,
+                "citedByCount": 427916
+            },
+            {
+                "year": 2022,
+                "worksCount": 9068,
+                "citedByCount": 384686
+            },
+            {
+                "year": 2021,
+                "worksCount": 9106,
+                "citedByCount": 358343
+            },
+            {
+                "year": 2020,
+                "worksCount": 7934,
+                "citedByCount": 275680
+            },
+            {
+                "year": 2019,
+                "worksCount": 6106,
+                "citedByCount": 207402
+            },
+            {
+                "year": 2018,
+                "worksCount": 4846,
+                "citedByCount": 167457
+            },
+            {
+                "year": 2017,
+                "worksCount": 5052,
+                "citedByCount": 128997
+            },
+            {
+                "year": 2016,
+                "worksCount": 5827,
+                "citedByCount": 94134
+            },
+            {
+                "year": 2015,
+                "worksCount": 5065,
+                "citedByCount": 64029
+            },
+            {
+                "year": 2014,
+                "worksCount": 4121,
+                "citedByCount": 41150
+            },
+            {
+                "year": 2013,
+                "worksCount": 1853,
+                "citedByCount": 31109
+            },
+            {
+                "year": 2012,
+                "worksCount": 1589,
+                "citedByCount": 22662
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/F4320309541",
+        "name": "University of Tennessee",
+        "ror": "https://ror.org/00xzqjh13",
+        "doi": "https://doi.org/10.13039/100007135",
+        "countryCode": "US",
+        "description": "public university system in the U.S. state of Tennessee",
+        "grantsCount": 166,
+        "worksCount": 1163,
+        "citedByCount": 43309,
+        "twoYearMeanCitedness": 5.849740932642487,
+        "hIndex": 94,
+        "iTenIndex": 746,
+        "countsByYear": [
+            {
+                "year": 2025,
+                "worksCount": 55,
+                "citedByCount": 4511
+            },
+            {
+                "year": 2024,
+                "worksCount": 72,
+                "citedByCount": 5871
+            },
+            {
+                "year": 2023,
+                "worksCount": 104,
+                "citedByCount": 5489
+            },
+            {
+                "year": 2022,
+                "worksCount": 89,
+                "citedByCount": 5272
+            },
+            {
+                "year": 2021,
+                "worksCount": 99,
+                "citedByCount": 5044
+            },
+            {
+                "year": 2020,
+                "worksCount": 99,
+                "citedByCount": 4358
+            },
+            {
+                "year": 2019,
+                "worksCount": 98,
+                "citedByCount": 3483
+            },
+            {
+                "year": 2018,
+                "worksCount": 127,
+                "citedByCount": 2713
+            },
+            {
+                "year": 2017,
+                "worksCount": 103,
+                "citedByCount": 1921
+            },
+            {
+                "year": 2016,
+                "worksCount": 118,
+                "citedByCount": 1166
+            },
+            {
+                "year": 2015,
+                "worksCount": 80,
+                "citedByCount": 1008
+            },
+            {
+                "year": 2014,
+                "worksCount": 37,
+                "citedByCount": 503
+            },
+            {
+                "year": 2013,
+                "worksCount": 16,
+                "citedByCount": 330
+            },
+            {
+                "year": 2012,
+                "worksCount": 10,
+                "citedByCount": 301
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/F4320332708",
+        "name": "Cornell Center for Materials Research",
+        "ror": null,
+        "doi": "https://doi.org/10.13039/100008585",
+        "countryCode": "US",
+        "description": null,
+        "grantsCount": 30,
+        "worksCount": 241,
+        "citedByCount": 10398,
+        "twoYearMeanCitedness": 5.355555555555555,
+        "hIndex": 50,
+        "iTenIndex": 161,
+        "countsByYear": [
+            {
+                "year": 2025,
+                "worksCount": 13,
+                "citedByCount": 1227
+            },
+            {
+                "year": 2024,
+                "worksCount": 27,
+                "citedByCount": 1497
+            },
+            {
+                "year": 2023,
+                "worksCount": 22,
+                "citedByCount": 1588
+            },
+            {
+                "year": 2022,
+                "worksCount": 23,
+                "citedByCount": 1498
+            },
+            {
+                "year": 2021,
+                "worksCount": 36,
+                "citedByCount": 1465
+            },
+            {
+                "year": 2020,
+                "worksCount": 27,
+                "citedByCount": 1110
+            },
+            {
+                "year": 2019,
+                "worksCount": 30,
+                "citedByCount": 742
+            },
+            {
+                "year": 2018,
+                "worksCount": 15,
+                "citedByCount": 529
+            },
+            {
+                "year": 2017,
+                "worksCount": 19,
+                "citedByCount": 357
+            },
+            {
+                "year": 2016,
+                "worksCount": 15,
+                "citedByCount": 242
+            },
+            {
+                "year": 2015,
+                "worksCount": 9,
+                "citedByCount": 68
+            },
+            {
+                "year": 2014,
+                "worksCount": 2,
+                "citedByCount": 16
+            },
+            {
+                "year": 2013,
+                "worksCount": 0,
+                "citedByCount": 18
+            },
+            {
+                "year": 2012,
+                "worksCount": 0,
+                "citedByCount": 12
+            }
+        ]
+    }
+]
