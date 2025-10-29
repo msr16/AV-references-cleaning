@@ -1,0 +1,6851 @@
+[
+    {
+        "id": "https://openalex.org/S131371711",
+        "name": "Annual Review of Neuroscience",
+        "hostOrganizationId": "https://openalex.org/P4310320373",
+        "hostOrganizationName": "Annual Reviews",
+        "worksCount": 1295,
+        "citedByCount": 493744,
+        "twoYearMeanCitedness": 18.875,
+        "hIndex": 370,
+        "iTenIndex": 1135,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": null,
+        "countryCode": "US",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10581",
+                "count": 271
+            },
+            {
+                "id": "https://openalex.org/T10077",
+                "count": 263
+            },
+            {
+                "id": "https://openalex.org/T10448",
+                "count": 104
+            },
+            {
+                "id": "https://openalex.org/T10423",
+                "count": 102
+            },
+            {
+                "id": "https://openalex.org/T12236",
+                "count": 97
+            },
+            {
+                "id": "https://openalex.org/T10427",
+                "count": 96
+            },
+            {
+                "id": "https://openalex.org/T10608",
+                "count": 87
+            },
+            {
+                "id": "https://openalex.org/T10241",
+                "count": 85
+            },
+            {
+                "id": "https://openalex.org/T12061",
+                "count": 67
+            },
+            {
+                "id": "https://openalex.org/T10691",
+                "count": 66
+            },
+            {
+                "id": "https://openalex.org/T11178",
+                "count": 63
+            },
+            {
+                "id": "https://openalex.org/T10301",
+                "count": 53
+            },
+            {
+                "id": "https://openalex.org/T10493",
+                "count": 47
+            },
+            {
+                "id": "https://openalex.org/T10042",
+                "count": 46
+            },
+            {
+                "id": "https://openalex.org/T11541",
+                "count": 44
+            },
+            {
+                "id": "https://openalex.org/T11601",
+                "count": 43
+            },
+            {
+                "id": "https://openalex.org/T10483",
+                "count": 42
+            },
+            {
+                "id": "https://openalex.org/T10056",
+                "count": 42
+            },
+            {
+                "id": "https://openalex.org/T10971",
+                "count": 41
+            },
+            {
+                "id": "https://openalex.org/T10814",
+                "count": 38
+            },
+            {
+                "id": "https://openalex.org/T11266",
+                "count": 32
+            },
+            {
+                "id": "https://openalex.org/T10342",
+                "count": 30
+            },
+            {
+                "id": "https://openalex.org/T10617",
+                "count": 28
+            },
+            {
+                "id": "https://openalex.org/T11772",
+                "count": 28
+            },
+            {
+                "id": "https://openalex.org/T10542",
+                "count": 28
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 13154,
+                "worksCount": 25
+            },
+            {
+                "year": 2024,
+                "citedByCount": 20351,
+                "worksCount": 19
+            },
+            {
+                "year": 2023,
+                "citedByCount": 20445,
+                "worksCount": 21
+            },
+            {
+                "year": 2022,
+                "citedByCount": 20665,
+                "worksCount": 27
+            },
+            {
+                "year": 2021,
+                "citedByCount": 22226,
+                "worksCount": 26
+            },
+            {
+                "year": 2020,
+                "citedByCount": 22246,
+                "worksCount": 26
+            },
+            {
+                "year": 2019,
+                "citedByCount": 19658,
+                "worksCount": 27
+            },
+            {
+                "year": 2018,
+                "citedByCount": 19456,
+                "worksCount": 29
+            },
+            {
+                "year": 2017,
+                "citedByCount": 18700,
+                "worksCount": 29
+            },
+            {
+                "year": 2016,
+                "citedByCount": 17983,
+                "worksCount": 20
+            },
+            {
+                "year": 2015,
+                "citedByCount": 18926,
+                "worksCount": 22
+            },
+            {
+                "year": 2014,
+                "citedByCount": 19368,
+                "worksCount": 26
+            },
+            {
+                "year": 2013,
+                "citedByCount": 19177,
+                "worksCount": 25
+            },
+            {
+                "year": 2012,
+                "citedByCount": 18520,
+                "worksCount": 28
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4210223994",
+        "name": "Mechanical engineering series",
+        "hostOrganizationId": "https://openalex.org/P4310319965",
+        "hostOrganizationName": "Springer Nature",
+        "worksCount": 1252,
+        "citedByCount": 28045,
+        "twoYearMeanCitedness": 0.17829457364341086,
+        "hIndex": 63,
+        "iTenIndex": 155,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": false,
+        "isCore": true,
+        "ArticleProcessingCharge": null,
+        "countryCode": "US",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T11394",
+                "count": 99
+            },
+            {
+                "id": "https://openalex.org/T10117",
+                "count": 65
+            },
+            {
+                "id": "https://openalex.org/T10571",
+                "count": 60
+            },
+            {
+                "id": "https://openalex.org/T12907",
+                "count": 58
+            },
+            {
+                "id": "https://openalex.org/T10553",
+                "count": 53
+            },
+            {
+                "id": "https://openalex.org/T10998",
+                "count": 51
+            },
+            {
+                "id": "https://openalex.org/T10377",
+                "count": 50
+            },
+            {
+                "id": "https://openalex.org/T10700",
+                "count": 46
+            },
+            {
+                "id": "https://openalex.org/T11138",
+                "count": 38
+            },
+            {
+                "id": "https://openalex.org/T10850",
+                "count": 38
+            },
+            {
+                "id": "https://openalex.org/T11870",
+                "count": 38
+            },
+            {
+                "id": "https://openalex.org/T10478",
+                "count": 37
+            },
+            {
+                "id": "https://openalex.org/T10360",
+                "count": 32
+            },
+            {
+                "id": "https://openalex.org/T13752",
+                "count": 32
+            },
+            {
+                "id": "https://openalex.org/T11520",
+                "count": 31
+            },
+            {
+                "id": "https://openalex.org/T11799",
+                "count": 30
+            },
+            {
+                "id": "https://openalex.org/T12206",
+                "count": 29
+            },
+            {
+                "id": "https://openalex.org/T10805",
+                "count": 29
+            },
+            {
+                "id": "https://openalex.org/T11201",
+                "count": 29
+            },
+            {
+                "id": "https://openalex.org/T10534",
+                "count": 27
+            },
+            {
+                "id": "https://openalex.org/T11382",
+                "count": 27
+            },
+            {
+                "id": "https://openalex.org/T10396",
+                "count": 26
+            },
+            {
+                "id": "https://openalex.org/T12350",
+                "count": 26
+            },
+            {
+                "id": "https://openalex.org/T10221",
+                "count": 25
+            },
+            {
+                "id": "https://openalex.org/T12897",
+                "count": 25
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 879,
+                "worksCount": 38
+            },
+            {
+                "year": 2024,
+                "citedByCount": 1337,
+                "worksCount": 31
+            },
+            {
+                "year": 2023,
+                "citedByCount": 1520,
+                "worksCount": 36
+            },
+            {
+                "year": 2022,
+                "citedByCount": 1464,
+                "worksCount": 93
+            },
+            {
+                "year": 2021,
+                "citedByCount": 1717,
+                "worksCount": 53
+            },
+            {
+                "year": 2020,
+                "citedByCount": 1642,
+                "worksCount": 47
+            },
+            {
+                "year": 2019,
+                "citedByCount": 1565,
+                "worksCount": 104
+            },
+            {
+                "year": 2018,
+                "citedByCount": 1575,
+                "worksCount": 48
+            },
+            {
+                "year": 2017,
+                "citedByCount": 1488,
+                "worksCount": 52
+            },
+            {
+                "year": 2016,
+                "citedByCount": 1384,
+                "worksCount": 6
+            },
+            {
+                "year": 2015,
+                "citedByCount": 1315,
+                "worksCount": 4
+            },
+            {
+                "year": 2014,
+                "citedByCount": 1290,
+                "worksCount": 43
+            },
+            {
+                "year": 2013,
+                "citedByCount": 1215,
+                "worksCount": 32
+            },
+            {
+                "year": 2012,
+                "citedByCount": 1114,
+                "worksCount": 14
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S126824455",
+        "name": "IEEE Transactions on Consumer Electronics",
+        "hostOrganizationId": "https://openalex.org/P4310319808",
+        "hostOrganizationName": "Institute of Electrical and Electronics Engineers",
+        "worksCount": 7578,
+        "citedByCount": 130497,
+        "twoYearMeanCitedness": 4.132505175983437,
+        "hIndex": 128,
+        "iTenIndex": 2805,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": null,
+        "countryCode": "US",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10741",
+                "count": 1081
+            },
+            {
+                "id": "https://openalex.org/T10901",
+                "count": 989
+            },
+            {
+                "id": "https://openalex.org/T12720",
+                "count": 750
+            },
+            {
+                "id": "https://openalex.org/T10531",
+                "count": 717
+            },
+            {
+                "id": "https://openalex.org/T11165",
+                "count": 485
+            },
+            {
+                "id": "https://openalex.org/T10125",
+                "count": 478
+            },
+            {
+                "id": "https://openalex.org/T11034",
+                "count": 374
+            },
+            {
+                "id": "https://openalex.org/T11105",
+                "count": 365
+            },
+            {
+                "id": "https://openalex.org/T10688",
+                "count": 364
+            },
+            {
+                "id": "https://openalex.org/T11019",
+                "count": 327
+            },
+            {
+                "id": "https://openalex.org/T10860",
+                "count": 307
+            },
+            {
+                "id": "https://openalex.org/T10575",
+                "count": 304
+            },
+            {
+                "id": "https://openalex.org/T11181",
+                "count": 302
+            },
+            {
+                "id": "https://openalex.org/T13905",
+                "count": 293
+            },
+            {
+                "id": "https://openalex.org/T11417",
+                "count": 285
+            },
+            {
+                "id": "https://openalex.org/T10273",
+                "count": 275
+            },
+            {
+                "id": "https://openalex.org/T11233",
+                "count": 273
+            },
+            {
+                "id": "https://openalex.org/T11429",
+                "count": 262
+            },
+            {
+                "id": "https://openalex.org/T11478",
+                "count": 257
+            },
+            {
+                "id": "https://openalex.org/T12146",
+                "count": 235
+            },
+            {
+                "id": "https://openalex.org/T12222",
+                "count": 228
+            },
+            {
+                "id": "https://openalex.org/T11439",
+                "count": 221
+            },
+            {
+                "id": "https://openalex.org/T11666",
+                "count": 214
+            },
+            {
+                "id": "https://openalex.org/T11873",
+                "count": 201
+            },
+            {
+                "id": "https://openalex.org/T11408",
+                "count": 198
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 2014,
+                "worksCount": 789
+            },
+            {
+                "year": 2024,
+                "citedByCount": 4549,
+                "worksCount": 709
+            },
+            {
+                "year": 2023,
+                "citedByCount": 5981,
+                "worksCount": 407
+            },
+            {
+                "year": 2022,
+                "citedByCount": 5762,
+                "worksCount": 76
+            },
+            {
+                "year": 2021,
+                "citedByCount": 6052,
+                "worksCount": 60
+            },
+            {
+                "year": 2020,
+                "citedByCount": 6088,
+                "worksCount": 52
+            },
+            {
+                "year": 2019,
+                "citedByCount": 6159,
+                "worksCount": 74
+            },
+            {
+                "year": 2018,
+                "citedByCount": 6356,
+                "worksCount": 89
+            },
+            {
+                "year": 2017,
+                "citedByCount": 6322,
+                "worksCount": 83
+            },
+            {
+                "year": 2016,
+                "citedByCount": 6721,
+                "worksCount": 85
+            },
+            {
+                "year": 2015,
+                "citedByCount": 7631,
+                "worksCount": 95
+            },
+            {
+                "year": 2014,
+                "citedByCount": 7970,
+                "worksCount": 121
+            },
+            {
+                "year": 2013,
+                "citedByCount": 7856,
+                "worksCount": 145
+            },
+            {
+                "year": 2012,
+                "citedByCount": 7148,
+                "worksCount": 223
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S2486636169",
+        "name": "Vietnam Journal of Computer Science",
+        "hostOrganizationId": "https://openalex.org/P4310319815",
+        "hostOrganizationName": "World Scientific",
+        "worksCount": 242,
+        "citedByCount": 2596,
+        "twoYearMeanCitedness": 1.7222222222222223,
+        "hIndex": 24,
+        "iTenIndex": 70,
+        "isOpenAccess": true,
+        "isInDoaj": true,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 0,
+                "currency": "USD"
+            }
+        ],
+        "countryCode": "DE",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10538",
+                "count": 21
+            },
+            {
+                "id": "https://openalex.org/T10181",
+                "count": 20
+            },
+            {
+                "id": "https://openalex.org/T10064",
+                "count": 18
+            },
+            {
+                "id": "https://openalex.org/T10028",
+                "count": 18
+            },
+            {
+                "id": "https://openalex.org/T10215",
+                "count": 16
+            },
+            {
+                "id": "https://openalex.org/T11063",
+                "count": 15
+            },
+            {
+                "id": "https://openalex.org/T11106",
+                "count": 14
+            },
+            {
+                "id": "https://openalex.org/T10101",
+                "count": 13
+            },
+            {
+                "id": "https://openalex.org/T10203",
+                "count": 12
+            },
+            {
+                "id": "https://openalex.org/T10679",
+                "count": 12
+            },
+            {
+                "id": "https://openalex.org/T10317",
+                "count": 12
+            },
+            {
+                "id": "https://openalex.org/T13083",
+                "count": 12
+            },
+            {
+                "id": "https://openalex.org/T10664",
+                "count": 11
+            },
+            {
+                "id": "https://openalex.org/T11512",
+                "count": 11
+            },
+            {
+                "id": "https://openalex.org/T10400",
+                "count": 9
+            },
+            {
+                "id": "https://openalex.org/T11241",
+                "count": 9
+            },
+            {
+                "id": "https://openalex.org/T12357",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T12423",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T12592",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T10100",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T10616",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T11309",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T11975",
+                "count": 7
+            },
+            {
+                "id": "https://openalex.org/T10057",
+                "count": 7
+            },
+            {
+                "id": "https://openalex.org/T12016",
+                "count": 7
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 159,
+                "worksCount": 35
+            },
+            {
+                "year": 2024,
+                "citedByCount": 266,
+                "worksCount": 33
+            },
+            {
+                "year": 2023,
+                "citedByCount": 371,
+                "worksCount": 27
+            },
+            {
+                "year": 2022,
+                "citedByCount": 333,
+                "worksCount": 27
+            },
+            {
+                "year": 2021,
+                "citedByCount": 329,
+                "worksCount": 16
+            },
+            {
+                "year": 2020,
+                "citedByCount": 263,
+                "worksCount": 46
+            },
+            {
+                "year": 2019,
+                "citedByCount": 242,
+                "worksCount": 24
+            },
+            {
+                "year": 2018,
+                "citedByCount": 182,
+                "worksCount": 26
+            },
+            {
+                "year": 2017,
+                "citedByCount": 165,
+                "worksCount": 13
+            },
+            {
+                "year": 2016,
+                "citedByCount": 155,
+                "worksCount": 36
+            },
+            {
+                "year": 2015,
+                "citedByCount": 46,
+                "worksCount": 17
+            },
+            {
+                "year": 2014,
+                "citedByCount": 67,
+                "worksCount": 27
+            },
+            {
+                "year": 2013,
+                "citedByCount": 5,
+                "worksCount": 9
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S138959710",
+        "name": "Computer Methods and Programs in Biomedicine",
+        "hostOrganizationId": "https://openalex.org/P4310320990",
+        "hostOrganizationName": "Elsevier BV",
+        "worksCount": 6892,
+        "citedByCount": 220251,
+        "twoYearMeanCitedness": 5.773913043478261,
+        "hIndex": 171,
+        "iTenIndex": 4210,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 2880,
+                "currency": "USD"
+            },
+            {
+                "price": 2630,
+                "currency": "EUR"
+            },
+            {
+                "price": 2310,
+                "currency": "GBP"
+            },
+            {
+                "price": 323600,
+                "currency": "JPY"
+            }
+        ],
+        "countryCode": "NL",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10862",
+                "count": 565
+            },
+            {
+                "id": "https://openalex.org/T12422",
+                "count": 503
+            },
+            {
+                "id": "https://openalex.org/T10429",
+                "count": 474
+            },
+            {
+                "id": "https://openalex.org/T10052",
+                "count": 448
+            },
+            {
+                "id": "https://openalex.org/T11021",
+                "count": 349
+            },
+            {
+                "id": "https://openalex.org/T10522",
+                "count": 318
+            },
+            {
+                "id": "https://openalex.org/T11196",
+                "count": 252
+            },
+            {
+                "id": "https://openalex.org/T11438",
+                "count": 235
+            },
+            {
+                "id": "https://openalex.org/T10745",
+                "count": 219
+            },
+            {
+                "id": "https://openalex.org/T10350",
+                "count": 214
+            },
+            {
+                "id": "https://openalex.org/T10378",
+                "count": 201
+            },
+            {
+                "id": "https://openalex.org/T11235",
+                "count": 193
+            },
+            {
+                "id": "https://openalex.org/T12386",
+                "count": 185
+            },
+            {
+                "id": "https://openalex.org/T11710",
+                "count": 183
+            },
+            {
+                "id": "https://openalex.org/T12874",
+                "count": 183
+            },
+            {
+                "id": "https://openalex.org/T10560",
+                "count": 181
+            },
+            {
+                "id": "https://openalex.org/T11775",
+                "count": 163
+            },
+            {
+                "id": "https://openalex.org/T12859",
+                "count": 162
+            },
+            {
+                "id": "https://openalex.org/T10243",
+                "count": 162
+            },
+            {
+                "id": "https://openalex.org/T13702",
+                "count": 158
+            },
+            {
+                "id": "https://openalex.org/T14510",
+                "count": 158
+            },
+            {
+                "id": "https://openalex.org/T11396",
+                "count": 155
+            },
+            {
+                "id": "https://openalex.org/T12702",
+                "count": 152
+            },
+            {
+                "id": "https://openalex.org/T10241",
+                "count": 143
+            },
+            {
+                "id": "https://openalex.org/T11447",
+                "count": 142
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 16036,
+                "worksCount": 460
+            },
+            {
+                "year": 2024,
+                "citedByCount": 24433,
+                "worksCount": 455
+            },
+            {
+                "year": 2023,
+                "citedByCount": 26900,
+                "worksCount": 545
+            },
+            {
+                "year": 2022,
+                "citedByCount": 24615,
+                "worksCount": 605
+            },
+            {
+                "year": 2021,
+                "citedByCount": 22154,
+                "worksCount": 567
+            },
+            {
+                "year": 2020,
+                "citedByCount": 16975,
+                "worksCount": 510
+            },
+            {
+                "year": 2019,
+                "citedByCount": 12559,
+                "worksCount": 440
+            },
+            {
+                "year": 2018,
+                "citedByCount": 9952,
+                "worksCount": 258
+            },
+            {
+                "year": 2017,
+                "citedByCount": 8356,
+                "worksCount": 292
+            },
+            {
+                "year": 2016,
+                "citedByCount": 6859,
+                "worksCount": 316
+            },
+            {
+                "year": 2015,
+                "citedByCount": 6410,
+                "worksCount": 171
+            },
+            {
+                "year": 2014,
+                "citedByCount": 6362,
+                "worksCount": 181
+            },
+            {
+                "year": 2013,
+                "citedByCount": 5220,
+                "worksCount": 248
+            },
+            {
+                "year": 2012,
+                "citedByCount": 4387,
+                "worksCount": 178
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4210201254",
+        "name": "IEEE Internet of Things Magazine",
+        "hostOrganizationId": "https://openalex.org/P4310319808",
+        "hostOrganizationName": "Institute of Electrical and Electronics Engineers",
+        "worksCount": 566,
+        "citedByCount": 5465,
+        "twoYearMeanCitedness": 2.47536231884058,
+        "hIndex": 37,
+        "iTenIndex": 171,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": null,
+        "countryCode": "US",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10273",
+                "count": 208
+            },
+            {
+                "id": "https://openalex.org/T10270",
+                "count": 89
+            },
+            {
+                "id": "https://openalex.org/T11133",
+                "count": 62
+            },
+            {
+                "id": "https://openalex.org/T10764",
+                "count": 57
+            },
+            {
+                "id": "https://openalex.org/T11458",
+                "count": 52
+            },
+            {
+                "id": "https://openalex.org/T12079",
+                "count": 47
+            },
+            {
+                "id": "https://openalex.org/T11392",
+                "count": 44
+            },
+            {
+                "id": "https://openalex.org/T10761",
+                "count": 39
+            },
+            {
+                "id": "https://openalex.org/T10400",
+                "count": 38
+            },
+            {
+                "id": "https://openalex.org/T12042",
+                "count": 33
+            },
+            {
+                "id": "https://openalex.org/T10148",
+                "count": 27
+            },
+            {
+                "id": "https://openalex.org/T10080",
+                "count": 23
+            },
+            {
+                "id": "https://openalex.org/T11241",
+                "count": 22
+            },
+            {
+                "id": "https://openalex.org/T11891",
+                "count": 22
+            },
+            {
+                "id": "https://openalex.org/T11512",
+                "count": 21
+            },
+            {
+                "id": "https://openalex.org/T11896",
+                "count": 21
+            },
+            {
+                "id": "https://openalex.org/T13553",
+                "count": 21
+            },
+            {
+                "id": "https://openalex.org/T11932",
+                "count": 20
+            },
+            {
+                "id": "https://openalex.org/T10326",
+                "count": 20
+            },
+            {
+                "id": "https://openalex.org/T11192",
+                "count": 20
+            },
+            {
+                "id": "https://openalex.org/T12035",
+                "count": 20
+            },
+            {
+                "id": "https://openalex.org/T10763",
+                "count": 20
+            },
+            {
+                "id": "https://openalex.org/T11479",
+                "count": 19
+            },
+            {
+                "id": "https://openalex.org/T10917",
+                "count": 19
+            },
+            {
+                "id": "https://openalex.org/T10444",
+                "count": 16
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 664,
+                "worksCount": 154
+            },
+            {
+                "year": 2024,
+                "citedByCount": 1388,
+                "worksCount": 236
+            },
+            {
+                "year": 2023,
+                "citedByCount": 1480,
+                "worksCount": 162
+            },
+            {
+                "year": 2022,
+                "citedByCount": 1000,
+                "worksCount": 183
+            },
+            {
+                "year": 2021,
+                "citedByCount": 731,
+                "worksCount": 107
+            },
+            {
+                "year": 2020,
+                "citedByCount": 181,
+                "worksCount": 113
+            },
+            {
+                "year": 2019,
+                "citedByCount": 22,
+                "worksCount": 80
+            },
+            {
+                "year": 2018,
+                "citedByCount": 0,
+                "worksCount": 42
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4210204015",
+        "name": "Journal of Geodesy",
+        "hostOrganizationId": "https://openalex.org/P4310319900",
+        "hostOrganizationName": "Springer Science+Business Media",
+        "worksCount": 2559,
+        "citedByCount": 101018,
+        "twoYearMeanCitedness": 3.990867579908676,
+        "hIndex": 134,
+        "iTenIndex": 1682,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 2590,
+                "currency": "EUR"
+            },
+            {
+                "price": 3390,
+                "currency": "USD"
+            },
+            {
+                "price": 2190,
+                "currency": "GBP"
+            }
+        ],
+        "countryCode": "DE",
+        "societies": [
+            {
+                "url": "https://www.iag-aig.org/",
+                "organization": "International Association of Geodesy (IAG)"
+            }
+        ],
+        "topics": [
+            {
+                "id": "https://openalex.org/T11405",
+                "count": 1828
+            },
+            {
+                "id": "https://openalex.org/T10655",
+                "count": 1409
+            },
+            {
+                "id": "https://openalex.org/T10159",
+                "count": 646
+            },
+            {
+                "id": "https://openalex.org/T11786",
+                "count": 349
+            },
+            {
+                "id": "https://openalex.org/T11325",
+                "count": 286
+            },
+            {
+                "id": "https://openalex.org/T13487",
+                "count": 249
+            },
+            {
+                "id": "https://openalex.org/T12004",
+                "count": 217
+            },
+            {
+                "id": "https://openalex.org/T10572",
+                "count": 148
+            },
+            {
+                "id": "https://openalex.org/T10251",
+                "count": 130
+            },
+            {
+                "id": "https://openalex.org/T10110",
+                "count": 107
+            },
+            {
+                "id": "https://openalex.org/T11871",
+                "count": 85
+            },
+            {
+                "id": "https://openalex.org/T10255",
+                "count": 77
+            },
+            {
+                "id": "https://openalex.org/T13126",
+                "count": 63
+            },
+            {
+                "id": "https://openalex.org/T10770",
+                "count": 62
+            },
+            {
+                "id": "https://openalex.org/T13854",
+                "count": 60
+            },
+            {
+                "id": "https://openalex.org/T12424",
+                "count": 51
+            },
+            {
+                "id": "https://openalex.org/T11312",
+                "count": 51
+            },
+            {
+                "id": "https://openalex.org/T10271",
+                "count": 49
+            },
+            {
+                "id": "https://openalex.org/T10801",
+                "count": 47
+            },
+            {
+                "id": "https://openalex.org/T11890",
+                "count": 47
+            },
+            {
+                "id": "https://openalex.org/T10711",
+                "count": 40
+            },
+            {
+                "id": "https://openalex.org/T10406",
+                "count": 40
+            },
+            {
+                "id": "https://openalex.org/T10029",
+                "count": 40
+            },
+            {
+                "id": "https://openalex.org/T10644",
+                "count": 38
+            },
+            {
+                "id": "https://openalex.org/T10325",
+                "count": 30
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 5290,
+                "worksCount": 80
+            },
+            {
+                "year": 2024,
+                "citedByCount": 7911,
+                "worksCount": 116
+            },
+            {
+                "year": 2023,
+                "citedByCount": 8970,
+                "worksCount": 119
+            },
+            {
+                "year": 2022,
+                "citedByCount": 8630,
+                "worksCount": 100
+            },
+            {
+                "year": 2021,
+                "citedByCount": 8395,
+                "worksCount": 133
+            },
+            {
+                "year": 2020,
+                "citedByCount": 7577,
+                "worksCount": 123
+            },
+            {
+                "year": 2019,
+                "citedByCount": 6438,
+                "worksCount": 107
+            },
+            {
+                "year": 2018,
+                "citedByCount": 6098,
+                "worksCount": 119
+            },
+            {
+                "year": 2017,
+                "citedByCount": 5533,
+                "worksCount": 119
+            },
+            {
+                "year": 2016,
+                "citedByCount": 4903,
+                "worksCount": 101
+            },
+            {
+                "year": 2015,
+                "citedByCount": 4591,
+                "worksCount": 93
+            },
+            {
+                "year": 2014,
+                "citedByCount": 3944,
+                "worksCount": 97
+            },
+            {
+                "year": 2013,
+                "citedByCount": 3546,
+                "worksCount": 74
+            },
+            {
+                "year": 2012,
+                "citedByCount": 3251,
+                "worksCount": 72
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4363607980",
+        "name": "IEEE INFOCOM 2022 - IEEE Conference on Computer Communications",
+        "hostOrganizationId": null,
+        "hostOrganizationName": null,
+        "worksCount": 231,
+        "citedByCount": 3472,
+        "twoYearMeanCitedness": 4.331288343558282,
+        "hIndex": 104,
+        "iTenIndex": 1245,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": false,
+        "isCore": false,
+        "ArticleProcessingCharge": null,
+        "countryCode": null,
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10714",
+                "count": 287
+            },
+            {
+                "id": "https://openalex.org/T11478",
+                "count": 280
+            },
+            {
+                "id": "https://openalex.org/T10101",
+                "count": 216
+            },
+            {
+                "id": "https://openalex.org/T10273",
+                "count": 188
+            },
+            {
+                "id": "https://openalex.org/T10326",
+                "count": 172
+            },
+            {
+                "id": "https://openalex.org/T10764",
+                "count": 172
+            },
+            {
+                "id": "https://openalex.org/T11598",
+                "count": 172
+            },
+            {
+                "id": "https://openalex.org/T10400",
+                "count": 168
+            },
+            {
+                "id": "https://openalex.org/T10148",
+                "count": 156
+            },
+            {
+                "id": "https://openalex.org/T11392",
+                "count": 143
+            },
+            {
+                "id": "https://openalex.org/T10796",
+                "count": 139
+            },
+            {
+                "id": "https://openalex.org/T13553",
+                "count": 124
+            },
+            {
+                "id": "https://openalex.org/T11704",
+                "count": 120
+            },
+            {
+                "id": "https://openalex.org/T10138",
+                "count": 117
+            },
+            {
+                "id": "https://openalex.org/T11158",
+                "count": 113
+            },
+            {
+                "id": "https://openalex.org/T11409",
+                "count": 102
+            },
+            {
+                "id": "https://openalex.org/T10237",
+                "count": 90
+            },
+            {
+                "id": "https://openalex.org/T11165",
+                "count": 86
+            },
+            {
+                "id": "https://openalex.org/T10847",
+                "count": 84
+            },
+            {
+                "id": "https://openalex.org/T10246",
+                "count": 81
+            },
+            {
+                "id": "https://openalex.org/T10829",
+                "count": 80
+            },
+            {
+                "id": "https://openalex.org/T11612",
+                "count": 77
+            },
+            {
+                "id": "https://openalex.org/T10270",
+                "count": 74
+            },
+            {
+                "id": "https://openalex.org/T11896",
+                "count": 73
+            },
+            {
+                "id": "https://openalex.org/T11181",
+                "count": 70
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 441,
+                "worksCount": 19
+            },
+            {
+                "year": 2024,
+                "citedByCount": 1356,
+                "worksCount": 263
+            },
+            {
+                "year": 2023,
+                "citedByCount": 1401,
+                "worksCount": 258
+            },
+            {
+                "year": 2022,
+                "citedByCount": 266,
+                "worksCount": 231
+            },
+            {
+                "year": 2021,
+                "citedByCount": 8,
+                "worksCount": 258
+            },
+            {
+                "year": 2020,
+                "citedByCount": 0,
+                "worksCount": 258
+            },
+            {
+                "year": 2019,
+                "citedByCount": 0,
+                "worksCount": 216
+            },
+            {
+                "year": 2018,
+                "citedByCount": 0,
+                "worksCount": 294
+            },
+            {
+                "year": 2017,
+                "citedByCount": 0,
+                "worksCount": 232
+            },
+            {
+                "year": 2014,
+                "citedByCount": 0,
+                "worksCount": 248
+            },
+            {
+                "year": 2013,
+                "citedByCount": 0,
+                "worksCount": 1
+            },
+            {
+                "year": 2012,
+                "citedByCount": 0,
+                "worksCount": 1
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S158797327",
+        "name": "IEEE Communications Magazine",
+        "hostOrganizationId": "https://openalex.org/P4310319808",
+        "hostOrganizationName": "Institute of Electrical and Electronics Engineers",
+        "worksCount": 12210,
+        "citedByCount": 598842,
+        "twoYearMeanCitedness": 3.277676950998185,
+        "hIndex": 334,
+        "iTenIndex": 5299,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": null,
+        "countryCode": "US",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10847",
+                "count": 994
+            },
+            {
+                "id": "https://openalex.org/T10148",
+                "count": 962
+            },
+            {
+                "id": "https://openalex.org/T10575",
+                "count": 823
+            },
+            {
+                "id": "https://openalex.org/T10714",
+                "count": 757
+            },
+            {
+                "id": "https://openalex.org/T12203",
+                "count": 645
+            },
+            {
+                "id": "https://openalex.org/T10138",
+                "count": 607
+            },
+            {
+                "id": "https://openalex.org/T10767",
+                "count": 606
+            },
+            {
+                "id": "https://openalex.org/T10232",
+                "count": 589
+            },
+            {
+                "id": "https://openalex.org/T10273",
+                "count": 583
+            },
+            {
+                "id": "https://openalex.org/T11499",
+                "count": 515
+            },
+            {
+                "id": "https://openalex.org/T10796",
+                "count": 499
+            },
+            {
+                "id": "https://openalex.org/T10651",
+                "count": 479
+            },
+            {
+                "id": "https://openalex.org/T12146",
+                "count": 459
+            },
+            {
+                "id": "https://openalex.org/T11409",
+                "count": 448
+            },
+            {
+                "id": "https://openalex.org/T11158",
+                "count": 445
+            },
+            {
+                "id": "https://openalex.org/T11478",
+                "count": 442
+            },
+            {
+                "id": "https://openalex.org/T12042",
+                "count": 430
+            },
+            {
+                "id": "https://openalex.org/T11896",
+                "count": 414
+            },
+            {
+                "id": "https://openalex.org/T12720",
+                "count": 340
+            },
+            {
+                "id": "https://openalex.org/T10125",
+                "count": 334
+            },
+            {
+                "id": "https://openalex.org/T10936",
+                "count": 300
+            },
+            {
+                "id": "https://openalex.org/T10246",
+                "count": 297
+            },
+            {
+                "id": "https://openalex.org/T10679",
+                "count": 294
+            },
+            {
+                "id": "https://openalex.org/T11392",
+                "count": 276
+            },
+            {
+                "id": "https://openalex.org/T11458",
+                "count": 259
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 8495,
+                "worksCount": 457
+            },
+            {
+                "year": 2024,
+                "citedByCount": 21702,
+                "worksCount": 528
+            },
+            {
+                "year": 2023,
+                "citedByCount": 31932,
+                "worksCount": 668
+            },
+            {
+                "year": 2022,
+                "citedByCount": 34485,
+                "worksCount": 434
+            },
+            {
+                "year": 2021,
+                "citedByCount": 40728,
+                "worksCount": 407
+            },
+            {
+                "year": 2020,
+                "citedByCount": 41960,
+                "worksCount": 331
+            },
+            {
+                "year": 2019,
+                "citedByCount": 42608,
+                "worksCount": 388
+            },
+            {
+                "year": 2018,
+                "citedByCount": 41371,
+                "worksCount": 533
+            },
+            {
+                "year": 2017,
+                "citedByCount": 35391,
+                "worksCount": 632
+            },
+            {
+                "year": 2016,
+                "citedByCount": 31077,
+                "worksCount": 475
+            },
+            {
+                "year": 2015,
+                "citedByCount": 28150,
+                "worksCount": 479
+            },
+            {
+                "year": 2014,
+                "citedByCount": 25354,
+                "worksCount": 392
+            },
+            {
+                "year": 2013,
+                "citedByCount": 22061,
+                "worksCount": 377
+            },
+            {
+                "year": 2012,
+                "citedByCount": 21003,
+                "worksCount": 373
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4210173141",
+        "name": "IEEE Transactions on Image Processing",
+        "hostOrganizationId": "https://openalex.org/P4310319808",
+        "hostOrganizationName": "Institute of Electrical and Electronics Engineers",
+        "worksCount": 11114,
+        "citedByCount": 955163,
+        "twoYearMeanCitedness": 11.475766567754698,
+        "hIndex": 380,
+        "iTenIndex": 8430,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": null,
+        "countryCode": "US",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10688",
+                "count": 2364
+            },
+            {
+                "id": "https://openalex.org/T10531",
+                "count": 1958
+            },
+            {
+                "id": "https://openalex.org/T11105",
+                "count": 1837
+            },
+            {
+                "id": "https://openalex.org/T10627",
+                "count": 1767
+            },
+            {
+                "id": "https://openalex.org/T11019",
+                "count": 1176
+            },
+            {
+                "id": "https://openalex.org/T10052",
+                "count": 1153
+            },
+            {
+                "id": "https://openalex.org/T11659",
+                "count": 1030
+            },
+            {
+                "id": "https://openalex.org/T10824",
+                "count": 1000
+            },
+            {
+                "id": "https://openalex.org/T10331",
+                "count": 962
+            },
+            {
+                "id": "https://openalex.org/T10901",
+                "count": 951
+            },
+            {
+                "id": "https://openalex.org/T13114",
+                "count": 904
+            },
+            {
+                "id": "https://openalex.org/T10500",
+                "count": 797
+            },
+            {
+                "id": "https://openalex.org/T10036",
+                "count": 634
+            },
+            {
+                "id": "https://openalex.org/T12111",
+                "count": 634
+            },
+            {
+                "id": "https://openalex.org/T10812",
+                "count": 609
+            },
+            {
+                "id": "https://openalex.org/T11165",
+                "count": 582
+            },
+            {
+                "id": "https://openalex.org/T11307",
+                "count": 566
+            },
+            {
+                "id": "https://openalex.org/T11605",
+                "count": 564
+            },
+            {
+                "id": "https://openalex.org/T10689",
+                "count": 559
+            },
+            {
+                "id": "https://openalex.org/T10741",
+                "count": 530
+            },
+            {
+                "id": "https://openalex.org/T10057",
+                "count": 524
+            },
+            {
+                "id": "https://openalex.org/T11714",
+                "count": 490
+            },
+            {
+                "id": "https://openalex.org/T10191",
+                "count": 405
+            },
+            {
+                "id": "https://openalex.org/T11448",
+                "count": 393
+            },
+            {
+                "id": "https://openalex.org/T11666",
+                "count": 332
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 36551,
+                "worksCount": 484
+            },
+            {
+                "year": 2024,
+                "citedByCount": 67728,
+                "worksCount": 478
+            },
+            {
+                "year": 2023,
+                "citedByCount": 78422,
+                "worksCount": 484
+            },
+            {
+                "year": 2022,
+                "citedByCount": 73053,
+                "worksCount": 527
+            },
+            {
+                "year": 2021,
+                "citedByCount": 77017,
+                "worksCount": 659
+            },
+            {
+                "year": 2020,
+                "citedByCount": 69692,
+                "worksCount": 600
+            },
+            {
+                "year": 2019,
+                "citedByCount": 65740,
+                "worksCount": 561
+            },
+            {
+                "year": 2018,
+                "citedByCount": 57704,
+                "worksCount": 646
+            },
+            {
+                "year": 2017,
+                "citedByCount": 50334,
+                "worksCount": 633
+            },
+            {
+                "year": 2016,
+                "citedByCount": 45295,
+                "worksCount": 610
+            },
+            {
+                "year": 2015,
+                "citedByCount": 42632,
+                "worksCount": 626
+            },
+            {
+                "year": 2014,
+                "citedByCount": 39346,
+                "worksCount": 610
+            },
+            {
+                "year": 2013,
+                "citedByCount": 33586,
+                "worksCount": 482
+            },
+            {
+                "year": 2012,
+                "citedByCount": 29872,
+                "worksCount": 444
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S140982614",
+        "name": "Pervasive and Mobile Computing",
+        "hostOrganizationId": "https://openalex.org/P4310320990",
+        "hostOrganizationName": "Elsevier BV",
+        "worksCount": 1390,
+        "citedByCount": 43950,
+        "twoYearMeanCitedness": 3.558282208588957,
+        "hIndex": 92,
+        "iTenIndex": 877,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 2490,
+                "currency": "USD"
+            },
+            {
+                "price": 2270,
+                "currency": "EUR"
+            },
+            {
+                "price": 1990,
+                "currency": "GBP"
+            },
+            {
+                "price": 279780,
+                "currency": "JPY"
+            }
+        ],
+        "countryCode": "NL",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10444",
+                "count": 282
+            },
+            {
+                "id": "https://openalex.org/T10326",
+                "count": 191
+            },
+            {
+                "id": "https://openalex.org/T11896",
+                "count": 178
+            },
+            {
+                "id": "https://openalex.org/T10273",
+                "count": 176
+            },
+            {
+                "id": "https://openalex.org/T11980",
+                "count": 170
+            },
+            {
+                "id": "https://openalex.org/T10080",
+                "count": 148
+            },
+            {
+                "id": "https://openalex.org/T10246",
+                "count": 141
+            },
+            {
+                "id": "https://openalex.org/T11478",
+                "count": 110
+            },
+            {
+                "id": "https://openalex.org/T11704",
+                "count": 90
+            },
+            {
+                "id": "https://openalex.org/T10764",
+                "count": 71
+            },
+            {
+                "id": "https://openalex.org/T11158",
+                "count": 69
+            },
+            {
+                "id": "https://openalex.org/T12238",
+                "count": 63
+            },
+            {
+                "id": "https://openalex.org/T11106",
+                "count": 57
+            },
+            {
+                "id": "https://openalex.org/T11800",
+                "count": 52
+            },
+            {
+                "id": "https://openalex.org/T10237",
+                "count": 52
+            },
+            {
+                "id": "https://openalex.org/T10796",
+                "count": 51
+            },
+            {
+                "id": "https://openalex.org/T11498",
+                "count": 48
+            },
+            {
+                "id": "https://openalex.org/T10761",
+                "count": 47
+            },
+            {
+                "id": "https://openalex.org/T11392",
+                "count": 45
+            },
+            {
+                "id": "https://openalex.org/T11241",
+                "count": 44
+            },
+            {
+                "id": "https://openalex.org/T10270",
+                "count": 44
+            },
+            {
+                "id": "https://openalex.org/T10148",
+                "count": 44
+            },
+            {
+                "id": "https://openalex.org/T10400",
+                "count": 43
+            },
+            {
+                "id": "https://openalex.org/T10742",
+                "count": 43
+            },
+            {
+                "id": "https://openalex.org/T11512",
+                "count": 41
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 1346,
+                "worksCount": 64
+            },
+            {
+                "year": 2024,
+                "citedByCount": 2666,
+                "worksCount": 76
+            },
+            {
+                "year": 2023,
+                "citedByCount": 3521,
+                "worksCount": 71
+            },
+            {
+                "year": 2022,
+                "citedByCount": 3792,
+                "worksCount": 92
+            },
+            {
+                "year": 2021,
+                "citedByCount": 3930,
+                "worksCount": 74
+            },
+            {
+                "year": 2020,
+                "citedByCount": 3950,
+                "worksCount": 90
+            },
+            {
+                "year": 2019,
+                "citedByCount": 3846,
+                "worksCount": 92
+            },
+            {
+                "year": 2018,
+                "citedByCount": 3711,
+                "worksCount": 85
+            },
+            {
+                "year": 2017,
+                "citedByCount": 3114,
+                "worksCount": 132
+            },
+            {
+                "year": 2016,
+                "citedByCount": 2840,
+                "worksCount": 118
+            },
+            {
+                "year": 2015,
+                "citedByCount": 2483,
+                "worksCount": 101
+            },
+            {
+                "year": 2014,
+                "citedByCount": 2215,
+                "worksCount": 95
+            },
+            {
+                "year": 2013,
+                "citedByCount": 1854,
+                "worksCount": 82
+            },
+            {
+                "year": 2012,
+                "citedByCount": 1443,
+                "worksCount": 75
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S145894672",
+        "name": "Telecommunication Systems",
+        "hostOrganizationId": "https://openalex.org/P4310319900",
+        "hostOrganizationName": "Springer Science+Business Media",
+        "worksCount": 2651,
+        "citedByCount": 40885,
+        "twoYearMeanCitedness": 2.6425339366515836,
+        "hIndex": 75,
+        "iTenIndex": 999,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 2190,
+                "currency": "EUR"
+            },
+            {
+                "price": 2790,
+                "currency": "USD"
+            },
+            {
+                "price": 1890,
+                "currency": "GBP"
+            }
+        ],
+        "countryCode": "NL",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10148",
+                "count": 441
+            },
+            {
+                "id": "https://openalex.org/T10138",
+                "count": 414
+            },
+            {
+                "id": "https://openalex.org/T11409",
+                "count": 381
+            },
+            {
+                "id": "https://openalex.org/T10575",
+                "count": 367
+            },
+            {
+                "id": "https://openalex.org/T10246",
+                "count": 345
+            },
+            {
+                "id": "https://openalex.org/T10796",
+                "count": 336
+            },
+            {
+                "id": "https://openalex.org/T10080",
+                "count": 261
+            },
+            {
+                "id": "https://openalex.org/T10847",
+                "count": 249
+            },
+            {
+                "id": "https://openalex.org/T11158",
+                "count": 245
+            },
+            {
+                "id": "https://openalex.org/T10974",
+                "count": 193
+            },
+            {
+                "id": "https://openalex.org/T10125",
+                "count": 172
+            },
+            {
+                "id": "https://openalex.org/T11896",
+                "count": 171
+            },
+            {
+                "id": "https://openalex.org/T10714",
+                "count": 169
+            },
+            {
+                "id": "https://openalex.org/T11392",
+                "count": 148
+            },
+            {
+                "id": "https://openalex.org/T11458",
+                "count": 140
+            },
+            {
+                "id": "https://openalex.org/T10651",
+                "count": 133
+            },
+            {
+                "id": "https://openalex.org/T10829",
+                "count": 132
+            },
+            {
+                "id": "https://openalex.org/T11478",
+                "count": 111
+            },
+            {
+                "id": "https://openalex.org/T10761",
+                "count": 110
+            },
+            {
+                "id": "https://openalex.org/T10326",
+                "count": 102
+            },
+            {
+                "id": "https://openalex.org/T10579",
+                "count": 100
+            },
+            {
+                "id": "https://openalex.org/T10400",
+                "count": 100
+            },
+            {
+                "id": "https://openalex.org/T12203",
+                "count": 98
+            },
+            {
+                "id": "https://openalex.org/T10232",
+                "count": 84
+            },
+            {
+                "id": "https://openalex.org/T10273",
+                "count": 81
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 1104,
+                "worksCount": 119
+            },
+            {
+                "year": 2024,
+                "citedByCount": 2259,
+                "worksCount": 152
+            },
+            {
+                "year": 2023,
+                "citedByCount": 2881,
+                "worksCount": 102
+            },
+            {
+                "year": 2022,
+                "citedByCount": 3090,
+                "worksCount": 119
+            },
+            {
+                "year": 2021,
+                "citedByCount": 3170,
+                "worksCount": 117
+            },
+            {
+                "year": 2020,
+                "citedByCount": 2699,
+                "worksCount": 94
+            },
+            {
+                "year": 2019,
+                "citedByCount": 2672,
+                "worksCount": 108
+            },
+            {
+                "year": 2018,
+                "citedByCount": 2396,
+                "worksCount": 115
+            },
+            {
+                "year": 2017,
+                "citedByCount": 2184,
+                "worksCount": 156
+            },
+            {
+                "year": 2016,
+                "citedByCount": 2029,
+                "worksCount": 129
+            },
+            {
+                "year": 2015,
+                "citedByCount": 2278,
+                "worksCount": 183
+            },
+            {
+                "year": 2014,
+                "citedByCount": 2002,
+                "worksCount": 87
+            },
+            {
+                "year": 2013,
+                "citedByCount": 2025,
+                "worksCount": 196
+            },
+            {
+                "year": 2012,
+                "citedByCount": 1330,
+                "worksCount": 2
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S157670870",
+        "name": "IEEE Transactions on Computers",
+        "hostOrganizationId": "https://openalex.org/P4310319808",
+        "hostOrganizationName": "Institute of Electrical and Electronics Engineers",
+        "worksCount": 13660,
+        "citedByCount": 476406,
+        "twoYearMeanCitedness": 3.616504854368932,
+        "hIndex": 260,
+        "iTenIndex": 6480,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": null,
+        "countryCode": "US",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10054",
+                "count": 2345
+            },
+            {
+                "id": "https://openalex.org/T10829",
+                "count": 1853
+            },
+            {
+                "id": "https://openalex.org/T11032",
+                "count": 1229
+            },
+            {
+                "id": "https://openalex.org/T10363",
+                "count": 1130
+            },
+            {
+                "id": "https://openalex.org/T10904",
+                "count": 1124
+            },
+            {
+                "id": "https://openalex.org/T11181",
+                "count": 1065
+            },
+            {
+                "id": "https://openalex.org/T10772",
+                "count": 1020
+            },
+            {
+                "id": "https://openalex.org/T11697",
+                "count": 730
+            },
+            {
+                "id": "https://openalex.org/T11005",
+                "count": 685
+            },
+            {
+                "id": "https://openalex.org/T11130",
+                "count": 623
+            },
+            {
+                "id": "https://openalex.org/T11522",
+                "count": 558
+            },
+            {
+                "id": "https://openalex.org/T10715",
+                "count": 545
+            },
+            {
+                "id": "https://openalex.org/T10933",
+                "count": 511
+            },
+            {
+                "id": "https://openalex.org/T10142",
+                "count": 466
+            },
+            {
+                "id": "https://openalex.org/T10101",
+                "count": 453
+            },
+            {
+                "id": "https://openalex.org/T11269",
+                "count": 452
+            },
+            {
+                "id": "https://openalex.org/T11693",
+                "count": 431
+            },
+            {
+                "id": "https://openalex.org/T10502",
+                "count": 395
+            },
+            {
+                "id": "https://openalex.org/T11478",
+                "count": 392
+            },
+            {
+                "id": "https://openalex.org/T12162",
+                "count": 373
+            },
+            {
+                "id": "https://openalex.org/T11034",
+                "count": 372
+            },
+            {
+                "id": "https://openalex.org/T13924",
+                "count": 370
+            },
+            {
+                "id": "https://openalex.org/T10951",
+                "count": 329
+            },
+            {
+                "id": "https://openalex.org/T14117",
+                "count": 322
+            },
+            {
+                "id": "https://openalex.org/T10237",
+                "count": 315
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 5201,
+                "worksCount": 213
+            },
+            {
+                "year": 2024,
+                "citedByCount": 10134,
+                "worksCount": 222
+            },
+            {
+                "year": 2023,
+                "citedByCount": 13450,
+                "worksCount": 205
+            },
+            {
+                "year": 2022,
+                "citedByCount": 13252,
+                "worksCount": 207
+            },
+            {
+                "year": 2021,
+                "citedByCount": 14751,
+                "worksCount": 223
+            },
+            {
+                "year": 2020,
+                "citedByCount": 15313,
+                "worksCount": 250
+            },
+            {
+                "year": 2019,
+                "citedByCount": 15125,
+                "worksCount": 119
+            },
+            {
+                "year": 2018,
+                "citedByCount": 16003,
+                "worksCount": 150
+            },
+            {
+                "year": 2017,
+                "citedByCount": 15284,
+                "worksCount": 196
+            },
+            {
+                "year": 2016,
+                "citedByCount": 15201,
+                "worksCount": 207
+            },
+            {
+                "year": 2015,
+                "citedByCount": 15576,
+                "worksCount": 303
+            },
+            {
+                "year": 2014,
+                "citedByCount": 15399,
+                "worksCount": 257
+            },
+            {
+                "year": 2013,
+                "citedByCount": 14400,
+                "worksCount": 184
+            },
+            {
+                "year": 2012,
+                "citedByCount": 15358,
+                "worksCount": 378
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4306463447",
+        "name": "InTech eBooks",
+        "hostOrganizationId": null,
+        "hostOrganizationName": null,
+        "worksCount": 51294,
+        "citedByCount": 464949,
+        "twoYearMeanCitedness": 0.0,
+        "hIndex": 177,
+        "iTenIndex": 11836,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": false,
+        "isCore": false,
+        "ArticleProcessingCharge": null,
+        "countryCode": null,
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10299",
+                "count": 386
+            },
+            {
+                "id": "https://openalex.org/T10074",
+                "count": 363
+            },
+            {
+                "id": "https://openalex.org/T10505",
+                "count": 359
+            },
+            {
+                "id": "https://openalex.org/T10586",
+                "count": 324
+            },
+            {
+                "id": "https://openalex.org/T10083",
+                "count": 323
+            },
+            {
+                "id": "https://openalex.org/T10171",
+                "count": 313
+            },
+            {
+                "id": "https://openalex.org/T10351",
+                "count": 305
+            },
+            {
+                "id": "https://openalex.org/T10320",
+                "count": 301
+            },
+            {
+                "id": "https://openalex.org/T10729",
+                "count": 296
+            },
+            {
+                "id": "https://openalex.org/T10876",
+                "count": 295
+            },
+            {
+                "id": "https://openalex.org/T10191",
+                "count": 290
+            },
+            {
+                "id": "https://openalex.org/T10069",
+                "count": 284
+            },
+            {
+                "id": "https://openalex.org/T10059",
+                "count": 283
+            },
+            {
+                "id": "https://openalex.org/T10878",
+                "count": 274
+            },
+            {
+                "id": "https://openalex.org/T10791",
+                "count": 274
+            },
+            {
+                "id": "https://openalex.org/T10207",
+                "count": 257
+            },
+            {
+                "id": "https://openalex.org/T10472",
+                "count": 252
+            },
+            {
+                "id": "https://openalex.org/T10080",
+                "count": 249
+            },
+            {
+                "id": "https://openalex.org/T10725",
+                "count": 248
+            },
+            {
+                "id": "https://openalex.org/T12264",
+                "count": 245
+            },
+            {
+                "id": "https://openalex.org/T10338",
+                "count": 238
+            },
+            {
+                "id": "https://openalex.org/T11429",
+                "count": 236
+            },
+            {
+                "id": "https://openalex.org/T10660",
+                "count": 235
+            },
+            {
+                "id": "https://openalex.org/T10301",
+                "count": 235
+            },
+            {
+                "id": "https://openalex.org/T10839",
+                "count": 234
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 21081,
+                "worksCount": 0
+            },
+            {
+                "year": 2024,
+                "citedByCount": 35405,
+                "worksCount": 0
+            },
+            {
+                "year": 2023,
+                "citedByCount": 40671,
+                "worksCount": 0
+            },
+            {
+                "year": 2022,
+                "citedByCount": 45518,
+                "worksCount": 0
+            },
+            {
+                "year": 2021,
+                "citedByCount": 55738,
+                "worksCount": 0
+            },
+            {
+                "year": 2020,
+                "citedByCount": 49421,
+                "worksCount": 0
+            },
+            {
+                "year": 2019,
+                "citedByCount": 39245,
+                "worksCount": 0
+            },
+            {
+                "year": 2018,
+                "citedByCount": 33595,
+                "worksCount": 5857
+            },
+            {
+                "year": 2017,
+                "citedByCount": 29218,
+                "worksCount": 4549
+            },
+            {
+                "year": 2016,
+                "citedByCount": 27555,
+                "worksCount": 3150
+            },
+            {
+                "year": 2015,
+                "citedByCount": 25765,
+                "worksCount": 1711
+            },
+            {
+                "year": 2014,
+                "citedByCount": 22875,
+                "worksCount": 926
+            },
+            {
+                "year": 2013,
+                "citedByCount": 17158,
+                "worksCount": 4207
+            },
+            {
+                "year": 2012,
+                "citedByCount": 10226,
+                "worksCount": 16047
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S3569471",
+        "name": "IET Radar Sonar & Navigation",
+        "hostOrganizationId": "https://openalex.org/P4310311714",
+        "hostOrganizationName": "Institution of Engineering and Technology",
+        "worksCount": 2449,
+        "citedByCount": 37478,
+        "twoYearMeanCitedness": 1.4660493827160495,
+        "hIndex": 70,
+        "iTenIndex": 1140,
+        "isOpenAccess": true,
+        "isInDoaj": true,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 2000,
+                "currency": "EUR"
+            },
+            {
+                "price": 1700,
+                "currency": "GBP"
+            },
+            {
+                "price": 2200,
+                "currency": "USD"
+            }
+        ],
+        "countryCode": "GB",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10891",
+                "count": 1148
+            },
+            {
+                "id": "https://openalex.org/T11038",
+                "count": 1134
+            },
+            {
+                "id": "https://openalex.org/T10711",
+                "count": 451
+            },
+            {
+                "id": "https://openalex.org/T10931",
+                "count": 374
+            },
+            {
+                "id": "https://openalex.org/T11739",
+                "count": 334
+            },
+            {
+                "id": "https://openalex.org/T10801",
+                "count": 312
+            },
+            {
+                "id": "https://openalex.org/T11698",
+                "count": 262
+            },
+            {
+                "id": "https://openalex.org/T10655",
+                "count": 234
+            },
+            {
+                "id": "https://openalex.org/T10326",
+                "count": 225
+            },
+            {
+                "id": "https://openalex.org/T10860",
+                "count": 168
+            },
+            {
+                "id": "https://openalex.org/T11325",
+                "count": 167
+            },
+            {
+                "id": "https://openalex.org/T11609",
+                "count": 162
+            },
+            {
+                "id": "https://openalex.org/T11946",
+                "count": 151
+            },
+            {
+                "id": "https://openalex.org/T10500",
+                "count": 135
+            },
+            {
+                "id": "https://openalex.org/T11061",
+                "count": 126
+            },
+            {
+                "id": "https://openalex.org/T13121",
+                "count": 124
+            },
+            {
+                "id": "https://openalex.org/T11192",
+                "count": 89
+            },
+            {
+                "id": "https://openalex.org/T12879",
+                "count": 85
+            },
+            {
+                "id": "https://openalex.org/T12131",
+                "count": 80
+            },
+            {
+                "id": "https://openalex.org/T11447",
+                "count": 71
+            },
+            {
+                "id": "https://openalex.org/T10191",
+                "count": 70
+            },
+            {
+                "id": "https://openalex.org/T12389",
+                "count": 63
+            },
+            {
+                "id": "https://openalex.org/T12158",
+                "count": 63
+            },
+            {
+                "id": "https://openalex.org/T11312",
+                "count": 58
+            },
+            {
+                "id": "https://openalex.org/T10534",
+                "count": 57
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 1147,
+                "worksCount": 88
+            },
+            {
+                "year": 2024,
+                "citedByCount": 2870,
+                "worksCount": 177
+            },
+            {
+                "year": 2023,
+                "citedByCount": 3863,
+                "worksCount": 163
+            },
+            {
+                "year": 2022,
+                "citedByCount": 3919,
+                "worksCount": 161
+            },
+            {
+                "year": 2021,
+                "citedByCount": 4039,
+                "worksCount": 196
+            },
+            {
+                "year": 2020,
+                "citedByCount": 3905,
+                "worksCount": 186
+            },
+            {
+                "year": 2019,
+                "citedByCount": 4043,
+                "worksCount": 257
+            },
+            {
+                "year": 2018,
+                "citedByCount": 3037,
+                "worksCount": 239
+            },
+            {
+                "year": 2017,
+                "citedByCount": 2452,
+                "worksCount": 177
+            },
+            {
+                "year": 2016,
+                "citedByCount": 2152,
+                "worksCount": 207
+            },
+            {
+                "year": 2015,
+                "citedByCount": 1729,
+                "worksCount": 219
+            },
+            {
+                "year": 2014,
+                "citedByCount": 1313,
+                "worksCount": 159
+            },
+            {
+                "year": 2013,
+                "citedByCount": 1013,
+                "worksCount": 152
+            },
+            {
+                "year": 2012,
+                "citedByCount": 722,
+                "worksCount": 103
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4363609010",
+        "name": "Proceedings of the 7th International Conference on Vehicle Technology and Intelligent Transport Systems",
+        "hostOrganizationId": null,
+        "hostOrganizationName": null,
+        "worksCount": 107,
+        "citedByCount": 254,
+        "twoYearMeanCitedness": 0.6565656565656566,
+        "hIndex": 12,
+        "iTenIndex": 25,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": false,
+        "isCore": false,
+        "ArticleProcessingCharge": null,
+        "countryCode": null,
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T11099",
+                "count": 129
+            },
+            {
+                "id": "https://openalex.org/T11344",
+                "count": 122
+            },
+            {
+                "id": "https://openalex.org/T11942",
+                "count": 78
+            },
+            {
+                "id": "https://openalex.org/T10524",
+                "count": 71
+            },
+            {
+                "id": "https://openalex.org/T10698",
+                "count": 61
+            },
+            {
+                "id": "https://openalex.org/T10761",
+                "count": 48
+            },
+            {
+                "id": "https://openalex.org/T12095",
+                "count": 44
+            },
+            {
+                "id": "https://openalex.org/T11512",
+                "count": 29
+            },
+            {
+                "id": "https://openalex.org/T10525",
+                "count": 29
+            },
+            {
+                "id": "https://openalex.org/T13527",
+                "count": 23
+            },
+            {
+                "id": "https://openalex.org/T12707",
+                "count": 22
+            },
+            {
+                "id": "https://openalex.org/T10768",
+                "count": 22
+            },
+            {
+                "id": "https://openalex.org/T10805",
+                "count": 21
+            },
+            {
+                "id": "https://openalex.org/T12546",
+                "count": 21
+            },
+            {
+                "id": "https://openalex.org/T11980",
+                "count": 21
+            },
+            {
+                "id": "https://openalex.org/T10331",
+                "count": 20
+            },
+            {
+                "id": "https://openalex.org/T10036",
+                "count": 19
+            },
+            {
+                "id": "https://openalex.org/T10370",
+                "count": 19
+            },
+            {
+                "id": "https://openalex.org/T10586",
+                "count": 19
+            },
+            {
+                "id": "https://openalex.org/T10663",
+                "count": 17
+            },
+            {
+                "id": "https://openalex.org/T12406",
+                "count": 17
+            },
+            {
+                "id": "https://openalex.org/T11164",
+                "count": 17
+            },
+            {
+                "id": "https://openalex.org/T10400",
+                "count": 17
+            },
+            {
+                "id": "https://openalex.org/T11606",
+                "count": 17
+            },
+            {
+                "id": "https://openalex.org/T12810",
+                "count": 15
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 17,
+                "worksCount": 76
+            },
+            {
+                "year": 2024,
+                "citedByCount": 52,
+                "worksCount": 55
+            },
+            {
+                "year": 2023,
+                "citedByCount": 87,
+                "worksCount": 47
+            },
+            {
+                "year": 2022,
+                "citedByCount": 73,
+                "worksCount": 52
+            },
+            {
+                "year": 2021,
+                "citedByCount": 26,
+                "worksCount": 173
+            },
+            {
+                "year": 2020,
+                "citedByCount": 0,
+                "worksCount": 152
+            },
+            {
+                "year": 2019,
+                "citedByCount": 0,
+                "worksCount": 145
+            },
+            {
+                "year": 2018,
+                "citedByCount": 0,
+                "worksCount": 60
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S19503097",
+        "name": "Applied Ocean Research",
+        "hostOrganizationId": "https://openalex.org/P4310320990",
+        "hostOrganizationName": "Elsevier BV",
+        "worksCount": 3780,
+        "citedByCount": 108916,
+        "twoYearMeanCitedness": 4.350710900473934,
+        "hIndex": 111,
+        "iTenIndex": 2625,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 3920,
+                "currency": "USD"
+            },
+            {
+                "price": 3580,
+                "currency": "EUR"
+            },
+            {
+                "price": 3140,
+                "currency": "GBP"
+            },
+            {
+                "price": 440450,
+                "currency": "JPY"
+            }
+        ],
+        "countryCode": "GB",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10647",
+                "count": 937
+            },
+            {
+                "id": "https://openalex.org/T11250",
+                "count": 936
+            },
+            {
+                "id": "https://openalex.org/T11694",
+                "count": 905
+            },
+            {
+                "id": "https://openalex.org/T11061",
+                "count": 761
+            },
+            {
+                "id": "https://openalex.org/T11604",
+                "count": 624
+            },
+            {
+                "id": "https://openalex.org/T11254",
+                "count": 604
+            },
+            {
+                "id": "https://openalex.org/T12233",
+                "count": 472
+            },
+            {
+                "id": "https://openalex.org/T12086",
+                "count": 376
+            },
+            {
+                "id": "https://openalex.org/T12206",
+                "count": 319
+            },
+            {
+                "id": "https://openalex.org/T10233",
+                "count": 307
+            },
+            {
+                "id": "https://openalex.org/T11483",
+                "count": 292
+            },
+            {
+                "id": "https://openalex.org/T10255",
+                "count": 256
+            },
+            {
+                "id": "https://openalex.org/T11192",
+                "count": 230
+            },
+            {
+                "id": "https://openalex.org/T11375",
+                "count": 203
+            },
+            {
+                "id": "https://openalex.org/T11371",
+                "count": 199
+            },
+            {
+                "id": "https://openalex.org/T12252",
+                "count": 172
+            },
+            {
+                "id": "https://openalex.org/T11698",
+                "count": 170
+            },
+            {
+                "id": "https://openalex.org/T11622",
+                "count": 156
+            },
+            {
+                "id": "https://openalex.org/T11202",
+                "count": 154
+            },
+            {
+                "id": "https://openalex.org/T12126",
+                "count": 150
+            },
+            {
+                "id": "https://openalex.org/T10534",
+                "count": 129
+            },
+            {
+                "id": "https://openalex.org/T10779",
+                "count": 126
+            },
+            {
+                "id": "https://openalex.org/T11382",
+                "count": 114
+            },
+            {
+                "id": "https://openalex.org/T10680",
+                "count": 113
+            },
+            {
+                "id": "https://openalex.org/T13925",
+                "count": 103
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 9280,
+                "worksCount": 329
+            },
+            {
+                "year": 2024,
+                "citedByCount": 12854,
+                "worksCount": 456
+            },
+            {
+                "year": 2023,
+                "citedByCount": 12961,
+                "worksCount": 324
+            },
+            {
+                "year": 2022,
+                "citedByCount": 11324,
+                "worksCount": 309
+            },
+            {
+                "year": 2021,
+                "citedByCount": 9412,
+                "worksCount": 424
+            },
+            {
+                "year": 2020,
+                "citedByCount": 7119,
+                "worksCount": 382
+            },
+            {
+                "year": 2019,
+                "citedByCount": 5447,
+                "worksCount": 308
+            },
+            {
+                "year": 2018,
+                "citedByCount": 4652,
+                "worksCount": 230
+            },
+            {
+                "year": 2017,
+                "citedByCount": 3464,
+                "worksCount": 177
+            },
+            {
+                "year": 2016,
+                "citedByCount": 3126,
+                "worksCount": 155
+            },
+            {
+                "year": 2015,
+                "citedByCount": 2768,
+                "worksCount": 127
+            },
+            {
+                "year": 2014,
+                "citedByCount": 2366,
+                "worksCount": 88
+            },
+            {
+                "year": 2013,
+                "citedByCount": 2089,
+                "worksCount": 76
+            },
+            {
+                "year": 2012,
+                "citedByCount": 1740,
+                "worksCount": 66
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4306418818",
+        "name": "IEEE Sensors",
+        "hostOrganizationId": null,
+        "hostOrganizationName": null,
+        "worksCount": 66,
+        "citedByCount": 75,
+        "twoYearMeanCitedness": 0.7966573816155988,
+        "hIndex": 59,
+        "iTenIndex": 1641,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": false,
+        "isCore": false,
+        "ArticleProcessingCharge": null,
+        "countryCode": null,
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T11472",
+                "count": 1586
+            },
+            {
+                "id": "https://openalex.org/T10369",
+                "count": 1495
+            },
+            {
+                "id": "https://openalex.org/T11449",
+                "count": 1195
+            },
+            {
+                "id": "https://openalex.org/T10461",
+                "count": 1168
+            },
+            {
+                "id": "https://openalex.org/T11160",
+                "count": 1003
+            },
+            {
+                "id": "https://openalex.org/T11667",
+                "count": 932
+            },
+            {
+                "id": "https://openalex.org/T10338",
+                "count": 912
+            },
+            {
+                "id": "https://openalex.org/T10205",
+                "count": 697
+            },
+            {
+                "id": "https://openalex.org/T10299",
+                "count": 660
+            },
+            {
+                "id": "https://openalex.org/T12564",
+                "count": 507
+            },
+            {
+                "id": "https://openalex.org/T10412",
+                "count": 384
+            },
+            {
+                "id": "https://openalex.org/T11255",
+                "count": 334
+            },
+            {
+                "id": "https://openalex.org/T11392",
+                "count": 311
+            },
+            {
+                "id": "https://openalex.org/T10080",
+                "count": 283
+            },
+            {
+                "id": "https://openalex.org/T11601",
+                "count": 278
+            },
+            {
+                "id": "https://openalex.org/T10326",
+                "count": 276
+            },
+            {
+                "id": "https://openalex.org/T12692",
+                "count": 265
+            },
+            {
+                "id": "https://openalex.org/T10914",
+                "count": 258
+            },
+            {
+                "id": "https://openalex.org/T11230",
+                "count": 258
+            },
+            {
+                "id": "https://openalex.org/T10207",
+                "count": 256
+            },
+            {
+                "id": "https://openalex.org/T11992",
+                "count": 252
+            },
+            {
+                "id": "https://openalex.org/T13928",
+                "count": 247
+            },
+            {
+                "id": "https://openalex.org/T10212",
+                "count": 240
+            },
+            {
+                "id": "https://openalex.org/T11393",
+                "count": 233
+            },
+            {
+                "id": "https://openalex.org/T11196",
+                "count": 232
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2024,
+                "citedByCount": 0,
+                "worksCount": 564
+            },
+            {
+                "year": 2023,
+                "citedByCount": 1,
+                "worksCount": 9
+            },
+            {
+                "year": 2022,
+                "citedByCount": 1,
+                "worksCount": 350
+            },
+            {
+                "year": 2021,
+                "citedByCount": 8,
+                "worksCount": 325
+            },
+            {
+                "year": 2020,
+                "citedByCount": 2,
+                "worksCount": 359
+            },
+            {
+                "year": 2019,
+                "citedByCount": 7,
+                "worksCount": 462
+            },
+            {
+                "year": 2018,
+                "citedByCount": 6,
+                "worksCount": 460
+            },
+            {
+                "year": 2017,
+                "citedByCount": 7,
+                "worksCount": 576
+            },
+            {
+                "year": 2016,
+                "citedByCount": 2,
+                "worksCount": 562
+            },
+            {
+                "year": 2015,
+                "citedByCount": 5,
+                "worksCount": 521
+            },
+            {
+                "year": 2014,
+                "citedByCount": 3,
+                "worksCount": 512
+            },
+            {
+                "year": 2013,
+                "citedByCount": 6,
+                "worksCount": 486
+            },
+            {
+                "year": 2012,
+                "citedByCount": 7,
+                "worksCount": 553
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4210205683",
+        "name": "Numerische Mathematik",
+        "hostOrganizationId": "https://openalex.org/P4310319900",
+        "hostOrganizationName": "Springer Science+Business Media",
+        "worksCount": 4825,
+        "citedByCount": 250482,
+        "twoYearMeanCitedness": 2.272727272727273,
+        "hIndex": 179,
+        "iTenIndex": 3398,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 2390,
+                "currency": "EUR"
+            },
+            {
+                "price": 2990,
+                "currency": "USD"
+            },
+            {
+                "price": 2090,
+                "currency": "GBP"
+            }
+        ],
+        "countryCode": "DE",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10339",
+                "count": 1662
+            },
+            {
+                "id": "https://openalex.org/T10792",
+                "count": 1103
+            },
+            {
+                "id": "https://openalex.org/T12100",
+                "count": 838
+            },
+            {
+                "id": "https://openalex.org/T10514",
+                "count": 791
+            },
+            {
+                "id": "https://openalex.org/T11416",
+                "count": 790
+            },
+            {
+                "id": "https://openalex.org/T12727",
+                "count": 536
+            },
+            {
+                "id": "https://openalex.org/T11263",
+                "count": 479
+            },
+            {
+                "id": "https://openalex.org/T12661",
+                "count": 475
+            },
+            {
+                "id": "https://openalex.org/T10963",
+                "count": 443
+            },
+            {
+                "id": "https://openalex.org/T11205",
+                "count": 439
+            },
+            {
+                "id": "https://openalex.org/T11245",
+                "count": 409
+            },
+            {
+                "id": "https://openalex.org/T10739",
+                "count": 360
+            },
+            {
+                "id": "https://openalex.org/T11191",
+                "count": 353
+            },
+            {
+                "id": "https://openalex.org/T10173",
+                "count": 333
+            },
+            {
+                "id": "https://openalex.org/T12589",
+                "count": 179
+            },
+            {
+                "id": "https://openalex.org/T12565",
+                "count": 161
+            },
+            {
+                "id": "https://openalex.org/T10288",
+                "count": 159
+            },
+            {
+                "id": "https://openalex.org/T11206",
+                "count": 147
+            },
+            {
+                "id": "https://openalex.org/T12404",
+                "count": 133
+            },
+            {
+                "id": "https://openalex.org/T11435",
+                "count": 128
+            },
+            {
+                "id": "https://openalex.org/T13487",
+                "count": 123
+            },
+            {
+                "id": "https://openalex.org/T11697",
+                "count": 120
+            },
+            {
+                "id": "https://openalex.org/T10928",
+                "count": 112
+            },
+            {
+                "id": "https://openalex.org/T10360",
+                "count": 110
+            },
+            {
+                "id": "https://openalex.org/T12809",
+                "count": 98
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 5710,
+                "worksCount": 52
+            },
+            {
+                "year": 2024,
+                "citedByCount": 8273,
+                "worksCount": 58
+            },
+            {
+                "year": 2023,
+                "citedByCount": 8901,
+                "worksCount": 47
+            },
+            {
+                "year": 2022,
+                "citedByCount": 9190,
+                "worksCount": 85
+            },
+            {
+                "year": 2021,
+                "citedByCount": 10836,
+                "worksCount": 106
+            },
+            {
+                "year": 2020,
+                "citedByCount": 11040,
+                "worksCount": 67
+            },
+            {
+                "year": 2019,
+                "citedByCount": 10357,
+                "worksCount": 80
+            },
+            {
+                "year": 2018,
+                "citedByCount": 9631,
+                "worksCount": 71
+            },
+            {
+                "year": 2017,
+                "citedByCount": 9812,
+                "worksCount": 90
+            },
+            {
+                "year": 2016,
+                "citedByCount": 9305,
+                "worksCount": 70
+            },
+            {
+                "year": 2015,
+                "citedByCount": 9438,
+                "worksCount": 93
+            },
+            {
+                "year": 2014,
+                "citedByCount": 9601,
+                "worksCount": 91
+            },
+            {
+                "year": 2013,
+                "citedByCount": 9254,
+                "worksCount": 90
+            },
+            {
+                "year": 2012,
+                "citedByCount": 8353,
+                "worksCount": 71
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S11704996",
+        "name": "Journal of Control Science and Engineering",
+        "hostOrganizationId": "https://openalex.org/P4310319869",
+        "hostOrganizationName": "Hindawi Publishing Corporation",
+        "worksCount": 652,
+        "citedByCount": 6106,
+        "twoYearMeanCitedness": 0.3983739837398374,
+        "hIndex": 33,
+        "iTenIndex": 173,
+        "isOpenAccess": true,
+        "isInDoaj": true,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 1400,
+                "currency": "USD"
+            }
+        ],
+        "countryCode": "GB",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10876",
+                "count": 96
+            },
+            {
+                "id": "https://openalex.org/T10040",
+                "count": 95
+            },
+            {
+                "id": "https://openalex.org/T10046",
+                "count": 77
+            },
+            {
+                "id": "https://openalex.org/T10791",
+                "count": 74
+            },
+            {
+                "id": "https://openalex.org/T13027",
+                "count": 64
+            },
+            {
+                "id": "https://openalex.org/T11347",
+                "count": 47
+            },
+            {
+                "id": "https://openalex.org/T11749",
+                "count": 44
+            },
+            {
+                "id": "https://openalex.org/T11236",
+                "count": 40
+            },
+            {
+                "id": "https://openalex.org/T10249",
+                "count": 36
+            },
+            {
+                "id": "https://openalex.org/T11372",
+                "count": 36
+            },
+            {
+                "id": "https://openalex.org/T11615",
+                "count": 31
+            },
+            {
+                "id": "https://openalex.org/T10586",
+                "count": 29
+            },
+            {
+                "id": "https://openalex.org/T10244",
+                "count": 27
+            },
+            {
+                "id": "https://openalex.org/T10223",
+                "count": 25
+            },
+            {
+                "id": "https://openalex.org/T11187",
+                "count": 22
+            },
+            {
+                "id": "https://openalex.org/T11110",
+                "count": 19
+            },
+            {
+                "id": "https://openalex.org/T10220",
+                "count": 19
+            },
+            {
+                "id": "https://openalex.org/T14139",
+                "count": 18
+            },
+            {
+                "id": "https://openalex.org/T13647",
+                "count": 18
+            },
+            {
+                "id": "https://openalex.org/T10504",
+                "count": 18
+            },
+            {
+                "id": "https://openalex.org/T10228",
+                "count": 17
+            },
+            {
+                "id": "https://openalex.org/T10175",
+                "count": 17
+            },
+            {
+                "id": "https://openalex.org/T13345",
+                "count": 16
+            },
+            {
+                "id": "https://openalex.org/T11394",
+                "count": 15
+            },
+            {
+                "id": "https://openalex.org/T10278",
+                "count": 15
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 269,
+                "worksCount": 3
+            },
+            {
+                "year": 2024,
+                "citedByCount": 528,
+                "worksCount": 4
+            },
+            {
+                "year": 2023,
+                "citedByCount": 771,
+                "worksCount": 63
+            },
+            {
+                "year": 2022,
+                "citedByCount": 715,
+                "worksCount": 60
+            },
+            {
+                "year": 2021,
+                "citedByCount": 717,
+                "worksCount": 20
+            },
+            {
+                "year": 2020,
+                "citedByCount": 600,
+                "worksCount": 32
+            },
+            {
+                "year": 2019,
+                "citedByCount": 528,
+                "worksCount": 38
+            },
+            {
+                "year": 2018,
+                "citedByCount": 469,
+                "worksCount": 74
+            },
+            {
+                "year": 2017,
+                "citedByCount": 354,
+                "worksCount": 72
+            },
+            {
+                "year": 2016,
+                "citedByCount": 245,
+                "worksCount": 83
+            },
+            {
+                "year": 2015,
+                "citedByCount": 176,
+                "worksCount": 57
+            },
+            {
+                "year": 2014,
+                "citedByCount": 193,
+                "worksCount": 37
+            },
+            {
+                "year": 2013,
+                "citedByCount": 158,
+                "worksCount": 30
+            },
+            {
+                "year": 2012,
+                "citedByCount": 91,
+                "worksCount": 60
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S3880285",
+        "name": "Science",
+        "hostOrganizationId": "https://openalex.org/P4310315823",
+        "hostOrganizationName": "American Association for the Advancement of Science",
+        "worksCount": 375806,
+        "citedByCount": 21722634,
+        "twoYearMeanCitedness": 19.282803180914513,
+        "hIndex": 1721,
+        "iTenIndex": 83774,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": null,
+        "countryCode": "US",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T13656",
+                "count": 7463
+            },
+            {
+                "id": "https://openalex.org/T10325",
+                "count": 5755
+            },
+            {
+                "id": "https://openalex.org/T10017",
+                "count": 4811
+            },
+            {
+                "id": "https://openalex.org/T12168",
+                "count": 4719
+            },
+            {
+                "id": "https://openalex.org/T10406",
+                "count": 3978
+            },
+            {
+                "id": "https://openalex.org/T12836",
+                "count": 3927
+            },
+            {
+                "id": "https://openalex.org/T13297",
+                "count": 3865
+            },
+            {
+                "id": "https://openalex.org/T10487",
+                "count": 3656
+            },
+            {
+                "id": "https://openalex.org/T13937",
+                "count": 3445
+            },
+            {
+                "id": "https://openalex.org/T12788",
+                "count": 3397
+            },
+            {
+                "id": "https://openalex.org/T10521",
+                "count": 2969
+            },
+            {
+                "id": "https://openalex.org/T12717",
+                "count": 2838
+            },
+            {
+                "id": "https://openalex.org/T14475",
+                "count": 2700
+            },
+            {
+                "id": "https://openalex.org/T13726",
+                "count": 2693
+            },
+            {
+                "id": "https://openalex.org/T14293",
+                "count": 2686
+            },
+            {
+                "id": "https://openalex.org/T12327",
+                "count": 2533
+            },
+            {
+                "id": "https://openalex.org/T10077",
+                "count": 2425
+            },
+            {
+                "id": "https://openalex.org/T12471",
+                "count": 2400
+            },
+            {
+                "id": "https://openalex.org/T10001",
+                "count": 2294
+            },
+            {
+                "id": "https://openalex.org/T13015",
+                "count": 2189
+            },
+            {
+                "id": "https://openalex.org/T11354",
+                "count": 2040
+            },
+            {
+                "id": "https://openalex.org/T10878",
+                "count": 2023
+            },
+            {
+                "id": "https://openalex.org/T13417",
+                "count": 2011
+            },
+            {
+                "id": "https://openalex.org/T10702",
+                "count": 1969
+            },
+            {
+                "id": "https://openalex.org/T14185",
+                "count": 1908
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 619147,
+                "worksCount": 1717
+            },
+            {
+                "year": 2024,
+                "citedByCount": 942511,
+                "worksCount": 2046
+            },
+            {
+                "year": 2023,
+                "citedByCount": 1018123,
+                "worksCount": 1971
+            },
+            {
+                "year": 2022,
+                "citedByCount": 1054074,
+                "worksCount": 2053
+            },
+            {
+                "year": 2021,
+                "citedByCount": 1131978,
+                "worksCount": 3549
+            },
+            {
+                "year": 2020,
+                "citedByCount": 1057654,
+                "worksCount": 4722
+            },
+            {
+                "year": 2019,
+                "citedByCount": 936531,
+                "worksCount": 4767
+            },
+            {
+                "year": 2018,
+                "citedByCount": 871862,
+                "worksCount": 4897
+            },
+            {
+                "year": 2017,
+                "citedByCount": 824685,
+                "worksCount": 4994
+            },
+            {
+                "year": 2016,
+                "citedByCount": 789930,
+                "worksCount": 4883
+            },
+            {
+                "year": 2015,
+                "citedByCount": 772997,
+                "worksCount": 5589
+            },
+            {
+                "year": 2014,
+                "citedByCount": 771547,
+                "worksCount": 3970
+            },
+            {
+                "year": 2013,
+                "citedByCount": 753298,
+                "worksCount": 4008
+            },
+            {
+                "year": 2012,
+                "citedByCount": 715051,
+                "worksCount": 3941
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4210191605",
+        "name": "Computers, materials & continua/Computers, materials & continua (Print)",
+        "hostOrganizationId": null,
+        "hostOrganizationName": null,
+        "worksCount": 3820,
+        "citedByCount": 43141,
+        "twoYearMeanCitedness": 2.1386138613861387,
+        "hIndex": 63,
+        "iTenIndex": 1339,
+        "isOpenAccess": true,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": null,
+        "countryCode": "US",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10400",
+                "count": 503
+            },
+            {
+                "id": "https://openalex.org/T10273",
+                "count": 358
+            },
+            {
+                "id": "https://openalex.org/T11512",
+                "count": 323
+            },
+            {
+                "id": "https://openalex.org/T11241",
+                "count": 288
+            },
+            {
+                "id": "https://openalex.org/T10270",
+                "count": 249
+            },
+            {
+                "id": "https://openalex.org/T10036",
+                "count": 210
+            },
+            {
+                "id": "https://openalex.org/T10388",
+                "count": 199
+            },
+            {
+                "id": "https://openalex.org/T12702",
+                "count": 190
+            },
+            {
+                "id": "https://openalex.org/T11775",
+                "count": 185
+            },
+            {
+                "id": "https://openalex.org/T10331",
+                "count": 171
+            },
+            {
+                "id": "https://openalex.org/T10862",
+                "count": 169
+            },
+            {
+                "id": "https://openalex.org/T11017",
+                "count": 162
+            },
+            {
+                "id": "https://openalex.org/T12357",
+                "count": 160
+            },
+            {
+                "id": "https://openalex.org/T11598",
+                "count": 148
+            },
+            {
+                "id": "https://openalex.org/T10764",
+                "count": 143
+            },
+            {
+                "id": "https://openalex.org/T10101",
+                "count": 140
+            },
+            {
+                "id": "https://openalex.org/T10616",
+                "count": 139
+            },
+            {
+                "id": "https://openalex.org/T10080",
+                "count": 135
+            },
+            {
+                "id": "https://openalex.org/T10028",
+                "count": 126
+            },
+            {
+                "id": "https://openalex.org/T10664",
+                "count": 117
+            },
+            {
+                "id": "https://openalex.org/T10627",
+                "count": 115
+            },
+            {
+                "id": "https://openalex.org/T10237",
+                "count": 112
+            },
+            {
+                "id": "https://openalex.org/T11396",
+                "count": 112
+            },
+            {
+                "id": "https://openalex.org/T12707",
+                "count": 109
+            },
+            {
+                "id": "https://openalex.org/T10100",
+                "count": 102
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 5098,
+                "worksCount": 915
+            },
+            {
+                "year": 2024,
+                "citedByCount": 9208,
+                "worksCount": 990
+            },
+            {
+                "year": 2023,
+                "citedByCount": 9870,
+                "worksCount": 756
+            },
+            {
+                "year": 2022,
+                "citedByCount": 10085,
+                "worksCount": 1264
+            },
+            {
+                "year": 2021,
+                "citedByCount": 6239,
+                "worksCount": 1387
+            },
+            {
+                "year": 2020,
+                "citedByCount": 2174,
+                "worksCount": 544
+            },
+            {
+                "year": 2019,
+                "citedByCount": 460,
+                "worksCount": 326
+            },
+            {
+                "year": 2018,
+                "citedByCount": 15,
+                "worksCount": 41
+            },
+            {
+                "year": 2017,
+                "citedByCount": 0,
+                "worksCount": 3
+            },
+            {
+                "year": 2016,
+                "citedByCount": 1,
+                "worksCount": 0
+            },
+            {
+                "year": 2015,
+                "citedByCount": 1,
+                "worksCount": 0
+            },
+            {
+                "year": 2014,
+                "citedByCount": 6,
+                "worksCount": 0
+            },
+            {
+                "year": 2013,
+                "citedByCount": 1,
+                "worksCount": 0
+            },
+            {
+                "year": 2012,
+                "citedByCount": 2,
+                "worksCount": 4
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4210187594",
+        "name": "Journal of Physics Conference Series",
+        "hostOrganizationId": "https://openalex.org/P4310320083",
+        "hostOrganizationName": "IOP Publishing",
+        "worksCount": 177559,
+        "citedByCount": 695137,
+        "twoYearMeanCitedness": 0.5231438585183096,
+        "hIndex": 124,
+        "iTenIndex": 16899,
+        "isOpenAccess": true,
+        "isInDoaj": false,
+        "isIndexedInScopus": false,
+        "isCore": true,
+        "ArticleProcessingCharge": null,
+        "countryCode": "GB",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10048",
+                "count": 7449
+            },
+            {
+                "id": "https://openalex.org/T10224",
+                "count": 4121
+            },
+            {
+                "id": "https://openalex.org/T10523",
+                "count": 3972
+            },
+            {
+                "id": "https://openalex.org/T10037",
+                "count": 3835
+            },
+            {
+                "id": "https://openalex.org/T10527",
+                "count": 3568
+            },
+            {
+                "id": "https://openalex.org/T12590",
+                "count": 3393
+            },
+            {
+                "id": "https://openalex.org/T11044",
+                "count": 3156
+            },
+            {
+                "id": "https://openalex.org/T12522",
+                "count": 2962
+            },
+            {
+                "id": "https://openalex.org/T10093",
+                "count": 2911
+            },
+            {
+                "id": "https://openalex.org/T10921",
+                "count": 2831
+            },
+            {
+                "id": "https://openalex.org/T10095",
+                "count": 2745
+            },
+            {
+                "id": "https://openalex.org/T10818",
+                "count": 2735
+            },
+            {
+                "id": "https://openalex.org/T11090",
+                "count": 2723
+            },
+            {
+                "id": "https://openalex.org/T11715",
+                "count": 2688
+            },
+            {
+                "id": "https://openalex.org/T11949",
+                "count": 2680
+            },
+            {
+                "id": "https://openalex.org/T10360",
+                "count": 2446
+            },
+            {
+                "id": "https://openalex.org/T10002",
+                "count": 2423
+            },
+            {
+                "id": "https://openalex.org/T11371",
+                "count": 2339
+            },
+            {
+                "id": "https://openalex.org/T10715",
+                "count": 2315
+            },
+            {
+                "id": "https://openalex.org/T10680",
+                "count": 2295
+            },
+            {
+                "id": "https://openalex.org/T10025",
+                "count": 2241
+            },
+            {
+                "id": "https://openalex.org/T11367",
+                "count": 2150
+            },
+            {
+                "id": "https://openalex.org/T11854",
+                "count": 1938
+            },
+            {
+                "id": "https://openalex.org/T10377",
+                "count": 1906
+            },
+            {
+                "id": "https://openalex.org/T10384",
+                "count": 1856
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 49982,
+                "worksCount": 7808
+            },
+            {
+                "year": 2024,
+                "citedByCount": 93688,
+                "worksCount": 13196
+            },
+            {
+                "year": 2023,
+                "citedByCount": 111592,
+                "worksCount": 12144
+            },
+            {
+                "year": 2022,
+                "citedByCount": 94640,
+                "worksCount": 12674
+            },
+            {
+                "year": 2021,
+                "citedByCount": 82860,
+                "worksCount": 36223
+            },
+            {
+                "year": 2020,
+                "citedByCount": 55225,
+                "worksCount": 26829
+            },
+            {
+                "year": 2019,
+                "citedByCount": 38593,
+                "worksCount": 24552
+            },
+            {
+                "year": 2018,
+                "citedByCount": 29081,
+                "worksCount": 14167
+            },
+            {
+                "year": 2017,
+                "citedByCount": 22927,
+                "worksCount": 10360
+            },
+            {
+                "year": 2016,
+                "citedByCount": 20267,
+                "worksCount": 6746
+            },
+            {
+                "year": 2015,
+                "citedByCount": 18636,
+                "worksCount": 5630
+            },
+            {
+                "year": 2014,
+                "citedByCount": 15963,
+                "worksCount": 5550
+            },
+            {
+                "year": 2013,
+                "citedByCount": 13766,
+                "worksCount": 4285
+            },
+            {
+                "year": 2012,
+                "citedByCount": 13706,
+                "worksCount": 5236
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4306498577",
+        "name": "2019 Third IEEE International Conference on Robotic Computing (IRC)",
+        "hostOrganizationId": null,
+        "hostOrganizationName": null,
+        "worksCount": 1,
+        "citedByCount": 0,
+        "twoYearMeanCitedness": 0.0,
+        "hIndex": 19,
+        "iTenIndex": 35,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": false,
+        "isCore": false,
+        "ArticleProcessingCharge": null,
+        "countryCode": null,
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10191",
+                "count": 23
+            },
+            {
+                "id": "https://openalex.org/T10586",
+                "count": 22
+            },
+            {
+                "id": "https://openalex.org/T10653",
+                "count": 19
+            },
+            {
+                "id": "https://openalex.org/T10462",
+                "count": 9
+            },
+            {
+                "id": "https://openalex.org/T10879",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T11099",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T13382",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T12288",
+                "count": 6
+            },
+            {
+                "id": "https://openalex.org/T11023",
+                "count": 6
+            },
+            {
+                "id": "https://openalex.org/T10326",
+                "count": 6
+            },
+            {
+                "id": "https://openalex.org/T10868",
+                "count": 6
+            },
+            {
+                "id": "https://openalex.org/T10331",
+                "count": 6
+            },
+            {
+                "id": "https://openalex.org/T10531",
+                "count": 5
+            },
+            {
+                "id": "https://openalex.org/T10812",
+                "count": 5
+            },
+            {
+                "id": "https://openalex.org/T10571",
+                "count": 5
+            },
+            {
+                "id": "https://openalex.org/T11192",
+                "count": 5
+            },
+            {
+                "id": "https://openalex.org/T12784",
+                "count": 5
+            },
+            {
+                "id": "https://openalex.org/T11164",
+                "count": 4
+            },
+            {
+                "id": "https://openalex.org/T11450",
+                "count": 4
+            },
+            {
+                "id": "https://openalex.org/T10036",
+                "count": 4
+            },
+            {
+                "id": "https://openalex.org/T10743",
+                "count": 4
+            },
+            {
+                "id": "https://openalex.org/T11241",
+                "count": 4
+            },
+            {
+                "id": "https://openalex.org/T11211",
+                "count": 4
+            },
+            {
+                "id": "https://openalex.org/T10639",
+                "count": 4
+            },
+            {
+                "id": "https://openalex.org/T10906",
+                "count": 3
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2019,
+                "citedByCount": 0,
+                "worksCount": 130
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S2764886168",
+        "name": "Journal of Robotics and Mechatronics",
+        "hostOrganizationId": "https://openalex.org/P4324309662",
+        "hostOrganizationName": "Fuji Technology Press Ltd.",
+        "worksCount": 3392,
+        "citedByCount": 19642,
+        "twoYearMeanCitedness": 0.8902439024390244,
+        "hIndex": 43,
+        "iTenIndex": 594,
+        "isOpenAccess": true,
+        "isInDoaj": true,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 0,
+                "currency": "USD"
+            }
+        ],
+        "countryCode": "JP",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10586",
+                "count": 462
+            },
+            {
+                "id": "https://openalex.org/T12784",
+                "count": 410
+            },
+            {
+                "id": "https://openalex.org/T10653",
+                "count": 386
+            },
+            {
+                "id": "https://openalex.org/T10879",
+                "count": 375
+            },
+            {
+                "id": "https://openalex.org/T10868",
+                "count": 373
+            },
+            {
+                "id": "https://openalex.org/T10191",
+                "count": 360
+            },
+            {
+                "id": "https://openalex.org/T13382",
+                "count": 296
+            },
+            {
+                "id": "https://openalex.org/T11023",
+                "count": 262
+            },
+            {
+                "id": "https://openalex.org/T11687",
+                "count": 213
+            },
+            {
+                "id": "https://openalex.org/T10571",
+                "count": 207
+            },
+            {
+                "id": "https://openalex.org/T10784",
+                "count": 189
+            },
+            {
+                "id": "https://openalex.org/T11615",
+                "count": 150
+            },
+            {
+                "id": "https://openalex.org/T14335",
+                "count": 141
+            },
+            {
+                "id": "https://openalex.org/T10914",
+                "count": 109
+            },
+            {
+                "id": "https://openalex.org/T10531",
+                "count": 107
+            },
+            {
+                "id": "https://openalex.org/T13827",
+                "count": 98
+            },
+            {
+                "id": "https://openalex.org/T11707",
+                "count": 94
+            },
+            {
+                "id": "https://openalex.org/T10510",
+                "count": 93
+            },
+            {
+                "id": "https://openalex.org/T11398",
+                "count": 83
+            },
+            {
+                "id": "https://openalex.org/T10338",
+                "count": 81
+            },
+            {
+                "id": "https://openalex.org/T11192",
+                "count": 81
+            },
+            {
+                "id": "https://openalex.org/T10709",
+                "count": 79
+            },
+            {
+                "id": "https://openalex.org/T11372",
+                "count": 77
+            },
+            {
+                "id": "https://openalex.org/T11394",
+                "count": 74
+            },
+            {
+                "id": "https://openalex.org/T11486",
+                "count": 73
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 694,
+                "worksCount": 123
+            },
+            {
+                "year": 2024,
+                "citedByCount": 1233,
+                "worksCount": 153
+            },
+            {
+                "year": 2023,
+                "citedByCount": 1543,
+                "worksCount": 170
+            },
+            {
+                "year": 2022,
+                "citedByCount": 1366,
+                "worksCount": 158
+            },
+            {
+                "year": 2021,
+                "citedByCount": 1235,
+                "worksCount": 139
+            },
+            {
+                "year": 2020,
+                "citedByCount": 1013,
+                "worksCount": 135
+            },
+            {
+                "year": 2019,
+                "citedByCount": 933,
+                "worksCount": 98
+            },
+            {
+                "year": 2018,
+                "citedByCount": 916,
+                "worksCount": 104
+            },
+            {
+                "year": 2017,
+                "citedByCount": 844,
+                "worksCount": 112
+            },
+            {
+                "year": 2016,
+                "citedByCount": 904,
+                "worksCount": 107
+            },
+            {
+                "year": 2015,
+                "citedByCount": 891,
+                "worksCount": 85
+            },
+            {
+                "year": 2014,
+                "citedByCount": 875,
+                "worksCount": 114
+            },
+            {
+                "year": 2013,
+                "citedByCount": 1014,
+                "worksCount": 125
+            },
+            {
+                "year": 2012,
+                "citedByCount": 807,
+                "worksCount": 119
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4210177482",
+        "name": "Linköping studies in science and technology. Dissertations",
+        "hostOrganizationId": "https://openalex.org/P4310317096",
+        "hostOrganizationName": "Linköping University Electronic Press",
+        "worksCount": 396,
+        "citedByCount": 1464,
+        "twoYearMeanCitedness": 0.49382716049382713,
+        "hIndex": 18,
+        "iTenIndex": 43,
+        "isOpenAccess": true,
+        "isInDoaj": false,
+        "isIndexedInScopus": false,
+        "isCore": false,
+        "ArticleProcessingCharge": null,
+        "countryCode": "SE",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10660",
+                "count": 31
+            },
+            {
+                "id": "https://openalex.org/T10377",
+                "count": 26
+            },
+            {
+                "id": "https://openalex.org/T10472",
+                "count": 25
+            },
+            {
+                "id": "https://openalex.org/T11195",
+                "count": 17
+            },
+            {
+                "id": "https://openalex.org/T11159",
+                "count": 15
+            },
+            {
+                "id": "https://openalex.org/T10338",
+                "count": 15
+            },
+            {
+                "id": "https://openalex.org/T10099",
+                "count": 12
+            },
+            {
+                "id": "https://openalex.org/T10148",
+                "count": 12
+            },
+            {
+                "id": "https://openalex.org/T11341",
+                "count": 12
+            },
+            {
+                "id": "https://openalex.org/T10054",
+                "count": 11
+            },
+            {
+                "id": "https://openalex.org/T10045",
+                "count": 11
+            },
+            {
+                "id": "https://openalex.org/T10083",
+                "count": 11
+            },
+            {
+                "id": "https://openalex.org/T10164",
+                "count": 11
+            },
+            {
+                "id": "https://openalex.org/T10876",
+                "count": 10
+            },
+            {
+                "id": "https://openalex.org/T10783",
+                "count": 10
+            },
+            {
+                "id": "https://openalex.org/T10904",
+                "count": 9
+            },
+            {
+                "id": "https://openalex.org/T11472",
+                "count": 9
+            },
+            {
+                "id": "https://openalex.org/T10361",
+                "count": 9
+            },
+            {
+                "id": "https://openalex.org/T12810",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T11114",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T14147",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T10247",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T11601",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T10323",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T10152",
+                "count": 8
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 90,
+                "worksCount": 53
+            },
+            {
+                "year": 2024,
+                "citedByCount": 224,
+                "worksCount": 55
+            },
+            {
+                "year": 2023,
+                "citedByCount": 267,
+                "worksCount": 88
+            },
+            {
+                "year": 2022,
+                "citedByCount": 315,
+                "worksCount": 74
+            },
+            {
+                "year": 2021,
+                "citedByCount": 205,
+                "worksCount": 83
+            },
+            {
+                "year": 2020,
+                "citedByCount": 115,
+                "worksCount": 68
+            },
+            {
+                "year": 2019,
+                "citedByCount": 90,
+                "worksCount": 65
+            },
+            {
+                "year": 2018,
+                "citedByCount": 61,
+                "worksCount": 27
+            },
+            {
+                "year": 2017,
+                "citedByCount": 37,
+                "worksCount": 17
+            },
+            {
+                "year": 2016,
+                "citedByCount": 27,
+                "worksCount": 22
+            },
+            {
+                "year": 2015,
+                "citedByCount": 25,
+                "worksCount": 39
+            },
+            {
+                "year": 2014,
+                "citedByCount": 4,
+                "worksCount": 5
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S2764687066",
+        "name": "The Journal of Engineering",
+        "hostOrganizationId": "https://openalex.org/P4310311714",
+        "hostOrganizationName": "Institution of Engineering and Technology",
+        "worksCount": 4191,
+        "citedByCount": 19831,
+        "twoYearMeanCitedness": 1.130801687763713,
+        "hIndex": 37,
+        "iTenIndex": 563,
+        "isOpenAccess": true,
+        "isInDoaj": true,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 1500,
+                "currency": "EUR"
+            },
+            {
+                "price": 1300,
+                "currency": "GBP"
+            },
+            {
+                "price": 1650,
+                "currency": "USD"
+            }
+        ],
+        "countryCode": "US",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10223",
+                "count": 500
+            },
+            {
+                "id": "https://openalex.org/T11102",
+                "count": 490
+            },
+            {
+                "id": "https://openalex.org/T11038",
+                "count": 303
+            },
+            {
+                "id": "https://openalex.org/T10891",
+                "count": 253
+            },
+            {
+                "id": "https://openalex.org/T14502",
+                "count": 250
+            },
+            {
+                "id": "https://openalex.org/T10228",
+                "count": 217
+            },
+            {
+                "id": "https://openalex.org/T10175",
+                "count": 201
+            },
+            {
+                "id": "https://openalex.org/T10972",
+                "count": 189
+            },
+            {
+                "id": "https://openalex.org/T10603",
+                "count": 168
+            },
+            {
+                "id": "https://openalex.org/T10454",
+                "count": 155
+            },
+            {
+                "id": "https://openalex.org/T10278",
+                "count": 153
+            },
+            {
+                "id": "https://openalex.org/T13183",
+                "count": 145
+            },
+            {
+                "id": "https://openalex.org/T10305",
+                "count": 144
+            },
+            {
+                "id": "https://openalex.org/T10740",
+                "count": 144
+            },
+            {
+                "id": "https://openalex.org/T14444",
+                "count": 125
+            },
+            {
+                "id": "https://openalex.org/T10361",
+                "count": 124
+            },
+            {
+                "id": "https://openalex.org/T10801",
+                "count": 121
+            },
+            {
+                "id": "https://openalex.org/T10663",
+                "count": 119
+            },
+            {
+                "id": "https://openalex.org/T10511",
+                "count": 99
+            },
+            {
+                "id": "https://openalex.org/T11052",
+                "count": 95
+            },
+            {
+                "id": "https://openalex.org/T11941",
+                "count": 88
+            },
+            {
+                "id": "https://openalex.org/T10424",
+                "count": 88
+            },
+            {
+                "id": "https://openalex.org/T12451",
+                "count": 86
+            },
+            {
+                "id": "https://openalex.org/T10931",
+                "count": 83
+            },
+            {
+                "id": "https://openalex.org/T11739",
+                "count": 82
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 1169,
+                "worksCount": 85
+            },
+            {
+                "year": 2024,
+                "citedByCount": 2312,
+                "worksCount": 139
+            },
+            {
+                "year": 2023,
+                "citedByCount": 3050,
+                "worksCount": 124
+            },
+            {
+                "year": 2022,
+                "citedByCount": 3075,
+                "worksCount": 113
+            },
+            {
+                "year": 2021,
+                "citedByCount": 3604,
+                "worksCount": 128
+            },
+            {
+                "year": 2020,
+                "citedByCount": 3362,
+                "worksCount": 186
+            },
+            {
+                "year": 2019,
+                "citedByCount": 1849,
+                "worksCount": 1439
+            },
+            {
+                "year": 2018,
+                "citedByCount": 716,
+                "worksCount": 831
+            },
+            {
+                "year": 2017,
+                "citedByCount": 250,
+                "worksCount": 518
+            },
+            {
+                "year": 2016,
+                "citedByCount": 178,
+                "worksCount": 83
+            },
+            {
+                "year": 2015,
+                "citedByCount": 136,
+                "worksCount": 101
+            },
+            {
+                "year": 2014,
+                "citedByCount": 84,
+                "worksCount": 124
+            },
+            {
+                "year": 2013,
+                "citedByCount": 34,
+                "worksCount": 42
+            },
+            {
+                "year": 2012,
+                "citedByCount": 9,
+                "worksCount": 16
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4210209220",
+        "name": "Cyborg and Bionic Systems",
+        "hostOrganizationId": "https://openalex.org/P4310315823",
+        "hostOrganizationName": "American Association for the Advancement of Science",
+        "worksCount": 82,
+        "citedByCount": 2788,
+        "twoYearMeanCitedness": 14.282608695652174,
+        "hIndex": 38,
+        "iTenIndex": 137,
+        "isOpenAccess": true,
+        "isInDoaj": true,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 0,
+                "currency": "USD"
+            }
+        ],
+        "countryCode": "CN",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10868",
+                "count": 30
+            },
+            {
+                "id": "https://openalex.org/T11486",
+                "count": 28
+            },
+            {
+                "id": "https://openalex.org/T10784",
+                "count": 25
+            },
+            {
+                "id": "https://openalex.org/T10429",
+                "count": 25
+            },
+            {
+                "id": "https://openalex.org/T11601",
+                "count": 23
+            },
+            {
+                "id": "https://openalex.org/T12784",
+                "count": 21
+            },
+            {
+                "id": "https://openalex.org/T10338",
+                "count": 19
+            },
+            {
+                "id": "https://openalex.org/T10653",
+                "count": 18
+            },
+            {
+                "id": "https://openalex.org/T11190",
+                "count": 17
+            },
+            {
+                "id": "https://openalex.org/T11023",
+                "count": 16
+            },
+            {
+                "id": "https://openalex.org/T11737",
+                "count": 16
+            },
+            {
+                "id": "https://openalex.org/T11255",
+                "count": 14
+            },
+            {
+                "id": "https://openalex.org/T10581",
+                "count": 13
+            },
+            {
+                "id": "https://openalex.org/T10879",
+                "count": 12
+            },
+            {
+                "id": "https://openalex.org/T10914",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T12264",
+                "count": 8
+            },
+            {
+                "id": "https://openalex.org/T10241",
+                "count": 7
+            },
+            {
+                "id": "https://openalex.org/T10510",
+                "count": 7
+            },
+            {
+                "id": "https://openalex.org/T10812",
+                "count": 7
+            },
+            {
+                "id": "https://openalex.org/T10729",
+                "count": 7
+            },
+            {
+                "id": "https://openalex.org/T13052",
+                "count": 7
+            },
+            {
+                "id": "https://openalex.org/T10502",
+                "count": 6
+            },
+            {
+                "id": "https://openalex.org/T10114",
+                "count": 6
+            },
+            {
+                "id": "https://openalex.org/T10412",
+                "count": 6
+            },
+            {
+                "id": "https://openalex.org/T11398",
+                "count": 6
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 745,
+                "worksCount": 61
+            },
+            {
+                "year": 2024,
+                "citedByCount": 1055,
+                "worksCount": 59
+            },
+            {
+                "year": 2023,
+                "citedByCount": 711,
+                "worksCount": 61
+            },
+            {
+                "year": 2022,
+                "citedByCount": 257,
+                "worksCount": 31
+            },
+            {
+                "year": 2021,
+                "citedByCount": 22,
+                "worksCount": 23
+            },
+            {
+                "year": 2020,
+                "citedByCount": 1,
+                "worksCount": 4
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4210216266",
+        "name": "Biomimetic Intelligence and Robotics",
+        "hostOrganizationId": "https://openalex.org/P4310320990",
+        "hostOrganizationName": "Elsevier BV",
+        "worksCount": 45,
+        "citedByCount": 621,
+        "twoYearMeanCitedness": 5.053571428571429,
+        "hIndex": 16,
+        "iTenIndex": 29,
+        "isOpenAccess": true,
+        "isInDoaj": true,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 1800,
+                "currency": "USD"
+            }
+        ],
+        "countryCode": "CN",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10868",
+                "count": 36
+            },
+            {
+                "id": "https://openalex.org/T12784",
+                "count": 26
+            },
+            {
+                "id": "https://openalex.org/T10879",
+                "count": 26
+            },
+            {
+                "id": "https://openalex.org/T10653",
+                "count": 25
+            },
+            {
+                "id": "https://openalex.org/T10586",
+                "count": 24
+            },
+            {
+                "id": "https://openalex.org/T11023",
+                "count": 18
+            },
+            {
+                "id": "https://openalex.org/T10784",
+                "count": 16
+            },
+            {
+                "id": "https://openalex.org/T10191",
+                "count": 15
+            },
+            {
+                "id": "https://openalex.org/T11170",
+                "count": 14
+            },
+            {
+                "id": "https://openalex.org/T11486",
+                "count": 12
+            },
+            {
+                "id": "https://openalex.org/T10338",
+                "count": 11
+            },
+            {
+                "id": "https://openalex.org/T10571",
+                "count": 9
+            },
+            {
+                "id": "https://openalex.org/T11192",
+                "count": 9
+            },
+            {
+                "id": "https://openalex.org/T10462",
+                "count": 7
+            },
+            {
+                "id": "https://openalex.org/T10510",
+                "count": 7
+            },
+            {
+                "id": "https://openalex.org/T11687",
+                "count": 6
+            },
+            {
+                "id": "https://openalex.org/T11615",
+                "count": 6
+            },
+            {
+                "id": "https://openalex.org/T12719",
+                "count": 5
+            },
+            {
+                "id": "https://openalex.org/T10036",
+                "count": 5
+            },
+            {
+                "id": "https://openalex.org/T10914",
+                "count": 4
+            },
+            {
+                "id": "https://openalex.org/T10916",
+                "count": 4
+            },
+            {
+                "id": "https://openalex.org/T11372",
+                "count": 4
+            },
+            {
+                "id": "https://openalex.org/T11398",
+                "count": 4
+            },
+            {
+                "id": "https://openalex.org/T10331",
+                "count": 4
+            },
+            {
+                "id": "https://openalex.org/T10906",
+                "count": 4
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 186,
+                "worksCount": 39
+            },
+            {
+                "year": 2024,
+                "citedByCount": 212,
+                "worksCount": 46
+            },
+            {
+                "year": 2023,
+                "citedByCount": 173,
+                "worksCount": 33
+            },
+            {
+                "year": 2022,
+                "citedByCount": 56,
+                "worksCount": 23
+            },
+            {
+                "year": 2021,
+                "citedByCount": 2,
+                "worksCount": 13
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S2764642956",
+        "name": "Journal of the Royal Statistical Society Series C (Applied Statistics)",
+        "hostOrganizationId": "https://openalex.org/P4310311648",
+        "hostOrganizationName": "Oxford University Press",
+        "worksCount": 4253,
+        "citedByCount": 205312,
+        "twoYearMeanCitedness": 1.7938144329896908,
+        "hIndex": 192,
+        "iTenIndex": 1970,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": null,
+        "countryCode": "GB",
+        "societies": [
+            {
+                "url": "http://www.rss.org.uk/",
+                "organization": "Royal Statistical Society"
+            }
+        ],
+        "topics": [
+            {
+                "id": "https://openalex.org/T11871",
+                "count": 495
+            },
+            {
+                "id": "https://openalex.org/T10136",
+                "count": 479
+            },
+            {
+                "id": "https://openalex.org/T10243",
+                "count": 465
+            },
+            {
+                "id": "https://openalex.org/T11901",
+                "count": 299
+            },
+            {
+                "id": "https://openalex.org/T11235",
+                "count": 255
+            },
+            {
+                "id": "https://openalex.org/T11798",
+                "count": 246
+            },
+            {
+                "id": "https://openalex.org/T11443",
+                "count": 209
+            },
+            {
+                "id": "https://openalex.org/T10968",
+                "count": 141
+            },
+            {
+                "id": "https://openalex.org/T10845",
+                "count": 121
+            },
+            {
+                "id": "https://openalex.org/T11875",
+                "count": 113
+            },
+            {
+                "id": "https://openalex.org/T10770",
+                "count": 104
+            },
+            {
+                "id": "https://openalex.org/T11911",
+                "count": 96
+            },
+            {
+                "id": "https://openalex.org/T10320",
+                "count": 89
+            },
+            {
+                "id": "https://openalex.org/T10640",
+                "count": 83
+            },
+            {
+                "id": "https://openalex.org/T10841",
+                "count": 79
+            },
+            {
+                "id": "https://openalex.org/T13487",
+                "count": 78
+            },
+            {
+                "id": "https://openalex.org/T10594",
+                "count": 77
+            },
+            {
+                "id": "https://openalex.org/T10282",
+                "count": 77
+            },
+            {
+                "id": "https://openalex.org/T10928",
+                "count": 75
+            },
+            {
+                "id": "https://openalex.org/T14509",
+                "count": 71
+            },
+            {
+                "id": "https://openalex.org/T12011",
+                "count": 66
+            },
+            {
+                "id": "https://openalex.org/T10029",
+                "count": 65
+            },
+            {
+                "id": "https://openalex.org/T11918",
+                "count": 63
+            },
+            {
+                "id": "https://openalex.org/T11269",
+                "count": 60
+            },
+            {
+                "id": "https://openalex.org/T11245",
+                "count": 59
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 4270,
+                "worksCount": 50
+            },
+            {
+                "year": 2024,
+                "citedByCount": 6554,
+                "worksCount": 90
+            },
+            {
+                "year": 2023,
+                "citedByCount": 7451,
+                "worksCount": 114
+            },
+            {
+                "year": 2022,
+                "citedByCount": 7757,
+                "worksCount": 80
+            },
+            {
+                "year": 2021,
+                "citedByCount": 9436,
+                "worksCount": 75
+            },
+            {
+                "year": 2020,
+                "citedByCount": 9181,
+                "worksCount": 72
+            },
+            {
+                "year": 2019,
+                "citedByCount": 8354,
+                "worksCount": 63
+            },
+            {
+                "year": 2018,
+                "citedByCount": 7877,
+                "worksCount": 83
+            },
+            {
+                "year": 2017,
+                "citedByCount": 7109,
+                "worksCount": 57
+            },
+            {
+                "year": 2016,
+                "citedByCount": 7402,
+                "worksCount": 73
+            },
+            {
+                "year": 2015,
+                "citedByCount": 7293,
+                "worksCount": 41
+            },
+            {
+                "year": 2014,
+                "citedByCount": 8191,
+                "worksCount": 48
+            },
+            {
+                "year": 2013,
+                "citedByCount": 7000,
+                "worksCount": 54
+            },
+            {
+                "year": 2012,
+                "citedByCount": 6894,
+                "worksCount": 53
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S4363607719",
+        "name": "2022 IEEE International Conference on Image Processing (ICIP)",
+        "hostOrganizationId": null,
+        "hostOrganizationName": null,
+        "worksCount": 873,
+        "citedByCount": 4233,
+        "twoYearMeanCitedness": 1.5454545454545454,
+        "hIndex": 96,
+        "iTenIndex": 1698,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": false,
+        "isCore": false,
+        "ArticleProcessingCharge": null,
+        "countryCode": null,
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10531",
+                "count": 1377
+            },
+            {
+                "id": "https://openalex.org/T11105",
+                "count": 1159
+            },
+            {
+                "id": "https://openalex.org/T10627",
+                "count": 1098
+            },
+            {
+                "id": "https://openalex.org/T10036",
+                "count": 830
+            },
+            {
+                "id": "https://openalex.org/T10331",
+                "count": 801
+            },
+            {
+                "id": "https://openalex.org/T11019",
+                "count": 782
+            },
+            {
+                "id": "https://openalex.org/T10688",
+                "count": 726
+            },
+            {
+                "id": "https://openalex.org/T10812",
+                "count": 656
+            },
+            {
+                "id": "https://openalex.org/T11165",
+                "count": 499
+            },
+            {
+                "id": "https://openalex.org/T10741",
+                "count": 498
+            },
+            {
+                "id": "https://openalex.org/T11307",
+                "count": 475
+            },
+            {
+                "id": "https://openalex.org/T11659",
+                "count": 453
+            },
+            {
+                "id": "https://openalex.org/T13114",
+                "count": 447
+            },
+            {
+                "id": "https://openalex.org/T11605",
+                "count": 431
+            },
+            {
+                "id": "https://openalex.org/T11448",
+                "count": 430
+            },
+            {
+                "id": "https://openalex.org/T11512",
+                "count": 427
+            },
+            {
+                "id": "https://openalex.org/T10824",
+                "count": 419
+            },
+            {
+                "id": "https://openalex.org/T10775",
+                "count": 375
+            },
+            {
+                "id": "https://openalex.org/T10191",
+                "count": 369
+            },
+            {
+                "id": "https://openalex.org/T10057",
+                "count": 349
+            },
+            {
+                "id": "https://openalex.org/T10052",
+                "count": 346
+            },
+            {
+                "id": "https://openalex.org/T11714",
+                "count": 336
+            },
+            {
+                "id": "https://openalex.org/T10500",
+                "count": 336
+            },
+            {
+                "id": "https://openalex.org/T10901",
+                "count": 327
+            },
+            {
+                "id": "https://openalex.org/T10689",
+                "count": 256
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 734,
+                "worksCount": 491
+            },
+            {
+                "year": 2024,
+                "citedByCount": 1597,
+                "worksCount": 89
+            },
+            {
+                "year": 2023,
+                "citedByCount": 1462,
+                "worksCount": 731
+            },
+            {
+                "year": 2022,
+                "citedByCount": 273,
+                "worksCount": 875
+            },
+            {
+                "year": 2021,
+                "citedByCount": 36,
+                "worksCount": 797
+            },
+            {
+                "year": 2020,
+                "citedByCount": 8,
+                "worksCount": 702
+            },
+            {
+                "year": 2019,
+                "citedByCount": 11,
+                "worksCount": 863
+            },
+            {
+                "year": 2018,
+                "citedByCount": 11,
+                "worksCount": 0
+            },
+            {
+                "year": 2017,
+                "citedByCount": 17,
+                "worksCount": 719
+            },
+            {
+                "year": 2016,
+                "citedByCount": 16,
+                "worksCount": 690
+            },
+            {
+                "year": 2015,
+                "citedByCount": 7,
+                "worksCount": 758
+            },
+            {
+                "year": 2014,
+                "citedByCount": 6,
+                "worksCount": 925
+            },
+            {
+                "year": 2013,
+                "citedByCount": 11,
+                "worksCount": 0
+            },
+            {
+                "year": 2012,
+                "citedByCount": 5,
+                "worksCount": 0
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S6725529",
+        "name": "IEEE Software",
+        "hostOrganizationId": "https://openalex.org/P4310320439",
+        "hostOrganizationName": "IEEE Computer Society",
+        "worksCount": 7039,
+        "citedByCount": 171983,
+        "twoYearMeanCitedness": 1.2838541666666667,
+        "hIndex": 184,
+        "iTenIndex": 2255,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": null,
+        "countryCode": "US",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10430",
+                "count": 1479
+            },
+            {
+                "id": "https://openalex.org/T10260",
+                "count": 1281
+            },
+            {
+                "id": "https://openalex.org/T10639",
+                "count": 684
+            },
+            {
+                "id": "https://openalex.org/T12127",
+                "count": 586
+            },
+            {
+                "id": "https://openalex.org/T12423",
+                "count": 520
+            },
+            {
+                "id": "https://openalex.org/T10679",
+                "count": 390
+            },
+            {
+                "id": "https://openalex.org/T10743",
+                "count": 347
+            },
+            {
+                "id": "https://openalex.org/T11675",
+                "count": 310
+            },
+            {
+                "id": "https://openalex.org/T11986",
+                "count": 270
+            },
+            {
+                "id": "https://openalex.org/T10703",
+                "count": 260
+            },
+            {
+                "id": "https://openalex.org/T10715",
+                "count": 255
+            },
+            {
+                "id": "https://openalex.org/T11891",
+                "count": 247
+            },
+            {
+                "id": "https://openalex.org/T11450",
+                "count": 234
+            },
+            {
+                "id": "https://openalex.org/T13734",
+                "count": 198
+            },
+            {
+                "id": "https://openalex.org/T10054",
+                "count": 155
+            },
+            {
+                "id": "https://openalex.org/T10101",
+                "count": 152
+            },
+            {
+                "id": "https://openalex.org/T11241",
+                "count": 150
+            },
+            {
+                "id": "https://openalex.org/T10470",
+                "count": 108
+            },
+            {
+                "id": "https://openalex.org/T10126",
+                "count": 107
+            },
+            {
+                "id": "https://openalex.org/T14270",
+                "count": 107
+            },
+            {
+                "id": "https://openalex.org/T10317",
+                "count": 97
+            },
+            {
+                "id": "https://openalex.org/T10772",
+                "count": 93
+            },
+            {
+                "id": "https://openalex.org/T10734",
+                "count": 85
+            },
+            {
+                "id": "https://openalex.org/T13295",
+                "count": 84
+            },
+            {
+                "id": "https://openalex.org/T14042",
+                "count": 80
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 2765,
+                "worksCount": 168
+            },
+            {
+                "year": 2024,
+                "citedByCount": 5402,
+                "worksCount": 217
+            },
+            {
+                "year": 2023,
+                "citedByCount": 6727,
+                "worksCount": 209
+            },
+            {
+                "year": 2022,
+                "citedByCount": 6718,
+                "worksCount": 175
+            },
+            {
+                "year": 2021,
+                "citedByCount": 7779,
+                "worksCount": 192
+            },
+            {
+                "year": 2020,
+                "citedByCount": 7330,
+                "worksCount": 204
+            },
+            {
+                "year": 2019,
+                "citedByCount": 6943,
+                "worksCount": 186
+            },
+            {
+                "year": 2018,
+                "citedByCount": 6780,
+                "worksCount": 169
+            },
+            {
+                "year": 2017,
+                "citedByCount": 6229,
+                "worksCount": 229
+            },
+            {
+                "year": 2016,
+                "citedByCount": 5768,
+                "worksCount": 140
+            },
+            {
+                "year": 2015,
+                "citedByCount": 6853,
+                "worksCount": 203
+            },
+            {
+                "year": 2014,
+                "citedByCount": 7181,
+                "worksCount": 280
+            },
+            {
+                "year": 2013,
+                "citedByCount": 7144,
+                "worksCount": 479
+            },
+            {
+                "year": 2012,
+                "citedByCount": 7270,
+                "worksCount": 577
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S204210209",
+        "name": "American Journal of Physiology-Legacy Content",
+        "hostOrganizationId": "https://openalex.org/P4310320155",
+        "hostOrganizationName": "American Physiological Society",
+        "worksCount": 23531,
+        "citedByCount": 717188,
+        "twoYearMeanCitedness": 0.0,
+        "hIndex": 237,
+        "iTenIndex": 14794,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": false,
+        "isCore": false,
+        "ArticleProcessingCharge": null,
+        "countryCode": "US",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T11457",
+                "count": 1777
+            },
+            {
+                "id": "https://openalex.org/T12267",
+                "count": 1353
+            },
+            {
+                "id": "https://openalex.org/T12840",
+                "count": 1280
+            },
+            {
+                "id": "https://openalex.org/T10745",
+                "count": 1057
+            },
+            {
+                "id": "https://openalex.org/T11456",
+                "count": 915
+            },
+            {
+                "id": "https://openalex.org/T10724",
+                "count": 888
+            },
+            {
+                "id": "https://openalex.org/T11839",
+                "count": 766
+            },
+            {
+                "id": "https://openalex.org/T11027",
+                "count": 761
+            },
+            {
+                "id": "https://openalex.org/T10217",
+                "count": 721
+            },
+            {
+                "id": "https://openalex.org/T11967",
+                "count": 691
+            },
+            {
+                "id": "https://openalex.org/T11056",
+                "count": 630
+            },
+            {
+                "id": "https://openalex.org/T11399",
+                "count": 548
+            },
+            {
+                "id": "https://openalex.org/T10152",
+                "count": 529
+            },
+            {
+                "id": "https://openalex.org/T11541",
+                "count": 508
+            },
+            {
+                "id": "https://openalex.org/T11209",
+                "count": 463
+            },
+            {
+                "id": "https://openalex.org/T10493",
+                "count": 455
+            },
+            {
+                "id": "https://openalex.org/T13338",
+                "count": 451
+            },
+            {
+                "id": "https://openalex.org/T10570",
+                "count": 439
+            },
+            {
+                "id": "https://openalex.org/T10155",
+                "count": 435
+            },
+            {
+                "id": "https://openalex.org/T10821",
+                "count": 426
+            },
+            {
+                "id": "https://openalex.org/T12094",
+                "count": 425
+            },
+            {
+                "id": "https://openalex.org/T10301",
+                "count": 419
+            },
+            {
+                "id": "https://openalex.org/T10839",
+                "count": 408
+            },
+            {
+                "id": "https://openalex.org/T10489",
+                "count": 408
+            },
+            {
+                "id": "https://openalex.org/T11629",
+                "count": 389
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 1997,
+                "worksCount": 0
+            },
+            {
+                "year": 2024,
+                "citedByCount": 3257,
+                "worksCount": 0
+            },
+            {
+                "year": 2023,
+                "citedByCount": 3966,
+                "worksCount": 0
+            },
+            {
+                "year": 2022,
+                "citedByCount": 4198,
+                "worksCount": 0
+            },
+            {
+                "year": 2021,
+                "citedByCount": 4666,
+                "worksCount": 1
+            },
+            {
+                "year": 2020,
+                "citedByCount": 4684,
+                "worksCount": 0
+            },
+            {
+                "year": 2019,
+                "citedByCount": 4281,
+                "worksCount": 0
+            },
+            {
+                "year": 2018,
+                "citedByCount": 4356,
+                "worksCount": 0
+            },
+            {
+                "year": 2017,
+                "citedByCount": 4132,
+                "worksCount": 0
+            },
+            {
+                "year": 2016,
+                "citedByCount": 4588,
+                "worksCount": 0
+            },
+            {
+                "year": 2015,
+                "citedByCount": 5159,
+                "worksCount": 2
+            },
+            {
+                "year": 2014,
+                "citedByCount": 5677,
+                "worksCount": 22
+            },
+            {
+                "year": 2013,
+                "citedByCount": 5323,
+                "worksCount": 25
+            },
+            {
+                "year": 2012,
+                "citedByCount": 6024,
+                "worksCount": 27
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S133078663",
+        "name": "Cognitive Computation",
+        "hostOrganizationId": "https://openalex.org/P4310319900",
+        "hostOrganizationName": "Springer Science+Business Media",
+        "worksCount": 1123,
+        "citedByCount": 33452,
+        "twoYearMeanCitedness": 5.553571428571429,
+        "hIndex": 83,
+        "iTenIndex": 777,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 2190,
+                "currency": "EUR"
+            },
+            {
+                "price": 2790,
+                "currency": "USD"
+            },
+            {
+                "price": 1890,
+                "currency": "GBP"
+            }
+        ],
+        "countryCode": "US",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10581",
+                "count": 112
+            },
+            {
+                "id": "https://openalex.org/T10028",
+                "count": 110
+            },
+            {
+                "id": "https://openalex.org/T10050",
+                "count": 108
+            },
+            {
+                "id": "https://openalex.org/T10664",
+                "count": 100
+            },
+            {
+                "id": "https://openalex.org/T10320",
+                "count": 96
+            },
+            {
+                "id": "https://openalex.org/T10429",
+                "count": 91
+            },
+            {
+                "id": "https://openalex.org/T12676",
+                "count": 89
+            },
+            {
+                "id": "https://openalex.org/T10502",
+                "count": 85
+            },
+            {
+                "id": "https://openalex.org/T13083",
+                "count": 82
+            },
+            {
+                "id": "https://openalex.org/T11605",
+                "count": 70
+            },
+            {
+                "id": "https://openalex.org/T11307",
+                "count": 67
+            },
+            {
+                "id": "https://openalex.org/T10057",
+                "count": 67
+            },
+            {
+                "id": "https://openalex.org/T11063",
+                "count": 65
+            },
+            {
+                "id": "https://openalex.org/T10627",
+                "count": 62
+            },
+            {
+                "id": "https://openalex.org/T10667",
+                "count": 52
+            },
+            {
+                "id": "https://openalex.org/T12805",
+                "count": 52
+            },
+            {
+                "id": "https://openalex.org/T10036",
+                "count": 50
+            },
+            {
+                "id": "https://openalex.org/T10331",
+                "count": 46
+            },
+            {
+                "id": "https://openalex.org/T10181",
+                "count": 45
+            },
+            {
+                "id": "https://openalex.org/T10427",
+                "count": 41
+            },
+            {
+                "id": "https://openalex.org/T11550",
+                "count": 40
+            },
+            {
+                "id": "https://openalex.org/T10860",
+                "count": 38
+            },
+            {
+                "id": "https://openalex.org/T10824",
+                "count": 37
+            },
+            {
+                "id": "https://openalex.org/T11775",
+                "count": 37
+            },
+            {
+                "id": "https://openalex.org/T11512",
+                "count": 37
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 2407,
+                "worksCount": 120
+            },
+            {
+                "year": 2024,
+                "citedByCount": 3946,
+                "worksCount": 155
+            },
+            {
+                "year": 2023,
+                "citedByCount": 4625,
+                "worksCount": 139
+            },
+            {
+                "year": 2022,
+                "citedByCount": 4416,
+                "worksCount": 141
+            },
+            {
+                "year": 2021,
+                "citedByCount": 4217,
+                "worksCount": 178
+            },
+            {
+                "year": 2020,
+                "citedByCount": 3071,
+                "worksCount": 75
+            },
+            {
+                "year": 2019,
+                "citedByCount": 2706,
+                "worksCount": 82
+            },
+            {
+                "year": 2018,
+                "citedByCount": 2323,
+                "worksCount": 75
+            },
+            {
+                "year": 2017,
+                "citedByCount": 1686,
+                "worksCount": 90
+            },
+            {
+                "year": 2016,
+                "citedByCount": 1175,
+                "worksCount": 71
+            },
+            {
+                "year": 2015,
+                "citedByCount": 955,
+                "worksCount": 61
+            },
+            {
+                "year": 2014,
+                "citedByCount": 708,
+                "worksCount": 70
+            },
+            {
+                "year": 2013,
+                "citedByCount": 470,
+                "worksCount": 43
+            },
+            {
+                "year": 2012,
+                "citedByCount": 333,
+                "worksCount": 79
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S2764999920",
+        "name": "International Journal of Machine Learning and Cybernetics",
+        "hostOrganizationId": "https://openalex.org/P4310319900",
+        "hostOrganizationName": "Springer Science+Business Media",
+        "worksCount": 1808,
+        "citedByCount": 42947,
+        "twoYearMeanCitedness": 3.1889081455805894,
+        "hIndex": 82,
+        "iTenIndex": 1083,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": true,
+        "isCore": true,
+        "ArticleProcessingCharge": [
+            {
+                "price": 2790,
+                "currency": "EUR"
+            },
+            {
+                "price": 3590,
+                "currency": "USD"
+            },
+            {
+                "price": 2390,
+                "currency": "GBP"
+            }
+        ],
+        "countryCode": "DE",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T11063",
+                "count": 350
+            },
+            {
+                "id": "https://openalex.org/T10057",
+                "count": 317
+            },
+            {
+                "id": "https://openalex.org/T10050",
+                "count": 215
+            },
+            {
+                "id": "https://openalex.org/T11550",
+                "count": 184
+            },
+            {
+                "id": "https://openalex.org/T12676",
+                "count": 181
+            },
+            {
+                "id": "https://openalex.org/T11512",
+                "count": 166
+            },
+            {
+                "id": "https://openalex.org/T10538",
+                "count": 165
+            },
+            {
+                "id": "https://openalex.org/T10028",
+                "count": 164
+            },
+            {
+                "id": "https://openalex.org/T10320",
+                "count": 148
+            },
+            {
+                "id": "https://openalex.org/T10824",
+                "count": 145
+            },
+            {
+                "id": "https://openalex.org/T10100",
+                "count": 139
+            },
+            {
+                "id": "https://openalex.org/T11307",
+                "count": 138
+            },
+            {
+                "id": "https://openalex.org/T10627",
+                "count": 124
+            },
+            {
+                "id": "https://openalex.org/T11273",
+                "count": 116
+            },
+            {
+                "id": "https://openalex.org/T10331",
+                "count": 113
+            },
+            {
+                "id": "https://openalex.org/T11652",
+                "count": 112
+            },
+            {
+                "id": "https://openalex.org/T10181",
+                "count": 96
+            },
+            {
+                "id": "https://openalex.org/T12535",
+                "count": 95
+            },
+            {
+                "id": "https://openalex.org/T10036",
+                "count": 92
+            },
+            {
+                "id": "https://openalex.org/T10064",
+                "count": 80
+            },
+            {
+                "id": "https://openalex.org/T10400",
+                "count": 80
+            },
+            {
+                "id": "https://openalex.org/T10637",
+                "count": 79
+            },
+            {
+                "id": "https://openalex.org/T11106",
+                "count": 77
+            },
+            {
+                "id": "https://openalex.org/T11975",
+                "count": 73
+            },
+            {
+                "id": "https://openalex.org/T10812",
+                "count": 72
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 3138,
+                "worksCount": 318
+            },
+            {
+                "year": 2024,
+                "citedByCount": 5456,
+                "worksCount": 442
+            },
+            {
+                "year": 2023,
+                "citedByCount": 6417,
+                "worksCount": 302
+            },
+            {
+                "year": 2022,
+                "citedByCount": 6395,
+                "worksCount": 275
+            },
+            {
+                "year": 2021,
+                "citedByCount": 5290,
+                "worksCount": 237
+            },
+            {
+                "year": 2020,
+                "citedByCount": 3920,
+                "worksCount": 176
+            },
+            {
+                "year": 2019,
+                "citedByCount": 3174,
+                "worksCount": 154
+            },
+            {
+                "year": 2018,
+                "citedByCount": 2795,
+                "worksCount": 124
+            },
+            {
+                "year": 2017,
+                "citedByCount": 1796,
+                "worksCount": 147
+            },
+            {
+                "year": 2016,
+                "citedByCount": 1175,
+                "worksCount": 141
+            },
+            {
+                "year": 2015,
+                "citedByCount": 954,
+                "worksCount": 159
+            },
+            {
+                "year": 2014,
+                "citedByCount": 925,
+                "worksCount": 98
+            },
+            {
+                "year": 2013,
+                "citedByCount": 572,
+                "worksCount": 78
+            },
+            {
+                "year": 2012,
+                "citedByCount": 544,
+                "worksCount": 79
+            }
+        ]
+    },
+    {
+        "id": "https://openalex.org/S2764696622",
+        "name": "AIP conference proceedings",
+        "hostOrganizationId": "https://openalex.org/P4310320257",
+        "hostOrganizationName": "American Institute of Physics",
+        "worksCount": 106582,
+        "citedByCount": 405016,
+        "twoYearMeanCitedness": 0.40418837872382263,
+        "hIndex": 125,
+        "iTenIndex": 13218,
+        "isOpenAccess": false,
+        "isInDoaj": false,
+        "isIndexedInScopus": false,
+        "isCore": true,
+        "ArticleProcessingCharge": null,
+        "countryCode": "US",
+        "societies": [],
+        "topics": [
+            {
+                "id": "https://openalex.org/T10048",
+                "count": 9551
+            },
+            {
+                "id": "https://openalex.org/T10224",
+                "count": 7487
+            },
+            {
+                "id": "https://openalex.org/T11367",
+                "count": 7080
+            },
+            {
+                "id": "https://openalex.org/T11949",
+                "count": 6559
+            },
+            {
+                "id": "https://openalex.org/T10093",
+                "count": 5817
+            },
+            {
+                "id": "https://openalex.org/T10527",
+                "count": 5165
+            },
+            {
+                "id": "https://openalex.org/T10559",
+                "count": 4977
+            },
+            {
+                "id": "https://openalex.org/T11808",
+                "count": 4457
+            },
+            {
+                "id": "https://openalex.org/T11323",
+                "count": 4265
+            },
+            {
+                "id": "https://openalex.org/T10523",
+                "count": 4000
+            },
+            {
+                "id": "https://openalex.org/T10325",
+                "count": 3987
+            },
+            {
+                "id": "https://openalex.org/T10346",
+                "count": 3842
+            },
+            {
+                "id": "https://openalex.org/T10251",
+                "count": 3736
+            },
+            {
+                "id": "https://openalex.org/T10818",
+                "count": 3625
+            },
+            {
+                "id": "https://openalex.org/T10662",
+                "count": 3375
+            },
+            {
+                "id": "https://openalex.org/T10413",
+                "count": 3369
+            },
+            {
+                "id": "https://openalex.org/T10781",
+                "count": 3024
+            },
+            {
+                "id": "https://openalex.org/T10159",
+                "count": 3017
+            },
+            {
+                "id": "https://openalex.org/T10037",
+                "count": 2899
+            },
+            {
+                "id": "https://openalex.org/T11854",
+                "count": 2881
+            },
+            {
+                "id": "https://openalex.org/T10921",
+                "count": 2867
+            },
+            {
+                "id": "https://openalex.org/T11090",
+                "count": 2859
+            },
+            {
+                "id": "https://openalex.org/T10002",
+                "count": 2839
+            },
+            {
+                "id": "https://openalex.org/T11993",
+                "count": 2836
+            },
+            {
+                "id": "https://openalex.org/T10095",
+                "count": 2815
+            }
+        ],
+        "counts_by_year": [
+            {
+                "year": 2025,
+                "citedByCount": 20102,
+                "worksCount": 10694
+            },
+            {
+                "year": 2024,
+                "citedByCount": 34837,
+                "worksCount": 20162
+            },
+            {
+                "year": 2023,
+                "citedByCount": 42537,
+                "worksCount": 28193
+            },
+            {
+                "year": 2022,
+                "citedByCount": 40688,
+                "worksCount": 12490
+            },
+            {
+                "year": 2021,
+                "citedByCount": 33672,
+                "worksCount": 7674
+            },
+            {
+                "year": 2020,
+                "citedByCount": 25949,
+                "worksCount": 10813
+            },
+            {
+                "year": 2019,
+                "citedByCount": 20419,
+                "worksCount": 13106
+            },
+            {
+                "year": 2018,
+                "citedByCount": 16211,
+                "worksCount": 12818
+            },
+            {
+                "year": 2017,
+                "citedByCount": 13191,
+                "worksCount": 11788
+            },
+            {
+                "year": 2016,
+                "citedByCount": 11456,
+                "worksCount": 9145
+            },
+            {
+                "year": 2015,
+                "citedByCount": 10773,
+                "worksCount": 6346
+            },
+            {
+                "year": 2014,
+                "citedByCount": 10904,
+                "worksCount": 5494
+            },
+            {
+                "year": 2013,
+                "citedByCount": 10550,
+                "worksCount": 7261
+            },
+            {
+                "year": 2012,
+                "citedByCount": 9768,
+                "worksCount": 8243
+            }
+        ]
+    }
+]
