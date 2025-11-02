@@ -1,0 +1,52 @@
+| ID          | name                   |   hIndex | lastInstitution                                    |   numberOfWork |
+|:------------|:-----------------------|---------:|:---------------------------------------------------|---------------:|
+| A5086082119 | Lei Yang               |       15 | China Medical University                           |             14 |
+| A5035406850 | Li Wang                |       14 | Beijing Institute of Technology                    |             12 |
+| A5060187904 | Ziying Song            |       12 | Beijing Jiaotong University                        |             11 |
+| A5100732450 | Hongsheng Li           |       92 | Guangzhou Medical University                       |             11 |
+| A5087798118 | Xiaoqing Ye            |       26 | Baidu (China)                                      |             11 |
+| A5100771674 | Hai Wang               |       32 | Jiangsu University                                 |             11 |
+| A5100390719 | Xinyu Zhang            |       24 | Southern University of Science and Technology      |             11 |
+| A5081134905 | John E. Ball           |       25 | Mississippi State University                       |             10 |
+| A5100630554 | Long Chen              |       48 | Oil and Gas Center                                 |             10 |
+| A5100657987 | Yicheng Li             |       23 | Huazhong Agricultural University                   |             10 |
+| A5057276700 | Yingfeng Cai           |       44 | Jiangsu University                                 |             10 |
+| A5100630554 | Long Chen              |       48 | China National Petroleum Corporation (China)       |             10 |
+| A5100657987 | Yicheng Li             |       23 | Shanghai Zhangjiang Laboratory                     |             10 |
+| A5100361751 | Jun Li                 |       18 | Tsinghua University                                |             10 |
+| A5100630554 | Long Chen              |       48 | Tarim University                                   |             10 |
+| A5037053869 | Simegnew Yihunie Alaba |       10 | Mississippi State University                       |              9 |
+| A5100362465 | Xiangyu Zhang          |       72 | Zero to Three                                      |              8 |
+| A5100362465 | Xiangyu Zhang          |       72 | Wuhan University                                   |              8 |
+| A5089561793 | Jiajun Deng            |       21 | The University of Adelaide                         |              8 |
+| A5100353783 | Xin Li                 |       56 | North China University of Science and Technology   |              8 |
+| A5052856441 | Jiaya Jia              |      102 | Hong Kong University of Science and Technology     |              8 |
+| A5001865165 | Xiao Tan               |       26 | Baidu (China)                                      |              8 |
+| A5052856441 | Jiaya Jia              |      102 | University of Hong Kong                            |              8 |
+| A5100748135 | Yu Qiao                |       95 | Kyung Hee University                               |              7 |
+| A5085282915 | Caiyan Jia             |       22 | Beijing Jiaotong University                        |              7 |
+| A5100700826 | Runsheng Xu            |       18 | University of Science and Technology Beijing       |              7 |
+| A5050031109 | Errui Ding             |       50 | Baidu (China)                                      |              7 |
+| A5083443210 | Shaoshuai Shi          |       22 | Voyager Therapeutics (United States)               |              7 |
+| A5041457457 | Hang Xu                |       31 | University of Chinese Academy of Sciences          |              7 |
+| A5083443210 | Shaoshuai Shi          |       22 | Didi Chuxing (China)                               |              7 |
+| A5050031109 | Errui Ding             |       50 | Vision Technology (United States)                  |              7 |
+| A5087818121 | Wanli Ouyang           |       93 | Beijing Academy of Artificial Intelligence         |              7 |
+| A5087818121 | Wanli Ouyang           |       93 | Shanghai Artificial Intelligence Laboratory        |              7 |
+| A5068374815 | Jiaqi Ma               |       35 | Zhongkai University of Agriculture and Engineering |              7 |
+| A5001254143 | Luc Van Gool           |      172 | ETH Zurich                                         |              7 |
+| A5060855982 | Yukang Chen            |       25 | Shanghai Fudan Microelectronics (China)            |              7 |
+| A5060855982 | Yukang Chen            |       25 | Fudan University                                   |              7 |
+| A5101949273 | Jin Fang               |       16 | Yanbian University                                 |              7 |
+| A5005226727 | Xinge Zhu              |       27 | Huawei Technologies (China)                        |              7 |
+| A5091323624 | Feras Dayoub           |       25 | Australian Centre for Robotic Vision               |              6 |
+| A5091323624 | Feras Dayoub           |       25 | The University of Adelaide                         |              6 |
+| A5100752686 | Ping Luo               |       88 | Fourth Hospital of Changsha                        |              6 |
+| A5100336450 | Long Chen              |       50 | Guangxi University of Chinese Medicine             |              6 |
+| A5100336450 | Long Chen              |       50 | Universidade de Vigo                               |              6 |
+| A5100752686 | Ping Luo               |       88 | Hunan Normal University                            |              6 |
+| A5009611484 | Dingfu Zhou            |       25 | Zhejiang Cancer Hospital                           |              6 |
+| A5101843626 | Liangjun Zhang         |       25 | Baidu (China)                                      |              6 |
+| A5053344541 | Yanyong Zhang          |       31 | University of Science and Technology of China      |              6 |
+| A5084499878 | Wolfram Burgard        |      114 | University of Technology Nuremberg                 |              5 |
+| A5100383355 | Lin Liu                |        8 | Beijing Jiaotong University                        |              5 |

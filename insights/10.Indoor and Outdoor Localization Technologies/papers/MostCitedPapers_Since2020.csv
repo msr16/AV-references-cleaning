@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W4210423514,FAST-LIO2: Fast Direct LiDAR-Inertial Odometry,2022,IEEE Transactions on Robotics,745
+W3133648073,"FAST-LIO: A Fast, Robust LiDAR-Inertial Odometry Package by Tightly-Coupled Iterated Kalman Filter",2021,IEEE Robotics and Automation Letters,559
+W4386076204,Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking,2023,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),511
+W3121523871,"Convergent Communication, Sensing and Localization in 6G Systems: An Overview of Technologies, Opportunities and Challenges",2021,IEEE Access,389
+W4211154833,A Comprehensive Survey of Visual SLAM Algorithms,2022,Robotics,287
+W4205574455,F-LOAM : Fast LiDAR Odometry and Mapping,2021,2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),265
+W3042567147,Fast and Robust Iterative Closest Point,2021,IEEE Transactions on Pattern Analysis and Machine Intelligence,233
+W3120564201,RDS-SLAM: Real-Time Dynamic SLAM Using Semantic Segmentation Methods,2021,IEEE Access,207
+W3136926086,A Comparative Analysis of LiDAR SLAM-Based Indoor Navigation for Autonomous Vehicles,2021,IEEE Transactions on Intelligent Transportation Systems,203
+W3181051035,"R $^2$ LIVE: A Robust, Real-Time, LiDAR-Inertial-Visual Tightly-Coupled State Estimator and Mapping",2021,IEEE Robotics and Automation Letters,197
+W4282830511,A Review of Multi-Sensor Fusion SLAM Systems Based on 3D LIDAR,2022,Remote Sensing,193
+W3199184510,"R<sup>3</sup>LIVE: A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package",2022,2022 International Conference on Robotics and Automation (ICRA),185
+W3211389689,Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments,2021,IEEE Transactions on Robotics,176
+W4292544413,Faster-LIO: Lightweight Tightly Coupled Lidar-Inertial Odometry Using Parallel Sparse Incremental Voxels,2022,IEEE Robotics and Automation Letters,171
+W4281611374,A review of visual SLAM methods for autonomous driving vehicles,2022,Engineering Applications of Artificial Intelligence,154
+W3126380805,A Survey on Indoor Vehicle Localization Through RFID Technology,2021,IEEE Access,147
+W4226481925,"Kimera-Multi: Robust, Distributed, Dense Metric-Semantic SLAM for Multi-Robot Systems",2022,IEEE Transactions on Robotics,137
+W3129236922,"Visual and Visual‐Inertial SLAM: State of the Art, Classification, and Experimental Benchmarking",2021,Journal of Sensors,115
+W4285147600,OverlapTransformer: An Efficient and Yaw-Angle-Invariant Transformer Network for LiDAR-Based Place Recognition,2022,IEEE Robotics and Automation Letters,112
+W3171246200,Robust Odometry and Mapping for Multi-LiDAR Systems With Online Extrinsic Calibration,2021,IEEE Transactions on Robotics,98

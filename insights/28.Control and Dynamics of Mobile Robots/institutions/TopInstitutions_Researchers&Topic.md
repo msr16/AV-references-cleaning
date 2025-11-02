@@ -1,0 +1,16 @@
+| ID          | name                                                  | country   |   hIndex |   workCountInTopic |
+|:------------|:------------------------------------------------------|:----------|---------:|-------------------:|
+| I4210116723 | Robotics Research (United States)                     | US        |      127 |                 30 |
+| I43313876   | Dalian Maritime University                            | CN        |      173 |                 28 |
+| I4391767639 | State Key Laboratory of Robotics and Systems          |           |       54 |                 26 |
+| I142078773  | Shenyang Institute of Automation                      | CN        |      106 |                 11 |
+| I4210144102 | Wuhu Hit Robot Technology Research Institute          | CN        |       45 |                  5 |
+| I4210148944 | Dà-Jiāng Innovations Science and Technology (China)   | CN        |       34 |                  5 |
+| I4210135709 | Industrial Systems Institute                          | GR        |       43 |                  5 |
+| I4210125392 | Centre for Automation and Robotics                    | ES        |       77 |                  3 |
+| I179760745  | Mahaveer Academy of Technology and Science University | IN        |       32 |                  2 |
+| I4210107733 | Informatique, BioInformatique, Systèmes Complexes     | FR        |       63 |                  2 |
+| I4210088387 | Heuristics and Diagnostics for Complex Systems        | FR        |       95 |                  2 |
+| I4403386650 | Centre de Robotique                                   |           |       51 |                  1 |
+| I4210116741 | Innopolis University                                  | RU        |       68 |                  1 |
+| I73685970   | Vietnam Maritime University                           | VN        |       55 |                  1 |

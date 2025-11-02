@@ -1,0 +1,52 @@
+| ID          | publisher                                                                             |   hIndex |
+|:------------|:--------------------------------------------------------------------------------------|---------:|
+| S4363607701 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)            |      384 |
+| S4306419272 | International Conference on Computer Vision                                           |      371 |
+| S185367456  | ACM Transactions on Graphics                                                          |      314 |
+| S4306419250 | International Conference on Computer Graphics and Interactive Techniques              |      309 |
+| S101949793  | Sensors                                                                               |      306 |
+| S25538012   | International Journal of Computer Vision                                              |      285 |
+| S4363607795 | 2009 IEEE Conference on Computer Vision and Pattern Recognition                       |      279 |
+| S4363607764 | 2021 IEEE/CVF International Conference on Computer Vision (ICCV)                      |      260 |
+| S73484101   | The International Journal of Robotics Research                                        |      254 |
+| S43295729   | Remote Sensing                                                                        |      247 |
+| S172073041  | Automation in Construction                                                            |      224 |
+| S173339282  | ISPRS Journal of Photogrammetry and Remote Sensing                                    |      221 |
+| S84775595   | IEEE Transactions on Visualization and Computer Graphics                              |      199 |
+| S4210205812 | Applied Sciences                                                                      |      196 |
+| S99003644   | Photogrammetric Engineering & Remote Sensing                                          |      173 |
+| S133768115  | Robotics and Autonomous Systems                                                       |      172 |
+| S67831204   | Computer Graphics Forum                                                               |      164 |
+| S4210179989 | International Journal of Applied Earth Observation and Geoinformation                 |      162 |
+| S147767848  | Measurement                                                                           |      159 |
+| S4210171473 | Computer-Aided Design                                                                 |      156 |
+| S102728161  | Optics and Lasers in Engineering                                                      |      141 |
+| S4210169774 | IEEE Robotics and Automation Letters                                                  |      136 |
+| S151299380  | Journal of Field Robotics                                                             |      131 |
+| S206927758  | Computer-Aided Civil and Infrastructure Engineering                                   |      129 |
+| S4363607734 | 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)       |      124 |
+| S4210212310 | Computer Vision Graphics and Image Processing                                         |      124 |
+| S94821547   | Computers & Graphics                                                                  |      110 |
+| S73060445   | The Visual Computer                                                                   |      101 |
+| S2764431341 | ISPRS International Journal of Geo-Information                                        |       98 |
+| S4210185684 | Springer tracts in advanced robotics                                                  |       97 |
+| S27728525   | Machine Vision and Applications                                                       |       97 |
+| S4306418296 | Eurographics                                                                          |       84 |
+| S2737215817 | The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences                                                                                       |       83 |
+| S199162493  | International Journal of Digital Earth                                                |       82 |
+| S7804318    | GIScience & Remote Sensing                                                            |       78 |
+| S4363607759 | 2022 International Conference on Robotics and Automation (ICRA)                       |       74 |
+| S2764483130 | The Egyptian Journal of Remote Sensing and Space Science                              |       70 |
+| S4210193350 | Drones                                                                                |       70 |
+| S140111354  | The Photogrammetric Record                                                            |       70 |
+| S4393918233 | IEEE Computer Society Conference on Computer Vision and Pattern Recognition workshops |       70 |
+| S2736465063 | Journal of Imaging                                                                    |       62 |
+| S2737735205 | ISPRS annals of the photogrammetry, remote sensing and spatial information sciences   |       60 |
+| S4363607979 | 2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)             |       58 |
+| S4363608079 | 2022 International Conference on Unmanned Aircraft Systems (ICUAS)                    |       57 |
+| S4363608458 | 2021 International Conference on 3D Vision (3DV)                                      |       57 |
+| S183861542  | Journal of Surveying Engineering                                                      |       51 |
+| S145649206  | Intelligent Service Robotics                                                          |       48 |
+| S4210217608 | Infrastructures                                                                       |       45 |
+| S4393918239 | International Conference on Indoor Positioning and Indoor Navigation                  |       42 |
+| S4393918690 | IEEE Winter Conference on Applications of Computer Vision                             |       39 |

@@ -1,0 +1,4 @@
+| ID          | publisher                            |   publishedCount |   avgCitation |
+|:------------|:-------------------------------------|-----------------:|--------------:|
+| S4210201815 | ACM SIGAda Ada Letters               |                1 |             0 |
+| S4210169774 | IEEE Robotics and Automation Letters |                1 |             0 |

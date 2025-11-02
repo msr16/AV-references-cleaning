@@ -1,0 +1,52 @@
+| ID          | name                                                                       |   hIndex |   workCountInTopic |
+|:------------|:---------------------------------------------------------------------------|---------:|-------------------:|
+| F4320321001 | National Natural Science Foundation of China                               |      728 |                 90 |
+| F4320335787 | Fundamental Research Funds for the Central Universities                    |      428 |                 19 |
+| F4320335777 | National Key Research and Development Program of China                     |      503 |                 17 |
+| F4320322843 | Natural Science Foundation of Hunan Province                               |      211 |                  7 |
+| F4320334593 | Natural Sciences and Engineering Research Council of Canada                |      478 |                  6 |
+| F4320320879 | Deutsche Forschungsgemeinschaft                                            |      566 |                  4 |
+| F4320321681 | Ministry of Trade, Industry and Energy                                     |      192 |                  4 |
+| F4320323172 | Natural Science Foundation of Chongqing                                    |      153 |                  3 |
+| F4320322120 | National Research Foundation of Korea                                      |      445 |                  3 |
+| F4320322725 | China Scholarship Council                                                  |      394 |                  3 |
+| F4320321543 | China Postdoctoral Science Foundation                                      |      421 |                  3 |
+| F4320328359 | Ministry of Science and ICT, South Korea                                   |      129 |                  2 |
+| F4320334897 | Natural Science Foundation of Anhui Province                               |      185 |                  2 |
+| F4320313620 | Hubei Provincial Department of Education                                   |       95 |                  2 |
+| F4320321709 | Ministry of Higher Education, Malaysia                                     |      230 |                  2 |
+| F4320320766 | Nanyang Technological University                                           |      212 |                  2 |
+| F4320327514 | Beijing Institute of Technology Research Fund Program for Young Scholars   |       90 |                  2 |
+| F4320321034 | New Energy and Industrial Technology Development Organization              |      154 |                  2 |
+| F4320322025 | Conselho Nacional de Desenvolvimento Científico e Tecnológico              |      336 |                  2 |
+| F4320334764 | Japan Society for the Promotion of Science                                 |      407 |                  2 |
+| F4320322064 | Korea Institute for Advancement of Technology                              |       91 |                  2 |
+| F4320321885 | Science and Technology Commission of Shanghai Municipality                 |      294 |                  2 |
+| F4320334627 | Engineering and Physical Sciences Research Council                         |      461 |                  2 |
+| F4320321881 | Shanghai Municipal Education Commission                                    |      202 |                  1 |
+| F4320320883 | Agence Nationale de la Recherche                                           |      341 |                  1 |
+| F4320325124 | CYTED Ciencia y Tecnología para el Desarrollo                              |       84 |                  1 |
+| F4320313609 | Guangdong Innovative and Entrepreneurial Research Team Program             |      109 |                  1 |
+| F4320326181 | National Aerospace Science Foundation of China                             |       72 |                  1 |
+| F4320332180 | Defense Advanced Research Projects Agency                                  |      327 |                  1 |
+| F4320334436 | Canadian Space Agency                                                      |       88 |                  1 |
+| F4320325831 | Handong Global University                                                  |        9 |                  1 |
+| F4320322217 | Department of Education, Heilongjiang Province                             |       63 |                  1 |
+| F4320333596 | Key Technology Research and Development Program of Shandong                |      133 |                  1 |
+| F4320326441 | Institute for Basic Science                                                |      164 |                  1 |
+| F4320322674 | Hrvatska Zaklada za Znanost                                                |      128 |                  1 |
+| F4320323299 | Norges Forskningsråd                                                       |      266 |                  1 |
+| F4320335203 | Hefei Institutes of Physical Science, Chinese Academy of Sciences          |       50 |                  1 |
+| F4320335669 | Key Laboratory of System Control and Information Processing                |       24 |                  1 |
+| F4320306077 | Boeing                                                                     |       70 |                  1 |
+| F4320322392 | Tsinghua University                                                        |      164 |                  1 |
+| F4320334678 | European Research Council                                                  |      475 |                  1 |
+| F4320321470 | Beijing University of Posts and Telecommunications                         |       79 |                  1 |
+| F4320320671 | National Research Foundation                                               |      228 |                  1 |
+| F4320316344 | Key Project of Research and Development Plan of Hunan Province             |       49 |                  1 |
+| F4320326870 | State Key Laboratory of Advanced Design and Manufacturing for Vehicle Body |       57 |                  1 |
+| F4320308943 | Microsoft Research                                                         |      113 |                  1 |
+| F4320326502 | Department of Science and Technology, Hubei Provincial People's Government |       63 |                  1 |
+| F4320328899 | China University of Geosciences                                            |       46 |                  1 |
+| F4320316529 | Jaguar Land Rover                                                          |       31 |                  1 |
+| F4320330214 | Key Research and Development Program of Hunan Province of China            |       69 |                  1 |

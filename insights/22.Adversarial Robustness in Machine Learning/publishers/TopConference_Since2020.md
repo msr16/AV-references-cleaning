@@ -1,0 +1,13 @@
+| ID          | publisher                                                                             |   publishedCount |   avgCitation |
+|:------------|:--------------------------------------------------------------------------------------|-----------------:|--------------:|
+| S4363607764 | 2021 IEEE/CVF International Conference on Computer Vision (ICCV)                      |                7 |       672.286 |
+| S4363607701 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)            |                6 |       101     |
+| S4363607734 | 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)       |                2 |         7.5   |
+| S4363607748 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) |                2 |        83.5   |
+| S4363608006 | 2022 IEEE Radar Conference (RadarConf22)                                              |                2 |         7.5   |
+| S4363606603 | 2022 IEEE Symposium on Security and Privacy (SP)                                      |                1 |       146     |
+| S4363605370 | 2022 IEEE Intelligent Vehicles Symposium (IV)                                         |                1 |        36     |
+| S4363607737 | 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)  |                1 |        12     |
+| S4363608815 | Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security |                1 |        40     |
+| S4363607716 | 2021 IEEE 5th Conference on Energy Internet and Energy System Integration (EI2)       |                1 |         2     |
+| S4363607707 | 2022 International Joint Conference on Neural Networks (IJCNN)                        |                1 |        21     |

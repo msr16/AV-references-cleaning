@@ -1,0 +1,7 @@
+| ID          | publisher                                                                             |   publishedCount |   avgCitation |
+|:------------|:--------------------------------------------------------------------------------------|-----------------:|--------------:|
+| S4363607701 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)            |                9 |       264.222 |
+| S4363607764 | 2021 IEEE/CVF International Conference on Computer Vision (ICCV)                      |                6 |       731.167 |
+| S4363607979 | 2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)             |                2 |        69     |
+| S4363608757 | Proceedings of the 30th ACM International Conference on Multimedia                    |                2 |        22     |
+| S4363607748 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) |                2 |        10.5   |

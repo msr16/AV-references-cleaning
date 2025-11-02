@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W3173112500,Automotive LiDAR Technology: A Survey,2021,IEEE Transactions on Intelligent Transportation Systems,292
+W4313854933,Perception and sensing for autonomous vehicles under adverse weather conditions: A survey,2023,ISPRS Journal of Photogrammetry and Remote Sensing,273
+W4214558638,Is Pseudo-Lidar needed for Monocular 3D Object detection?,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),237
+W3135204376,Robust Target Recognition and Tracking of Self-Driving Cars With Radar and Camera Information Fusion Under Severe Weather Conditions,2021,IEEE Transactions on Intelligent Transportation Systems,225
+W3183685035,Pixel-Level Extrinsic Self Calibration of High Resolution LiDAR and Camera in Targetless Environments,2021,IEEE Robotics and Automation Letters,214
+W3217335336,Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion,2022,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),174
+W3133767727,BALM: Bundle Adjustment for Lidar Mapping,2021,IEEE Robotics and Automation Letters,154
+W4224947594,BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection,2022,arXiv (Cornell University),150
+W3156877806,Invisible for both Camera and LiDAR: Security of Multi-Sensor Fusion based Perception in Autonomous Driving Under Physical-World Attacks,2021,2022 IEEE Symposium on Security and Privacy (SP),146
+W3173732446,Perception-Aware Multi-Sensor Fusion for 3D LiDAR Semantic Segmentation,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),137
+W3167214600,Robust Multimodal Vehicle Detection in Foggy Weather Using Complementary Lidar and Radar Signals,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),133
+W3164543136,Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection for Autonomous Driving,2021,IEEE Transactions on Circuits and Systems for Video Technology,132
+W4221053356,MmWave Radar and Vision Fusion for Object Detection in Autonomous Driving: A Review,2022,Sensors,131
+W3120910864,Automatic Extrinsic Calibration Method for LiDAR and Camera Sensor Setups,2022,IEEE Transactions on Intelligent Transportation Systems,129
+W3175563878,"RSN: Range Sparse Net for Efficient, Accurate LiDAR 3D Object Detection",2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),129
+W3213288297,Multimodal Virtual Point 3D Detection,2021,arXiv (Cornell University),125
+W3161421216,CARRADA Dataset: Camera and Automotive Radar with Range- Angle- Doppler Annotations,2021,2022 26th International Conference on Pattern Recognition (ICPR),111
+W3187263517,Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),110
+W4230808100,RadarScenes: A Real-World Radar Point Cloud Data Set for Automotive Applications,2021,2021 IEEE 24th International Conference on Information Fusion (FUSION),100
+W4200629389,EPNet++: Cascade Bi-Directional Fusion for Multi-Modal 3D Object Detection,2022,IEEE Transactions on Pattern Analysis and Machine Intelligence,96

@@ -1,0 +1,52 @@
+| ID          | name                                                                  | country   |   hIndex |   workCountInTopic |
+|:------------|:----------------------------------------------------------------------|:----------|---------:|-------------------:|
+| I106165777  | University of Central Florida                                         | US        |      426 |                661 |
+| I116953780  | Tongji University                                                     | CN        |      388 |               2272 |
+| I76569877   | Southeast University                                                  | CN        |      367 |               1722 |
+| I37796252   | Beijing University of Technology                                      | CN        |      247 |                896 |
+| I21193070   | Beijing Jiaotong University                                           | CN        |      241 |               2914 |
+| I4800084    | Southwest Jiaotong University                                         | CN        |      238 |               1308 |
+| I173268674  | Texas A&M University System                                           | US        |      200 |                183 |
+| I55741626   | Technical University of Crete                                         | GR        |      200 |                214 |
+| I25355098   | Chang'an University                                                   | CN        |      186 |               1084 |
+| I56934997   | Changsha University of Science and Technology                         | CN        |      170 |                343 |
+| I98301712   | Baidu (China)                                                         | CN        |      166 |                 81 |
+| I42014448   | Sardar Vallabhbhai National Institute of Technology Surat             | IN        |      141 |                155 |
+| I3133134087 | Lanzhou Jiaotong University                                           | CN        |      124 |                468 |
+| I13985625   | East China Jiaotong University                                        | CN        |      121 |                200 |
+| I63371133   | Chongqing Jiaotong University                                         | CN        |      116 |                305 |
+| I4210103986 | Jingdong (China)                                                      | CN        |      113 |                 78 |
+| I83791580   | Fujian University of Technology                                       | CN        |      104 |                144 |
+| I90610274   | University of Engineering and Technology Peshawar                     | PK        |      103 |                 69 |
+| I4392738231 | State Key Laboratory of Automotive Simulation and Control             |           |      102 |                 87 |
+| I4210166914 | École Nationale des Travaux Publics de l'État                         | FR        |       99 |                 76 |
+| I4210156768 | BMW Group (Germany)                                                   | DE        |       96 |                 65 |
+| I1456306    | North China University of Technology                                  | CN        |       96 |                277 |
+| I4210127216 | Ministry of Transport                                                 | CN        |       93 |                482 |
+| I1296818125 | Insurance Institute for Highway Safety                                | US        |       92 |                 29 |
+| I1305343817 | Texas Department of Transportation                                    | US        |       89 |                262 |
+| I24273437   | Transport Research Laboratory (United Kingdom)                        | GB        |       87 |                 72 |
+| I4210090971 | Southeast University                                                  | BD        |       87 |                 83 |
+| I4391012619 | Shanghai Artificial Intelligence Laboratory                           |           |       86 |                 53 |
+| I4210143894 | Laboratoire d'Automatique, Génie Informatique et Signal               | FR        |       84 |                 72 |
+| I1311636904 | Michigan Department of Transportation                                 | US        |       83 |                 60 |
+| I4210144487 | Cloud Computing Center                                                | CN        |       82 |                 54 |
+| I4210099312 | Shandong Jiaotong University                                          | CN        |       81 |                148 |
+| I1328614147 | California Department of Transportation                               | US        |       77 |                 74 |
+| I4210094894 | China Automotive Technology and Research Center                       | CN        |       74 |                108 |
+| I1334704838 | Transport Canada                                                      | CA        |       74 |                 40 |
+| I1302611135 | Ministry of Public Security of the People's Republic of China         | CN        |       74 |                137 |
+| I4210109718 | Shandong Transportation Research Institute                            | CN        |       68 |                 78 |
+| I4210145784 | IBM Research - Ireland                                                | IE        |       63 |                 39 |
+| I4210141966 | China Academy of Railway Sciences                                     | CN        |       63 |                253 |
+| I4210139481 | Science and Technology Department of Sichuan Province                 | CN        |       63 |                 18 |
+| I2801373766 | Volpe National Transportation Systems Center                          | US        |       62 |                 38 |
+| I4210093665 | Toyota Motor North America (United States)                            | US        |       62 |                 31 |
+| I4210112270 | Qingdao Academy of Intelligent Industries                             | CN        |       62 |                 45 |
+| I4210139553 | Research Institute of Highway                                         | CN        |       58 |                350 |
+| I4210156165 | Lenovo (China)                                                        | CN        |       57 |                 20 |
+| I4401726870 | Didi Chuxing (China)                                                  |           |       56 |                 53 |
+| I4210103140 | CCCC Highway Consultants (China)                                      | CN        |       55 |                 86 |
+| I37448385   | China People's Public Security University                             | CN        |       54 |                 95 |
+| I4210156906 | Daimler (United States)                                               | US        |       54 |                  7 |
+| I2802406489 | Center for Information Technology Research in the Interest of Society | US        |       53 |                 58 |

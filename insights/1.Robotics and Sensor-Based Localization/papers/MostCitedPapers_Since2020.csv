@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W4386076325,YOLOv7: Trainable Bag-of-Freebies Sets New State-of-the-Art for Real-Time Object Detectors,2023,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),7680
+W3167095230,Center-based 3D Object Detection and Tracking,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),1298
+W4210423514,FAST-LIO2: Fast Direct LiDAR-Inertial Odometry,2022,IEEE Transactions on Robotics,745
+W3118341329,Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection,2021,Proceedings of the AAAI Conference on Artificial Intelligence,688
+W4312894406,BEVFormer: Learning Bird’s-Eye-View Representation from Multi-camera Images via Spatiotemporal Transformers,2022,Lecture notes in computer science,659
+W3135991645,Sensor and Sensor Fusion Technology in Autonomous Vehicles: A Review,2021,Sensors,584
+W3133648073,"FAST-LIO: A Fast, Robust LiDAR-Inertial Odometry Package by Tightly-Coupled Iterated Kalman Filter",2021,IEEE Robotics and Automation Letters,559
+W4386076204,Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking,2023,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),511
+W4312707458,TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers,2022,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),489
+W3177280664,PREDATOR: Registration of 3D Point Clouds with Low Overlap,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),452
+W4312878643,NICE-SLAM: Neural Implicit Scalable Encoding for SLAM,2022,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),423
+W3165610079,"ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual–Inertial, and Multimap SLAM",2021,IEEE Transactions on Robotics,416
+W3177330511,Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),401
+W3015248322,Deep Learning for Image and Point Cloud Fusion in Autonomous Driving: A Review,2021,IEEE Transactions on Intelligent Transportation Systems,382
+W4214777292,Voxel Transformer for 3D Object Detection,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),363
+W4214768561,iMAP: Implicit Mapping and Positioning in Real-Time,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),361
+W3166089996,SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),351
+W4310078553,PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection,2022,International Journal of Computer Vision,313
+W4225793049,PETR: Position Embedding Transformation for Multi-view 3D Object Detection,2022,Lecture notes in computer science,312
+W3170030651,PointAugmenting: Cross-Modal Augmentation for 3D Object Detection,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),305

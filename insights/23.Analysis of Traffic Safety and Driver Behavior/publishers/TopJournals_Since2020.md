@@ -1,0 +1,22 @@
+| ID          | publisher                                                                   |   publishedCount |   avgCitation |
+|:------------|:----------------------------------------------------------------------------|-----------------:|--------------:|
+| S144771191  | IEEE Transactions on Intelligent Transportation Systems                     |               10 |         41.8  |
+| S4210199657 | IEEE Transactions on Intelligent Vehicles                                   |                4 |         33.75 |
+| S188336720  | Accident Analysis & Prevention                                              |                2 |         62.5  |
+| S101949793  | Sensors                                                                     |                2 |          9.5  |
+| S10936095   | IEEE Transactions on Vehicular Technology                                   |                2 |         42.5  |
+| S2484288132 | IEEE/CAA Journal of Automatica Sinica                                       |                2 |         54.5  |
+| S2764431341 | ISPRS International Journal of Geo-Information                              |                1 |         26    |
+| S189694085  | IEEE Sensors Journal                                                        |                1 |         23    |
+| S13144211   | Expert Systems with Applications                                            |                1 |         37    |
+| S74726891   | Applied Intelligence                                                        |                1 |         24    |
+| S145575934  | Transportation Research Record Journal of the Transportation Research Board |                1 |         41    |
+| S34881539   | IEEE Transactions on Automation Science and Engineering                     |                1 |        101    |
+| S4387280094 | Green Energy and Intelligent Transportation                                 |                1 |         17    |
+| S24688465   | Physica A Statistical Mechanics and its Applications                        |                1 |         53    |
+| S75054922   | Journal of Advanced Transportation                                          |                1 |         17    |
+| S10134376   | Sustainability                                                              |                1 |         16    |
+| S2764959558 | International Journal of Transportation Science and Technology              |                1 |         35    |
+| S137773608  | Nature                                                                      |                1 |        279    |
+| S4210201067 | IEEE Open Journal of Vehicular Technology                                   |                1 |         42    |
+| S4210175523 | IEEE Transactions on Neural Networks and Learning Systems                   |                1 |         49    |

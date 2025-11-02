@@ -1,0 +1,52 @@
+| ID          | name                                                      | country   |   hIndex |   workCountInTopic |
+|:------------|:----------------------------------------------------------|:----------|---------:|-------------------:|
+| I4392738231 | State Key Laboratory of Automotive Simulation and Control |           |      102 |                 24 |
+| I889804353  | Robert Bosch (Germany)                                    | DE        |      186 |                 19 |
+| I1332474105 | Mercedes-Benz (Germany)                                   | DE        |       57 |                 13 |
+| I4210093659 | University of Transport and Communications                | VN        |       56 |                 10 |
+| I4210145184 | Honda (United States)                                     | US        |       85 |                 10 |
+| I1283382300 | BMW (Germany)                                             | DE        |      104 |                  9 |
+| I4210099312 | Shandong Jiaotong University                              | CN        |       81 |                  7 |
+| I1292974536 | Ford Motor Company (United States)                        | US        |      255 |                  7 |
+| I4210113138 | Guangzhou Automobile Group (China)                        | CN        |       49 |                  6 |
+| I4210145005 | State Key Laboratory of Vehicle NVH and Safety Technology | CN        |       67 |                  5 |
+| I49946491   | Hyundai Motors (South Korea)                              | KR        |       81 |                  5 |
+| I1283473643 | Honda (Japan)                                             | JP        |      122 |                  5 |
+| I4210135257 | Volvo (United States)                                     | US        |       34 |                  5 |
+| I2898894    | Liaoning University of Technology                         | CN        |      139 |                  5 |
+| I4210156768 | BMW Group (Germany)                                       | DE        |       96 |                  5 |
+| I4210094894 | China Automotive Technology and Research Center           | CN        |       74 |                  5 |
+| I4210130704 | University of Michigan–Dearborn                           | US        |      157 |                  4 |
+| I4210131649 | China Automotive Engineering Research Institute           | CN        |       51 |                  4 |
+| I254181534  | ZF Friedrichshafen (Germany)                              | DE        |       36 |                  4 |
+| I4210158001 | Incept (United States)                                    | US        |       25 |                  4 |
+| I1319473763 | Volkswagen Group (Germany)                                | DE        |       73 |                  3 |
+| I917207718  | Toyota Industries (United States)                         | US        |       42 |                  3 |
+| I1311636904 | Michigan Department of Transportation                     | US        |       83 |                  3 |
+| I4210153068 | Dongfeng Motor Group (China)                              | CN        |       43 |                  3 |
+| I1322300227 | Audi (Germany)                                            | DE        |       53 |                  3 |
+| I4210133355 | Jiangling Motors Corporation (China)                      | CN        |       14 |                  3 |
+| I39470171   | Ontario Tech University                                   | CA        |      206 |                  3 |
+| I4210120547 | Toyota Motor Corporation (Belgium)                        | BE        |       59 |                  3 |
+| I4210145192 | Siemens (Belgium)                                         | BE        |       45 |                  3 |
+| I1293612202 | Toyota Motor Corporation (Switzerland)                    | CH        |      143 |                  3 |
+| I4210163147 | Traffic Management Research Institute                     | CN        |       24 |                  2 |
+| I4210112585 | Virtual Vehicle Research GmbH (Austria)                   | AT        |       45 |                  2 |
+| I4210127843 | First Automotive Works (China)                            | CN        |       58 |                  2 |
+| I40753682   | Ford (Germany)                                            | DE        |       54 |                  2 |
+| I1294350288 | Scania (Sweden)                                           | SE        |       94 |                  2 |
+| I4210127762 | Coventry (United Kingdom)                                 | GB        |      143 |                  2 |
+| I4210088387 | Heuristics and Diagnostics for Complex Systems            | FR        |       95 |                  2 |
+| I891521709  | Daimler (Germany)                                         | DE        |      175 |                  2 |
+| I4210166862 | Advanced Engineering (Czechia)                            | CZ        |       48 |                  2 |
+| I4210107733 | Informatique, BioInformatique, Systèmes Complexes         | FR        |       63 |                  2 |
+| I4210096828 | SAIC Motor (United Kingdom)                               | GB        |       13 |                  2 |
+| I4210154947 | Ford Otosan (Turkey)                                      | TR        |       36 |                  1 |
+| I126452172  | Aptiv (United States)                                     | US        |       96 |                  1 |
+| I4210159565 | SAIC Motor (China)                                        | CN        |       49 |                  1 |
+| I4210118220 | Shantui (China)                                           | CN        |       15 |                  1 |
+| I4210124559 | Yutong (China)                                            | CN        |       33 |                  1 |
+| I73685970   | Vietnam Maritime University                               | VN        |       55 |                  1 |
+| I4403386650 | Centre de Robotique                                       |           |       51 |                  1 |
+| I4210124956 | GIPSA-Lab                                                 | FR        |      144 |                  1 |
+| I130198913  | Jaguar Land Rover (United Kingdom)                        | GB        |       71 |                  1 |

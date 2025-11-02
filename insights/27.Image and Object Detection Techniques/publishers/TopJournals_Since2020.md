@@ -1,0 +1,19 @@
+| ID          | publisher                                                                           |   publishedCount |   avgCitation |
+|:------------|:------------------------------------------------------------------------------------|-----------------:|--------------:|
+| S101949793  | Sensors                                                                             |                3 |       16.3333 |
+| S199944782  | IEEE Transactions on Pattern Analysis and Machine Intelligence                      |                3 |       61.3333 |
+| S144771191  | IEEE Transactions on Intelligent Transportation Systems                             |                2 |      128.5    |
+| S45693802   | Neurocomputing                                                                      |                2 |       15.5    |
+| S4210169774 | IEEE Robotics and Automation Letters                                                |                2 |       35.5    |
+| S4210173141 | IEEE Transactions on Image Processing                                               |                1 |        8      |
+| S13144211   | Expert Systems with Applications                                                    |                1 |        0      |
+| S10936095   | IEEE Transactions on Vehicular Technology                                           |                1 |        6      |
+| S43295729   | Remote Sensing                                                                      |                1 |       32      |
+| S189694085  | IEEE Sensors Journal                                                                |                1 |        1      |
+| S414566     | Pattern Recognition                                                                 |                1 |       19      |
+| S4210228108 | IET Cyber-Systems and Robotics                                                      |                1 |        6      |
+| S10892749   | IEEE Transactions on Instrumentation and Measurement                                |                1 |       47      |
+| S2737735205 | ISPRS annals of the photogrammetry, remote sensing and spatial information sciences |                1 |        5      |
+| S13557859   | Pattern Recognition and Image Analysis                                              |                1 |        7      |
+| S126824455  | IEEE Transactions on Consumer Electronics                                           |                1 |        2      |
+| S2485537415 | IEEE Access                                                                         |                1 |       13      |

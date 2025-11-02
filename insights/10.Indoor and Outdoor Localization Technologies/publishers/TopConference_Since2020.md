@@ -1,0 +1,13 @@
+| ID          | publisher                                                                                                                                    |   publishedCount |   avgCitation |
+|:------------|:---------------------------------------------------------------------------------------------------------------------------------------------|-----------------:|--------------:|
+| S4363607734 | 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)                                                              |                6 |       65.1667 |
+| S4363607759 | 2022 International Conference on Robotics and Automation (ICRA)                                                                              |                3 |       72      |
+| S4363607701 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)                                                                   |                2 |      274      |
+| S4363607979 | 2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)                                                                    |                1 |       22      |
+| S4363607732 | 2022 American Control Conference (ACC)                                                                                                       |                1 |        2      |
+| S4363607939 | 2022 12th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)                               |                1 |        7      |
+| S4363605370 | 2022 IEEE Intelligent Vehicles Symposium (IV)                                                                                                |                1 |        2      |
+| S4363607737 | 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)                                                         |                1 |       11      |
+| S4363607711 | ICC 2022 - IEEE International Conference on Communications                                                                                   |                1 |       10      |
+| S4363608153 | 2022 25th International Conference on Information Fusion (FUSION)                                                                            |                1 |        1      |
+| S4363608142 | 2022 19th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON) |                1 |        9      |

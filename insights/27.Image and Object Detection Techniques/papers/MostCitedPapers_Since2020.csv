@@ -1,0 +1,22 @@
+ID,paperTitle,year,publisher,citationCount
+W3173721678,Key Points Estimation and Point Instance Segmentation Approach for Lane Detection,2021,IEEE Transactions on Intelligent Transportation Systems,252
+W3011098590,Deep Hough Transform for Semantic Line Detection,2021,IEEE Transactions on Pattern Analysis and Machine Intelligence,142
+W3193939309,AutoShape: Real-Time Shape-Aware Monocular 3D Object Detection,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),102
+W4313153185,Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving,2022,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),67
+W4309134000,Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection,2022,Lecture notes in computer science,51
+W4378696925,RCFusion: Fusing 4-D Radar and Camera With Bird’s-Eye View Features for 3-D Object Detection,2023,IEEE Transactions on Instrumentation and Measurement,47
+W4386083120,DeepLSD: Line Segment Detection and Refinement with Deep Image Gradients,2023,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),45
+W3172931637,Radar Transformer: An Object Classification Network Based on 4D MMW Imaging Radar,2021,Sensors,44
+W4312865155,DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection,2022,Lecture notes in computer science,43
+W3191920350,Marginalizing Sample Consensus,2021,IEEE Transactions on Pattern Analysis and Machine Intelligence,38
+W3200771231,Line as a Visual Sentence: Context-Aware Line Descriptor for Visual Localization,2021,IEEE Robotics and Automation Letters,37
+W4210716822,ART-SLAM: Accurate Real-Time 6DoF LiDAR SLAM,2022,IEEE Robotics and Automation Letters,34
+W3159362465,Real-time Multi-Adaptive-Resolution-Surfel 6D LiDAR Odometry using Continuous-time Trajectory Optimization,2021,2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),33
+W4281776619,Point RCNN: An Angle-Free Framework for Rotated Object Detection,2022,Remote Sensing,32
+W3200586590,DeepAVO: Efficient pose refining with feature distilling for deep Visual Odometry,2021,Neurocomputing,28
+W4312799694,Rotationally Equivariant 3D Object Detection,2022,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),24
+W4285102352,EDPLVO: Efficient Direct Point-Line Visual Odometry,2022,2022 International Conference on Robotics and Automation (ICRA),23
+W4402754159,RCBEVDet: Radar-Camera Fusion in Bird's Eye View for 3D Object Detection,2024,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),22
+W4287064445,"Geometry Uncertainty Projection Network for Monocular 3D Object
+  Detection",2021,arXiv (Cornell University),19
+W3123089514,AG3line: Active grouping and geometry-gradient combined validation for fast line segment extraction,2021,Pattern Recognition,19

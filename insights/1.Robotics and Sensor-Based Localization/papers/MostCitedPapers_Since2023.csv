@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W4392515775,"A Survey on Global LiDAR Localization: Challenges, Advances and Open Problems",2024,International Journal of Computer Vision,32
+W4402703030,IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection,2024,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),27
+W4390663385,Emerging Trends in Autonomous Vehicle Perception: Multimodal Fusion for 3D Object Detection,2024,World Electric Vehicle Journal,25
+W4393149498,Far3D: Expanding the Horizon for Surround-View 3D Object Detection,2024,Proceedings of the AAAI Conference on Artificial Intelligence,24
+W4402754159,RCBEVDet: Radar-Camera Fusion in Bird's Eye View for 3D Object Detection,2024,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),22
+W4402704555,MonoCD: Monocular 3D Object Detection with Complementary Depths,2024,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),21
+W4393140058,DPL-SLAM: Enhancing Dynamic Point-Line SLAM Through Dense Semantic Methods,2024,IEEE Sensors Journal,17
+W4390748068,Deep learning-based fusion networks with high-order attention mechanism for 3D object detection in autonomous driving scenarios,2024,Applied Soft Computing,17
+W4396903381,<scp>3D LiDAR SLAM</scp>: A survey,2024,The Photogrammetric Record,17
+W4396680601,VoPiFNet: Voxel-Pixel Fusion Network for Multi-Class 3D Object Detection,2024,IEEE Transactions on Intelligent Transportation Systems,16
+W4394622769,UAV‐based simultaneous localization and mapping in outdoor environments: A systematic scoping review,2024,Journal of Field Robotics,14
+W4390905122,PPF-Det: Point-Pixel Fusion for Multi-Modal 3D Object Detection,2024,IEEE Transactions on Intelligent Transportation Systems,13
+W4394994942,Fully Sparse Fusion for 3D Object Detection,2024,IEEE Transactions on Pattern Analysis and Machine Intelligence,13
+W4393972713,A Deep Analysis of Visual SLAM Methods for Highly Automated and Autonomous Vehicles in Complex Urban Environment,2024,IEEE Transactions on Intelligent Transportation Systems,10
+W4402961717,Detecting as Labeling: Rethinking LiDAR-Camera Fusion in 3D Object Detection,2024,Lecture notes in computer science,9
+W4402754144,MonoDiff: Monocular 3D Object Detection and Pose Estimation with Diffusion Models,2024,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),9
+W4394625674,Monocular 3D Object Detection with LiDAR Guided Semi Supervised Active Learning,2024,2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV),7
+W4399387873,H-SLAM: Hybrid direct–indirect visual SLAM,2024,Robotics and Autonomous Systems,7
+W4392359267,Reducing Oscillations for Obstacle Avoidance in a Dense Environment Using Deep Reinforcement Learning and Time-Derivative of an Artificial Potential Field,2024,Drones,7
+W4392515398,A survey on 3D object detection in real time for autonomous driving,2024,Frontiers in Robotics and AI,6

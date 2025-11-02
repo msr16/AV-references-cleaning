@@ -1,0 +1,52 @@
+| ID          | name                                                           | country   |   hIndex |   workCountInTopic |
+|:------------|:---------------------------------------------------------------|:----------|---------:|-------------------:|
+| I74973139   | Carnegie Mellon University                                     | US        |      878 |               2187 |
+| I125839683  | Beijing Institute of Technology                                | CN        |      386 |               1733 |
+| I82880672   | Beihang University                                             | CN        |      374 |               1840 |
+| I82284825   | Cranfield University                                           | GB        |      348 |                344 |
+| I9842412    | Nanjing University of Aeronautics and Astronautics             | CN        |      277 |               1074 |
+| I44504214   | Czech Technical University in Prague                           | CZ        |      255 |                493 |
+| I26437253   | Örebro University                                              | SE        |      245 |                177 |
+| I35364215   | Naval Postgraduate School                                      | US        |      236 |                251 |
+| I170215575  | National University of Defense Technology                      | CN        |      234 |               1328 |
+| I151727225  | Harbin Engineering University                                  | CN        |      215 |               1041 |
+| I4210094879 | Shandong Institute of Automation                               | CN        |      205 |                371 |
+| I20529979   | University of Electro-Communications                           | JP        |      195 |                383 |
+| I51532219   | University of Lincoln                                          | GB        |      191 |                124 |
+| I135768898  | Ritsumeikan University                                         | JP        |      187 |                344 |
+| I102516824  | Université de Technologie de Compiègne                         | FR        |      185 |                153 |
+| I190497903  | Laboratoire d'Analyse et d'Architecture des Systèmes           | FR        |      183 |                661 |
+| I207014233  | Kyushu Institute of Technology                                 | JP        |      177 |                366 |
+| I46020346   | American Institute of Aeronautics and Astronautics             | US        |      176 |                159 |
+| I16292982   | National Institute of Technology Rourkela                      | IN        |      175 |                243 |
+| I43313876   | Dalian Maritime University                                     | CN        |      173 |                504 |
+| I40527276   | Universität der Bundeswehr München                             | DE        |      172 |                196 |
+| I88467170   | Université d'Évry Val-d'Essonne                                | FR        |      171 |                 95 |
+| I4210159266 | Mitsubishi Electric (United States)                            | US        |      163 |                101 |
+| I4210143601 | Decision Systems (United States)                               | US        |      163 |                 70 |
+| I4210161128 | Bristol Robotics Laboratory                                    | GB        |      163 |                 80 |
+| I35777872   | North Carolina Agricultural and Technical State University     | US        |      163 |                 99 |
+| I96733725   | Shanghai Maritime University                                   | CN        |      150 |                266 |
+| I1343143571 | Draper Laboratory                                              | US        |      144 |                 80 |
+| I13805885   | Vaughn College of Aeronautics and Technology                   | US        |      141 |                119 |
+| I16656306   | Meiji University                                               | JP        |      140 |                156 |
+| I2614128279 | Dalle Molle Institute for Artificial Intelligence Research     | CH        |      140 |                 56 |
+| I4210166615 | INESC TEC                                                      | PT        |      136 |                236 |
+| I4210125590 | Institute for Systems Engineering and Computers                | PT        |      135 |                113 |
+| I4210122684 | Sony Computer Science Laboratories                             | JP        |      132 |                 50 |
+| I4210127558 | Australian Centre for Robotic Vision                           | AU        |      127 |                153 |
+| I4210116723 | Robotics Research (United States)                              | US        |      127 |                281 |
+| I169645620  | Institut Pascal                                                | FR        |      127 |                153 |
+| I28490864   | DSO National Laboratories                                      | SG        |      124 |                 49 |
+| I4210100255 | Beijing Academy of Artificial Intelligence                     | CN        |      123 |                145 |
+| I4210104252 | Air Force Engineering University                               | CN        |      120 |                459 |
+| I1297460800 | Defence Research and Development Canada                        | CA        |      119 |                108 |
+| I158123994  | Toyo University                                                | JP        |      117 |                 90 |
+| I4210139723 | Fraunhofer Chalmers Research Centre for Industrial Mathematics | SE        |      116 |                 27 |
+| I4391767838 | State Key Laboratory of Industrial Control Technology          |           |      116 |                165 |
+| I4391767778 | State Key Laboratory of Turbulence and Complex Systems         |           |      115 |                 60 |
+| I94518387   | Hanoi University of Science and Technology                     | VN        |      114 |                158 |
+| I171481255  | Shibaura Institute of Technology                               | JP        |      114 |                231 |
+| I125904092  | Shenyang Aerospace University                                  | CN        |      113 |                277 |
+| I2802705668 | United States Army Combat Capabilities Development Command     | US        |      113 |                103 |
+| I8488066    | Chiba Institute of Technology                                  | JP        |      110 |                170 |

@@ -1,0 +1,52 @@
+| ID          | name                                                                                        | country   |   hIndex |   workCountInTopic |
+|:------------|:--------------------------------------------------------------------------------------------|:----------|---------:|-------------------:|
+| I37461747   | Wuhan University                                                                            | CN        |      463 |               1492 |
+| I93860229   | Politecnico di Milano                                                                       | IT        |      385 |               1260 |
+| I177477856  | Polytechnic University of Turin                                                             | IT        |      314 |                848 |
+| I174458059  | National Technical University of Athens                                                     | GR        |      312 |                475 |
+| I197604219  | National Academies of Sciences, Engineering, and Medicine                                   | US        |      301 |                157 |
+| I6289922    | Universidade de Vigo                                                                        | ES        |      286 |                424 |
+| I122534668  | Marche Polytechnic University                                                               | IT        |      277 |                290 |
+| I68618741   | Polytechnic University of Bari                                                              | IT        |      226 |                292 |
+| I1306409833 | Adobe Systems (United States)                                                               | US        |      215 |                123 |
+| I4210118728 | State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing     | CN        |      177 |                496 |
+| I59725666   | University of Reggio Calabria                                                               | IT        |      166 |                162 |
+| I2277624104 | Fondazione Bruno Kessler                                                                    | IT        |      161 |                327 |
+| I122991210  | Istituto di Scienza e Tecnologie dell'Informazione "Alessandro Faedo"                       | IT        |      156 |                182 |
+| I62853816   | Beijing University of Civil Engineering and Architecture                                    | CN        |      137 |                259 |
+| I4210125590 | Institute for Systems Engineering and Computers                                             | PT        |      135 |                 78 |
+| I4210127558 | Australian Centre for Robotic Vision                                                        | AU        |      127 |                 62 |
+| I169645620  | Institut Pascal                                                                             | FR        |      127 |                 87 |
+| I4210142140 | Walt Disney (United States)                                                                 | US        |      124 |                 54 |
+| I33876163   | Finnish Geospatial Research Institute                                                       | FI        |      112 |                259 |
+| I40479246   | Technological Educational Institute of Athens                                               | GR        |      111 |                 42 |
+| I246010334  | Università degli Studi di Enna Kore                                                         | IT        |      100 |                 68 |
+| I4401726805 | Megvii (China)                                                                              |           |       98 |                  9 |
+| I4210115556 | National Research Council - Institute of Methodologies for Environmental Analysis           | IT        |       96 |                 91 |
+| I4210136431 | Shanghai Tongji Urban Planning and Design Institute                                         | CN        |       95 |                 55 |
+| I1327553481 | Institut national de l’information géographique et forestière                               | FR        |       90 |                189 |
+| I4391012619 | Shanghai Artificial Intelligence Laboratory                                                 |           |       86 |                 51 |
+| I4210094138 | University of West Attica                                                                   | GR        |       85 |                 64 |
+| I4210147819 | Institute of Archaeology                                                                    | CN        |       77 |                 44 |
+| I1338293689 | English Heritage                                                                            | GB        |       76 |                 79 |
+| I4210141849 | National Administration of Surveying, Mapping and Geoinformation of China                   | CN        |       74 |                 89 |
+| I4210154688 | Hôpital Saint-Michel                                                                        | FR        |       72 |                 36 |
+| I4210114963 | Chinese Academy of Surveying and Mapping                                                    | CN        |       71 |                165 |
+| I4210090724 | State Key Laboratory of Building Safety and Built Environment                               | CN        |       71 |                 59 |
+| I4210136953 | Laboratoire d’Électronique, Informatique et Image                                           | FR        |       67 |                 93 |
+| I4210111500 | Fraunhofer Institute of Optronics, System Technologies and Image Exploitation               | DE        |       65 |                130 |
+| I185020484  | Catholic University of Ávila                                                                | ES        |       64 |                117 |
+| I4210117999 | Willow Wood (United States)                                                                 | US        |       64 |                  8 |
+| I4210117254 | Konya Technical University                                                                  | TR        |       64 |                 66 |
+| I1286353243 | Autodesk (United States)                                                                    | US        |       62 |                 33 |
+| I4210156054 | Athena Research and Innovation Center In Information Communication & Knowledge Technologies | GR        |       57 |                 62 |
+| I2803021693 | Steinbeis Foundation                                                                        | DE        |       57 |                  9 |
+| I4210165059 | Hochschule für Technik und Wirtschaft Dresden – University of Applied Sciences              | DE        |       55 |                 23 |
+| I4210114891 | Institute of Forest Resource Information Techniques                                         | CN        |       54 |                 27 |
+| I4403386650 | Centre de Robotique                                                                         |           |       51 |                 70 |
+| I4401726824 | Horizon Robotics (China)                                                                    |           |       51 |                  6 |
+| I4210152452 | Consorzio Interuniversitario Nazionale per l'Informatica                                    | IT        |       49 |                 14 |
+| I4210096704 | Institute for Archaeological and Monumental Heritage                                        | IT        |       48 |                 98 |
+| I2800287464 | State Administration of Cultural Heritage                                                   | CN        |       46 |                 70 |
+| I4210144102 | Wuhu Hit Robot Technology Research Institute                                                | CN        |       45 |                 26 |
+| I4210139350 | Fraunhofer Institute for Factory Operation and Automation                                   | DE        |       43 |                 20 |

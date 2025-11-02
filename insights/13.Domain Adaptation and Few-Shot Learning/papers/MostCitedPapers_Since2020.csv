@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W3138516171,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),20564
+W4213019189,A Survey on Vision Transformer,2022,IEEE Transactions on Pattern Analysis and Machine Intelligence,2527
+W4312815172,Masked-attention Mask Transformer for Universal Image Segmentation,2022,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),1666
+W3141797743,A Survey on Multi-Task Learning,2021,IEEE Transactions on Knowledge and Data Engineering,1576
+W3196904463,BiSeNet V2: Bilateral Network with Guided Aggregation for Real-Time Semantic Segmentation,2021,International Journal of Computer Vision,1212
+W3172752666,Sparse R-CNN: End-to-End Object Detection with Learnable Proposals,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),1096
+W4226334005,Scaling Up Your Kernels to 31×31: Revisiting Large Kernel Design in CNNs,2022,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),904
+W3213165621,Per-Pixel Classification is Not All You Need for Semantic Segmentation,2021,arXiv (Cornell University),663
+W3184606595,Pruning and quantization for deep neural network acceleration: A survey,2021,Neurocomputing,630
+W4287322212,A Survey on Deep Semi-Supervised Learning,2022,IEEE Transactions on Knowledge and Data Engineering,540
+W3183430956,Contextual Transformer Networks for Visual Recognition,2022,IEEE Transactions on Pattern Analysis and Machine Intelligence,498
+W4312707458,TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers,2022,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),489
+W3142849873,A Survey on Curriculum Learning,2021,IEEE Transactions on Pattern Analysis and Machine Intelligence,449
+W3165924482,UP-DETR: Unsupervised Pre-training for Object Detection with Transformers,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),434
+W4287363917,Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks,2021,arXiv (Cornell University),338
+W3207649350,ACDC: The Adverse Conditions Dataset with Correspondences for Semantic Driving Scene Understanding,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),310
+W4386071535,Mask DINO: Towards A Unified Transformer-based Framework for Object Detection and Segmentation,2023,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),292
+W3035739162,Data Augmentation for Graph Neural Networks,2021,Proceedings of the AAAI Conference on Artificial Intelligence,275
+W3128661784,DetCo: Unsupervised Contrastive Learning for Object Detection,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),263
+W4312513332,An Unsupervised Domain Adaptation Method Towards Multi-Level Features and Decision Boundaries for Cross-Scene Hyperspectral Image Classification,2022,IEEE Transactions on Geoscience and Remote Sensing,236

@@ -1,0 +1,43 @@
+| ID          | name                                                                            |   hIndex |   workCountInTopic |
+|:------------|:--------------------------------------------------------------------------------|---------:|-------------------:|
+| F4320321001 | National Natural Science Foundation of China                                    |      728 |                 25 |
+| F4320335787 | Fundamental Research Funds for the Central Universities                         |      428 |                  4 |
+| F4320334704 | Australian Research Council                                                     |      494 |                  3 |
+| F4320306076 | National Science Foundation                                                     |      783 |                  3 |
+| F4320335777 | National Key Research and Development Program of China                          |      503 |                  3 |
+| F4320322857 | Aeronautical Science Foundation of China                                        |      119 |                  2 |
+| F4320321543 | China Postdoctoral Science Foundation                                           |      421 |                  2 |
+| F4320334779 | Fundação para a Ciência e a Tecnologia                                          |      290 |                  1 |
+| F4320323086 | Natural Science Foundation of Liaoning Province                                 |      164 |                  1 |
+| F4320322795 | Ministry of Science and Technology, Taiwan                                      |      285 |                  1 |
+| F4320322725 | China Scholarship Council                                                       |      394 |                  1 |
+| F4320335892 | Youth Innovation Promotion Association                                          |       99 |                  1 |
+| F4320321592 | Research Grants Council, University Grants Committee                            |      277 |                  1 |
+| F4320322554 | Javna Agencija za Raziskovalno Dejavnost RS                                     |      189 |                  1 |
+| F4320335377 | Pearl River S and T Nova Program of Guangzhou                                   |      124 |                  1 |
+| F4320321034 | New Energy and Industrial Technology Development Organization                   |      154 |                  1 |
+| F4320311976 | Scan|Design Foundation by Inger and Jens Bruun                                  |       15 |                  1 |
+| F4320321920 | Innovation and Technology Commission                                            |      159 |                  1 |
+| F4320319993 | Leverhulme Trust                                                                |      246 |                  1 |
+| F4320322919 | Natural Science Foundation of Beijing Municipality                              |      296 |                  1 |
+| F4320338279 | Air Force Office of Scientific Research                                         |      402 |                  1 |
+| F4320320709 | National Research Foundation Singapore                                          |      304 |                  1 |
+| F4320335507 | Toyota Motor Europe                                                             |       28 |                  1 |
+| F4320337504 | Research and Development                                                        |      139 |                  1 |
+| F4320332999 | Horizon 2020 Framework Programme                                                |      304 |                  1 |
+| F4320306087 | Semiconductor Research Corporation                                              |      137 |                  1 |
+| F4320321006 | Grantová Agentura České Republiky                                               |      227 |                  1 |
+| F4320329860 | National Science and Technology Major Project                                   |      101 |                  1 |
+| F4320338281 | Army Research Office                                                            |      344 |                  1 |
+| F4320332447 | U.S. Army                                                                       |      109 |                  1 |
+| F4320322320 | King Abdullah University of Science and Technology                              |      251 |                  1 |
+| F4320322186 | Natural Science Foundation of Hubei Province                                    |      225 |                  1 |
+| F4320321885 | Science and Technology Commission of Shanghai Municipality                      |      294 |                  1 |
+| F4320332467 | U.S. Air Force                                                                  |      110 |                  1 |
+| F4320338464 | Natural Science Foundation of Zhejiang Province                                 |      269 |                  1 |
+| F4320322322 | King Abdulaziz University                                                       |      130 |                  1 |
+| F4320322847 | Youth Innovation Promotion Association of the Chinese Academy of Sciences       |      268 |                  1 |
+| F4320335953 | Jilin Scientific and Technological Development Program                          |       75 |                  1 |
+| F4320336405 | Special Project for Research and Development in Key areas of Guangdong Province |       89 |                  1 |
+| F4320322835 | Ministry of Economic Affairs                                                    |       88 |                  1 |
+| F4320320698 | National University of Singapore                                                |      234 |                  1 |

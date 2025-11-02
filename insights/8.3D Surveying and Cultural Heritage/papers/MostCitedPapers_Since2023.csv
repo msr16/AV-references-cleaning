@@ -1,0 +1,16 @@
+ID,paperTitle,year,publisher,citationCount
+W4392515775,"A Survey on Global LiDAR Localization: Challenges, Advances and Open Problems",2024,International Journal of Computer Vision,32
+W4396903381,<scp>3D LiDAR SLAM</scp>: A survey,2024,The Photogrammetric Record,17
+W4390905122,PPF-Det: Point-Pixel Fusion for Multi-Modal 3D Object Detection,2024,IEEE Transactions on Intelligent Transportation Systems,13
+W4391313182,Deep learning based computer vision under the prism of 3D point clouds: a systematic review,2024,The Visual Computer,13
+W4402742690,CoFiI2P: Coarse-to-Fine Correspondences-Based Image to Point Cloud Registration,2024,IEEE Robotics and Automation Letters,6
+W4401453714,An Efficient LiDAR SLAM with Angle-Based Feature Extraction and Voxel-based Fixed-Lag Smoothing,2024,IEEE Transactions on Instrumentation and Measurement,4
+W4393159336,Voxel or Pillar: Exploring Efficient Point Cloud Representation for 3D Object Detection,2024,Proceedings of the AAAI Conference on Artificial Intelligence,4
+W4404370924,GenZ-ICP: Generalizable and Degeneracy-Robust LiDAR Odometry Using an Adaptive Weighting,2024,IEEE Robotics and Automation Letters,4
+W4401878932,MCSGCalib: Multi-Constraint-Based Extrinsic Calibration of Solid-State LiDAR and GNSS/INS for Autonomous Vehicles,2024,IEEE Transactions on Intelligent Transportation Systems,3
+W4404883837,A real time LiDAR-Visual-Inertial object level semantic SLAM for forest environments,2024,ISPRS Journal of Photogrammetry and Remote Sensing,3
+W4402350442,MAD-ICP: It is All About Matching Data – Robust and Informed LiDAR Odometry,2024,IEEE Robotics and Automation Letters,3
+W4400453648,GLIM: 3D range-inertial localization and mapping with GPU-accelerated scan matching factors,2024,Robotics and Autonomous Systems,2
+W4403863402,Accurate 3D Multi-Object Detection and Tracking on Vietnamese Street Scenes Based on Sparse Point Cloud Data,2024,IEEE Transactions on Intelligent Transportation Systems,1
+W4399375939,VirPNet: A Multimodal Virtual Point Generation Network for 3D Object Detection,2024,IEEE Transactions on Multimedia,1
+W4409172468,Multimodal feature adaptive fusion for anchor-free 3D object detection,2025,Applied Intelligence,0

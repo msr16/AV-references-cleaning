@@ -1,0 +1,52 @@
+| ID          | name                                                                        | country   |   hIndex |   workCountInTopic |
+|:------------|:----------------------------------------------------------------------------|:----------|---------:|-------------------:|
+| I1326498283 | Institut national de recherche en sciences et technologies du numérique     | FR        |      425 |                963 |
+| I4210113369 | Microsoft Research Asia (China)                                             | CN        |      304 |                304 |
+| I4210135521 | Max Planck Institute for Intelligent Systems                                | DE        |      262 |                185 |
+| I2252078561 | Meta (Israel)                                                               | IL        |      245 |                134 |
+| I4210109712 | Max Planck Institute for Informatics                                        | DE        |      239 |                578 |
+| I9300472    | Bournemouth University                                                      | GB        |      232 |                276 |
+| I1306409833 | Adobe Systems (United States)                                               | US        |      215 |                513 |
+| I2250653659 | Tencent (China)                                                             | CN        |      202 |                182 |
+| I4210101348 | Centre Inria de l'Université Grenoble Alpes                                 | FR        |      150 |                133 |
+| I4210128910 | Group Sense (China)                                                         | HK        |      138 |                 56 |
+| I4210127875 | Nvidia (United States)                                                      | US        |      138 |                110 |
+| I1304085615 | Nvidia (United Kingdom)                                                     | GB        |      131 |                154 |
+| I195893171  | Zuse Institute Berlin                                                       | DE        |      127 |                 85 |
+| I4210142140 | Walt Disney (United States)                                                 | US        |      124 |                232 |
+| I4210153776 | Apple (United States)                                                       | US        |      115 |                 29 |
+| I4210087747 | Creative Technologies (United States)                                       | US        |      113 |                 73 |
+| I4210099236 | Kootenay Association for Science & Technology                               | CA        |      111 |                103 |
+| I143910747  | TH Bingen University of Applied Sciences                                    | DE        |      108 |                 22 |
+| I205703379  | Institut Mines-Télécom                                                      | FR        |      107 |                 77 |
+| I4210149092 | Laboratoire Jean Kuntzmann                                                  | FR        |      102 |                128 |
+| I4401726805 | Megvii (China)                                                              |           |       98 |                 10 |
+| I4210100430 | Google (Switzerland)                                                        | CH        |       92 |                 33 |
+| I4210093649 | Information Technologies Institute                                          | GR        |       87 |                 60 |
+| I4210155607 | Laboratoire d'Informatique en Images et Systèmes d'Information              | FR        |       87 |                139 |
+| I4391012619 | Shanghai Artificial Intelligence Laboratory                                 |           |       86 |                116 |
+| I4210105678 | Microsoft (Finland)                                                         | FI        |       85 |                 16 |
+| I4210150889 | Center for MathematicaL studies and their Applications                      | FR        |       83 |                 25 |
+| I4210093282 | Institut de Robòtica i Informàtica Industrial                               | ES        |       83 |                 48 |
+| I1311269955 | Apple (Israel)                                                              | IL        |       82 |                 11 |
+| I2799891827 | Korea Post                                                                  | KR        |       82 |                 34 |
+| I102882674  | Beijing Institute of Fashion Technology                                     | CN        |       78 |                102 |
+| I4210142583 | Snap (United States)                                                        | US        |       77 |                 31 |
+| I4210122302 | ShangHai JiAi Genetics & IVF Institute                                      | CN        |       74 |                 53 |
+| I4210112253 | Honda (Germany)                                                             | DE        |       68 |                 24 |
+| I113825674  | Handong Global University                                                   | KR        |       67 |                 22 |
+| I4210136953 | Laboratoire d’Électronique, Informatique et Image                           | FR        |       67 |                 50 |
+| I4210146074 | Analyse, Géométrie et Modélisation                                          | FR        |       63 |                 79 |
+| I1286353243 | Autodesk (United States)                                                    | US        |       62 |                 77 |
+| I4401726859 | Kuaishou (China)                                                            |           |       62 |                 42 |
+| I4210086143 | Alibaba Group (Cayman Islands)                                              | KY        |       61 |                 13 |
+| I4210103820 | Autodesk (Canada)                                                           | CA        |       58 |                 27 |
+| I2929663463 | Technicolor (Germany)                                                       | DE        |       51 |                 18 |
+| I4403386650 | Centre de Robotique                                                         |           |       51 |                 23 |
+| I2800287464 | State Administration of Cultural Heritage                                   | CN        |       46 |                 20 |
+| I4210091137 | NetEase (China)                                                             | CN        |       45 |                 30 |
+| I4210129579 | National Engineering Laboratory of Deep Learning Technology and Application | CN        |       43 |                  7 |
+| I4210148186 | Google (Canada)                                                             | CA        |       41 |                  9 |
+| I4210141363 | Samsung (Russia)                                                            | RU        |       40 |                 14 |
+| I4210116523 | Institute of Computer Vision and Applied Computer Sciences                  | DE        |       37 |                 20 |
+| I4210128585 | META Health                                                                 | US        |       37 |                 80 |

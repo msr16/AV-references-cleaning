@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W4401109681,End-to-End Autonomous Driving: Challenges and Frontiers,2024,IEEE Transactions on Pattern Analysis and Machine Intelligence,128
+W4390810698,Path planning algorithms in the autonomous driving system: A comprehensive review,2024,Robotics and Autonomous Systems,117
+W4392169182,Object Detection in Autonomous Vehicles under Adverse Weather: A Review of Traditional and Deep Learning Approaches,2024,Algorithms,46
+W4393032756,4D mmWave Radar for Autonomous Driving Perception: A Comprehensive Survey,2024,IEEE Transactions on Intelligent Vehicles,33
+W4390663385,Emerging Trends in Autonomous Vehicle Perception: Multimodal Fusion for 3D Object Detection,2024,World Electric Vehicle Journal,25
+W4392499469,A Review of Decision-Making and Planning for Autonomous Vehicles in Intersection Environments,2024,World Electric Vehicle Journal,25
+W4390488998,A Survey on Datasets for the Decision Making of Autonomous Vehicles,2024,IEEE Intelligent Transportation Systems Magazine,23
+W4396855832,Vehicle Detection Algorithms for Autonomous Driving: A Review,2024,Sensors,22
+W4392449656,Augmenting Reinforcement Learning With Transformer-Based Scene Representation Learning for Decision-Making of Autonomous Driving,2024,IEEE Transactions on Intelligent Vehicles,20
+W4400111437,Dynamic object detection using sparse LiDAR data for autonomous machine driving and road safety applications,2024,Expert Systems with Applications,16
+W4401839711,BEV perception for autonomous driving: State of the art and future perspectives,2024,Expert Systems with Applications,15
+W4399744589,Research on Autonomous Vehicle Path Planning Algorithm Based on Improved RRT* Algorithm and Artificial Potential Field Method,2024,Sensors,12
+W4391051285,Enhanced encoder–decoder architecture for visual perception multitasking of autonomous driving,2024,Expert Systems with Applications,9
+W4400616877,Artificial intelligence based object detection and traffic prediction by autonomous vehicles – A review,2024,Expert Systems with Applications,9
+W4401287484,"Edge Computing for Real-Time Decision Making in Autonomous Driving: Review of Challenges, Solutions, and Future Trends",2024,International Journal of Advanced Computer Science and Applications,9
+W4392912258,Pedestrian Collision Avoidance in Autonomous Vehicles: A Review,2024,Computers,8
+W4396214333,A Comprehensive Review on Deep Learning-Based Motion Planning and End-to-End Learning for Self-Driving Vehicle,2024,IEEE Access,8
+W4391216382,An automatic driving trajectory planning approach in complex traffic scenarios based on integrated driver style inference and deep reinforcement learning,2024,PLoS ONE,7
+W4400278868,Enhanced Object Detection in Autonomous Vehicles through LiDAR—Camera Sensor Fusion,2024,World Electric Vehicle Journal,7
+W4401158961,Deep Learning based Approaches to Enhance Energy Efficiency in Autonomous Driving Systems,2024,Energy,7

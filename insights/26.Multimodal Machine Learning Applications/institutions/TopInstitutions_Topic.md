@@ -1,0 +1,52 @@
+| ID          | name                                                               | country   |   hIndex |   workCountInTopic |
+|:------------|:-------------------------------------------------------------------|:----------|---------:|-------------------:|
+| I1291425158 | Google (United States)                                             | US        |      576 |               1352 |
+| I4210164937 | Microsoft Research (United Kingdom)                                | GB        |      344 |                516 |
+| I4210113369 | Microsoft Research Asia (China)                                    | CN        |      304 |                548 |
+| I134446601  | Berkeley College                                                   | US        |      282 |                134 |
+| I42934936   | Dublin City University                                             | IE        |      255 |                254 |
+| I4210140341 | Allen Institute                                                    | US        |      247 |                160 |
+| I2252078561 | Meta (Israel)                                                      | IL        |      245 |                562 |
+| I4210109712 | Max Planck Institute for Informatics                               | DE        |      239 |                160 |
+| I1306409833 | Adobe Systems (United States)                                      | US        |      215 |                371 |
+| I4210112150 | Institute of Automation                                            | CN        |      208 |                480 |
+| I2250653659 | Tencent (China)                                                    | CN        |      202 |                788 |
+| I4210090411 | DeepMind (United Kingdom)                                          | GB        |      201 |                151 |
+| I4210090176 | Institute of Computing Technology                                  | CN        |      192 |                495 |
+| I4210114444 | Meta (United States)                                               | US        |      185 |                139 |
+| I4210136793 | Peng Cheng Laboratory                                              | CN        |      176 |                505 |
+| I98301712   | Baidu (China)                                                      | CN        |      166 |                361 |
+| I4210097554 | Center for Excellence in Brain Science and Intelligence Technology | CN        |      164 |                111 |
+| I1333535994 | University of North Carolina Health Care                           | US        |      161 |                113 |
+| I65181880   | Indian Institute of Technology Hyderabad                           | IN        |      156 |                179 |
+| I4210105595 | Institute of Art                                                   | PL        |      152 |                 76 |
+| I2250955327 | Huawei Technologies (China)                                        | CN        |      150 |                334 |
+| I160992636  | Toyota Technological Institute at Chicago                          | US        |      148 |                 79 |
+| I1311688040 | Amazon (United States)                                             | US        |      145 |                291 |
+| I4210135670 | Amsterdam University of the Arts                                   | NL        |      145 |                 61 |
+| I4210101778 | Samsung (United States)                                            | US        |      143 |                113 |
+| I123565023  | Vietnam National University Ho Chi Minh City                       | VN        |      140 |                160 |
+| I45928872   | Alibaba Group (China)                                              | CN        |      139 |                375 |
+| I168879160  | Zhejiang University of Science and Technology                      | CN        |      138 |                144 |
+| I4210128910 | Group Sense (China)                                                | HK        |      138 |                 98 |
+| I33976269   | Xerox (France)                                                     | FR        |      131 |                 39 |
+| I1304085615 | Nvidia (United Kingdom)                                            | GB        |      131 |                 78 |
+| I4210116052 | Inception Institute of Artificial Intelligence                     | AE        |      130 |                143 |
+| I4210156404 | Institute of Information Engineering                               | CN        |      129 |                274 |
+| I4210127558 | Australian Centre for Robotic Vision                               | AU        |      127 |                112 |
+| I7495430    | Idiap Research Institute                                           | CH        |      127 |                 69 |
+| I4210127509 | Vector Institute                                                   | CA        |      126 |                 78 |
+| I4210100255 | Beijing Academy of Artificial Intelligence                         | CN        |      123 |                409 |
+| I64189192   | International Institute of Information Technology, Hyderabad       | IN        |      115 |                 86 |
+| I4210103986 | Jingdong (China)                                                   | CN        |      113 |                233 |
+| I4210126580 | RIKEN Center for Advanced Intelligence Project                     | JP        |      113 |                 74 |
+| I4210099236 | Kootenay Association for Science & Technology                      | CA        |      111 |                 74 |
+| I143910747  | TH Bingen University of Applied Sciences                           | DE        |      108 |                 24 |
+| I4210095624 | Alibaba Group (United States)                                      | US        |      103 |                222 |
+| I4210113297 | Google (United Kingdom)                                            | GB        |      100 |                 25 |
+| I4210159102 | Huawei Technologies (Sweden)                                       | SE        |      100 |                150 |
+| I4401726805 | Megvii (China)                                                     |           |       98 |                 63 |
+| I4210107353 | NEC (United States)                                                | US        |       98 |                 44 |
+| I4210096250 | Beijing Institute of Big Data Research                             | CN        |       97 |                 66 |
+| I4210100430 | Google (Switzerland)                                               | CH        |       92 |                 38 |
+| I23582244   | Ho Chi Minh City University of Science                             | VN        |       89 |                100 |

@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W3211490618,SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers,2021,arXiv (Cornell University),2806
+W4210598935,A Review of Yolo Algorithm Developments,2022,Procedia Computer Science,1718
+W3167095230,Center-based 3D Object Detection and Tracking,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),1298
+W4286904999,ByteTrack: Multi-object Tracking by Associating Every Detection Box,2022,Lecture notes in computer science,1287
+W4402754006,DETRs Beat YOLOs on Real-time Object Detection,2024,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),1208
+W3214586131,Transformer Tracking,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),998
+W3159196909,A survey of modern deep learning based object detection models,2022,Digital Signal Processing,792
+W3119686997,TrackFormer: Multi-Object Tracking with Transformers,2022,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),699
+W3167536469,Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),666
+W3124372372,A Comparative Analysis of Object Detection Metrics with a Companion Open-Source Toolkit,2021,Electronics,541
+W4386076204,Observation-Centric SORT: Rethinking SORT for Robust Multi-Object Tracking,2023,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),511
+W3130423852,"Deep learning for object detection and scene perception in self-driving cars: Survey, challenges, and open issues",2021,Array,452
+W3172863135,Multi-Modal Fusion Transformer for End-to-End Autonomous Driving,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),393
+W4312473433,MOTR: End-to-End Multiple-Object Tracking with Transformer,2022,Lecture notes in computer science,389
+W3176709420,Towards Open World Object Detection,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),385
+W3173668541,Categorical Depth Distribution Network for Monocular 3D Object Detection,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),373
+W3203597819,KITTI-360: A Novel Dataset and Benchmarks for Urban Scene Understanding in 2D and 3D,2022,IEEE Transactions on Pattern Analysis and Machine Intelligence,372
+W3165926952,Quasi-Dense Similarity Learning for Multiple Object Tracking,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),354
+W3160050461,Transformer Networks for Trajectory Forecasting,2021,2022 26th International Conference on Pattern Recognition (ICPR),349
+W3139491754,AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),346

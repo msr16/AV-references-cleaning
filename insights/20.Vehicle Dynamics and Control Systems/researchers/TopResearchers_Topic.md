@@ -1,0 +1,52 @@
+| ID          | name                |   hIndex | lastInstitution                                                 |   numberOfWorkInTopic |
+|:------------|:--------------------|---------:|:----------------------------------------------------------------|----------------------:|
+| A5038755734 | Péter Gáspár        |       25 | Institute for Computer Science and Control                      |                   330 |
+| A5038755734 | Péter Gáspár        |       25 | Budapest University of Technology and Economics                 |                   330 |
+| A5074996561 | Hong Chen           |       65 | Tongji University                                               |                   259 |
+| A5023689051 | Kyongsu Yi          |       43 | Seoul National University                                       |                   227 |
+| A5064394634 | Guodong Yin         |       40 | Southeast University                                            |                   206 |
+| A5020470831 | Amir Khajepour      |       65 | University of Waterloo                                          |                   206 |
+| A5064077634 | Masayoshi Tomizuka  |       89 | Systems Control (United States)                                 |                   201 |
+| A5064077634 | Masayoshi Tomizuka  |       89 | University of California, Berkeley                              |                   201 |
+| A5051704749 | Haiping Du          |       63 | University of Wollongong                                        |                   174 |
+| A5013219761 | Hiroshi Fujimoto    |       39 | The University of Tokyo                                         |                   172 |
+| A5081056211 | Balázs Németh       |       18 | Budapest University of Technology and Economics                 |                   167 |
+| A5081056211 | Balázs Németh       |       18 | Institute for Computer Science and Control                      |                   167 |
+| A5100608812 | Junmin Wang         |       68 | Beijing Institute of Technology                                 |                   160 |
+| A5100441194 | Liang Li            |       57 | Hefei Institutes of Physical Science                            |                   157 |
+| A5100441194 | Liang Li            |       57 | Chinese Academy of Sciences                                     |                   157 |
+| A5050471144 | Saïd Mammar         |       31 | Informatique, BioInformatique, Systèmes Complexes               |                   156 |
+| A5050471144 | Saïd Mammar         |       31 | Université Paris-Saclay                                         |                   156 |
+| A5056771244 | Subhash Rakheja     |       51 | Concordia University                                            |                   130 |
+| A5025314554 | Federico Cheli      |       36 | Politecnico di Milano                                           |                   129 |
+| A5110567563 | Changfu Zong        |       20 | Jilin Medical University                                        |                   128 |
+| A5110567563 | Changfu Zong        |       20 | Jilin University                                                |                   128 |
+| A5049077907 | Ali Charara         |       24 | Centre National de la Recherche Scientifique                    |                   128 |
+| A5049077907 | Ali Charara         |       24 | Institut des Sciences de l'Information et de leurs Interactions |                   128 |
+| A5018172595 | David Cebon         |       44 | University of Cambridge                                         |                   125 |
+| A5089181686 | J. Christian Gerdes |       58 | Stanford University                                             |                   124 |
+| A5063924205 | Reza N. Jazar       |       41 | RMIT University                                                 |                   122 |
+| A5100379486 | Lu Xiong            |       30 | Tongji University                                               |                   119 |
+| A5083232991 | J. Karl Hedrick     |       71 | University of Cincinnati                                        |                   117 |
+| A5031097117 | Wanzhong Zhao       |       29 | Nanjing University of Aeronautics and Astronautics              |                   115 |
+| A5101506382 | Konghui Guo         |       26 | Xinjiang University                                             |                   114 |
+| A5101506382 | Konghui Guo         |       26 | Laboratoire de physique des Solides                             |                   114 |
+| A5031855986 | Keqiang Li          |       60 | Tsinghua University                                             |                   111 |
+| A5100630554 | Long Chen           |       48 | Oil and Gas Center                                              |                   108 |
+| A5100630554 | Long Chen           |       48 | China National Petroleum Corporation (China)                    |                   108 |
+| A5100630554 | Long Chen           |       48 | Tarim University                                                |                   108 |
+| A5082936279 | Zhuoping Yu         |       26 | Tongji University                                               |                   106 |
+| A5016427889 | Seibum B. Choi      |       31 | Korea Advanced Institute of Science and Technology              |                   105 |
+| A5108536663 | Yoichi Hori         |       39 | Tokyo University of Science                                     |                   104 |
+| A5022300438 | Henk Nijmeijer      |       81 | Eindhoven University of Technology                              |                   102 |
+| A5085807914 | Frank Gauterin      |       26 | Karlsruhe Institute of Technology                               |                   102 |
+| A5029334337 | Levent Güvenç       |       32 | The Ohio State University                                       |                    99 |
+| A5064212745 | Bingzhao Gao        |       33 | Tongji University                                               |                    98 |
+| A5015917280 | Rajesh Rajamani     |       54 | University of Minnesota                                         |                    96 |
+| A5015917280 | Rajesh Rajamani     |       54 | Twin Cities Orthopedics                                         |                    96 |
+| A5072212581 | R. Sharp            |       84 | Australian National University                                  |                    95 |
+| A5009572966 | Dongpu Cao          |       60 | Tsinghua University                                             |                    92 |
+| A5019025642 | Huei Peng           |       74 | Beihang University                                              |                    88 |
+| A5041096466 | Davor Hrovat        |       42 | University of California, San Diego                             |                    86 |
+| A5068780105 | Junzhi Zhang        |       33 | Tsinghua University                                             |                    86 |
+| A5025067440 | Francesco Borrelli  |       72 | University of California, Berkeley                              |                    86 |

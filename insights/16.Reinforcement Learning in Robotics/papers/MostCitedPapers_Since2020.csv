@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W3127561923,Deep Reinforcement Learning for Autonomous Driving: A Survey,2021,IEEE Transactions on Intelligent Transportation Systems,1458
+W1591675293,Bayesian Inverse Reinforcement Learning,2025,Cambridge University Press eBooks,458
+W4386076400,Planning-oriented Autonomous Driving,2023,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),291
+W3211345831,Decision making of autonomous vehicles in lane change scenarios: Deep reinforcement learning approaches with risk awareness,2021,Transportation Research Part C Emerging Technologies,209
+W3128395826,Interpretable End-to-End Urban Autonomous Driving With Latent Deep Reinforcement Learning,2021,IEEE Transactions on Intelligent Transportation Systems,198
+W4360584316,"A Survey on Offline Reinforcement Learning: Taxonomy, Review, and Open Problems",2023,IEEE Transactions on Neural Networks and Learning Systems,172
+W3214738088,A review of motion planning algorithms for intelligent robots,2021,Journal of Intelligent Manufacturing,161
+W3027406032,A Survey of Reinforcement Learning Algorithms for Dynamically Varying Environments,2021,ACM Computing Surveys,144
+W3121045039,A Survey of Deep RL and IL for Autonomous Driving Policy Learning,2021,IEEE Transactions on Intelligent Transportation Systems,141
+W4210444794,A Survey on Imitation Learning Techniques for End-to-End Autonomous Vehicles,2022,IEEE Transactions on Intelligent Transportation Systems,139
+W4304480790,Design and Experimental Validation of Deep Reinforcement Learning-Based Fast Trajectory Planning and Control for Mobile Robot in Unknown Environment,2022,IEEE Transactions on Neural Networks and Learning Systems,127
+W4226257065,Efficient Deep Reinforcement Learning With Imitative Expert Priors for Autonomous Driving,2022,IEEE Transactions on Neural Networks and Learning Systems,122
+W3203076355,MetaDrive: Composing Diverse Driving Scenarios for Generalizable Reinforcement Learning,2022,IEEE Transactions on Pattern Analysis and Machine Intelligence,116
+W3182751084,Safe Reinforcement Learning With Stability Guarantee for Motion Planning of Autonomous Vehicles,2021,IEEE Transactions on Neural Networks and Learning Systems,105
+W3212907084,Multi-agent reinforcement learning for cooperative lane changing of connected and autonomous vehicles in mixed traffic,2022,Autonomous Intelligent Systems,88
+W4214496626,Highway Decision-Making and Motion Planning for Autonomous Driving via Soft Actor-Critic,2022,IEEE Transactions on Vehicular Technology,78
+W3177061762,End-to-End Autonomous Driving Through Dueling Double Deep Q-Network,2021,Automotive Innovation,77
+W3168738617,An improved DQN path planning algorithm,2021,The Journal of Supercomputing,77
+W4282944694,Prioritized Experience-Based Reinforcement Learning With Human Guidance for Autonomous Driving,2022,IEEE Transactions on Neural Networks and Learning Systems,75
+W4296425796,Metaverses and DeMetaverses: From Digital Twins in CPS to Parallel Intelligence in CPSS,2022,IEEE Intelligent Systems,74

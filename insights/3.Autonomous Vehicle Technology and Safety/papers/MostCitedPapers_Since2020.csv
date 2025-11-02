@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W3127561923,Deep Reinforcement Learning for Autonomous Driving: A Survey,2021,IEEE Transactions on Intelligent Transportation Systems,1458
+W3135991645,Sensor and Sensor Fusion Technology in Autonomous Vehicles: A Review,2021,Sensors,584
+W3130423852,"Deep learning for object detection and scene perception in self-driving cars: Survey, challenges, and open issues",2021,Array,452
+W3172863135,Multi-Modal Fusion Transformer for End-to-End Autonomous Driving,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),393
+W4312473433,MOTR: End-to-End Multiple-Object Tracking with Transformer,2022,Lecture notes in computer science,389
+W4226239849,A Survey on Trajectory-Prediction Methods for Autonomous Driving,2022,IEEE Transactions on Intelligent Vehicles,354
+W3160050461,Transformer Networks for Trajectory Forecasting,2021,2022 26th International Conference on Pattern Recognition (ICPR),349
+W3139491754,AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),346
+W4376166839,Motion Planning for Autonomous Driving: The State of the Art and Future Perspectives,2023,IEEE Transactions on Intelligent Vehicles,327
+W4225986494,DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection,2022,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),325
+W3156216502,Large Scale Interactive Motion Forecasting for Autonomous Driving : The Waymo Open Motion Dataset,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),318
+W3204875639,DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),315
+W4312550876,Milestones in Autonomous Driving and Intelligent Vehicles: Survey of Surveys,2022,IEEE Transactions on Intelligent Vehicles,314
+W3169575318,Multimodal Motion Prediction with Stacked Transformers,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),308
+W3119621753,Cybersecurity for autonomous vehicles: Review of attacks and defense,2021,Computers & Security,308
+W3170030651,PointAugmenting: Cross-Modal Augmentation for 3D Object Detection,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),305
+W3176287975,3D Object Detection for Autonomous Driving: A Survey,2022,Pattern Recognition,301
+W4386076400,Planning-oriented Autonomous Driving,2023,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),291
+W4353056919,Dense reinforcement learning for safety validation of autonomous vehicles,2023,Nature,279
+W4308450151,YOLOP: You Only Look Once for Panoptic Driving Perception,2022,Deleted Journal,278

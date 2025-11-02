@@ -1,0 +1,11 @@
+| ID          | publisher                                                                                            |   publishedCount |   avgCitation |
+|:------------|:-----------------------------------------------------------------------------------------------------|-----------------:|--------------:|
+| S4363607734 | 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)                      |                4 |           9.5 |
+| S4363607719 | 2022 IEEE International Conference on Image Processing (ICIP)                                        |                2 |          12   |
+| S4363607748 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)                |                1 |         104   |
+| S4363607764 | 2021 IEEE/CVF International Conference on Computer Vision (ICCV)                                     |                1 |          87   |
+| S4363605370 | 2022 IEEE Intelligent Vehicles Symposium (IV)                                                        |                1 |          12   |
+| S4363608458 | 2021 International Conference on 3D Vision (3DV)                                                     |                1 |          22   |
+| S4363607702 | ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) |                1 |           3   |
+| S4363608082 | 2021 IEEE International Conference on Data Science and Computer Application (ICDSCA)                 |                1 |           5   |
+| S4363608312 | 2022 IEEE International Conference on Real-time Computing and Robotics (RCAR)                        |                1 |           2   |

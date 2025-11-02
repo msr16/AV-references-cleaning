@@ -1,0 +1,52 @@
+| ID          | name               |   hIndex | lastInstitution                                                         |   numberOfWorkInTopic |
+|:------------|:-------------------|---------:|:------------------------------------------------------------------------|----------------------:|
+| A5021908609 | Marc Pollefeys     |      108 | ETH Zurich                                                              |                   555 |
+| A5001254143 | Luc Van Gool       |      172 | ETH Zurich                                                              |                   551 |
+| A5020664641 | Christian Theobalt |      102 | Max Planck Institute for Informatics                                    |                   377 |
+| A5087710605 | Daniel Cremers     |      103 | Technical University of Munich                                          |                   322 |
+| A5018478553 | Wen Gao            |       79 | Peking University                                                       |                   321 |
+| A5037712031 | François Chaumette |       57 | Université de Rennes                                                    |                   321 |
+| A5037712031 | François Chaumette |       57 | Institut de Recherche en Informatique et Systèmes Aléatoires            |                   321 |
+| A5037712031 | François Chaumette |       57 | Centre National de la Recherche Scientifique                            |                   321 |
+| A5005819073 | Hideo Saitô        |       33 | Keio University                                                         |                   268 |
+| A5038674741 | Pascal Fua         |      101 | École Polytechnique Fédérale de Lausanne                                |                   261 |
+| A5057924291 | Takeo Kanade       |      136 | Carnegie Mellon University                                              |                   254 |
+| A5059021869 | Hujun Bao          |       66 | Zhejiang University                                                     |                   240 |
+| A5012455275 | In So Kweon        |       69 | Korea Advanced Institute of Science and Technology                      |                   234 |
+| A5012455275 | In So Kweon        |       69 | Kootenay Association for Science & Technology                           |                   234 |
+| A5101457342 | Thomas S. Huang    |      145 | National Institute of Metrology                                         |                   234 |
+| A5034754633 | Ravi Ramamoorthi   |       77 | Nvidia (United States)                                                  |                   232 |
+| A5034754633 | Ravi Ramamoorthi   |       77 | University of California, San Diego                                     |                   232 |
+| A5018207993 | Roberto Cipolla    |       86 | University of Cambridge                                                 |                   232 |
+| A5102762707 | Rama Chellappa     |      120 | Johns Hopkins University                                                |                   231 |
+| A5016258462 | Katsushi Ikeuchi   |       73 | Robotics Research (United States)                                       |                   230 |
+| A5016258462 | Katsushi Ikeuchi   |       73 | Microsoft (United States)                                               |                   230 |
+| A5001082656 | C.‐C. Jay Kuo      |       87 | University of Southern California                                       |                   230 |
+| A5046896448 | Nassir Navab       |      103 | Technical University of Munich                                          |                   215 |
+| A5013926864 | Joonki Paik        |       38 | Chung-Ang University                                                    |                   215 |
+| A5077002817 | Richard Szeliski   |      102 | Microsoft Research (United Kingdom)                                     |                   214 |
+| A5056503617 | Jan Kautz          |       93 | Nvidia (United States)                                                  |                   214 |
+| A5101819061 | Hongdong Li        |       65 | Australian National University                                          |                   213 |
+| A5100418319 | Ming–Hsuan Yang    |      145 | University of California System                                         |                   211 |
+| A5083003222 | Roland Siegwart    |      121 | ETH Zurich                                                              |                   204 |
+| A5051650277 | Didier Stricker    |       43 | University of Kaiserslautern                                            |                   202 |
+| A5038328783 | Stefano Soatto     |       77 | Samueli Institute                                                       |                   201 |
+| A5004362037 | Éric Marchand      |       40 | Institut national de recherche en sciences et technologies du numérique |                   199 |
+| A5004362037 | Éric Marchand      |       40 | Centre National de la Recherche Scientifique                            |                   199 |
+| A5004362037 | Éric Marchand      |       40 | Université de Rennes                                                    |                   199 |
+| A5004362037 | Éric Marchand      |       40 | Institut de Recherche en Informatique et Systèmes Aléatoires            |                   199 |
+| A5087111199 | Reinhard Klette    |       45 | Auckland University of Technology                                       |                   196 |
+| A5069982192 | Kiyoharu Aizawa    |       48 | The University of Tokyo                                                 |                   195 |
+| A5057678172 | Andrew Zisserman   |      174 | University of Oxford                                                    |                   188 |
+| A5032875389 | Yebin Liu          |       54 | Tsinghua University                                                     |                   188 |
+| A5069857775 | Aljoša Smolić      |       48 | Lucerne University of Applied Sciences and Arts                         |                   187 |
+| A5043222506 | Tomáš Pajdla       |       61 | Czech Technical University in Prague                                    |                   186 |
+| A5089444805 | Ian Reid           |       93 | The University of Adelaide                                              |                   186 |
+| A5089444805 | Ian Reid           |       93 | Australian Centre for Robotic Vision                                    |                   186 |
+| A5089444805 | Ian Reid           |       93 | Mohamed bin Zayed University of Artificial Intelligence                 |                   186 |
+| A5061000201 | Heung‐Yeung Shum   |       88 | Tsinghua University                                                     |                   186 |
+| A5111417803 | Peter Sturm        |       58 | Cincinnati Children's Hospital Medical Center                           |                   184 |
+| A5006199483 | Long Quan          |       63 | Taiyuan University of Technology                                        |                   182 |
+| A5001594573 | Jitendra Malik     |      150 | Berkeley College                                                        |                   180 |
+| A5001594573 | Jitendra Malik     |      150 | University of California, Berkeley                                      |                   180 |
+| A5036202579 | Yuchao Dai         |       49 | Northwestern Polytechnical University                                   |                   176 |

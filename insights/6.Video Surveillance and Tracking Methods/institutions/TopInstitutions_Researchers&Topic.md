@@ -1,0 +1,52 @@
+| ID          | name                                                                                    | country   |   hIndex |   workCountInTopic |
+|:------------|:----------------------------------------------------------------------------------------|:----------|---------:|-------------------:|
+| I82880672   | Beihang University                                                                      | CN        |      374 |                 95 |
+| I4391012619 | Shanghai Artificial Intelligence Laboratory                                             |           |       86 |                 90 |
+| I4210100255 | Beijing Academy of Artificial Intelligence                                              | CN        |      123 |                 54 |
+| I4210122302 | ShangHai JiAi Genetics & IVF Institute                                                  | CN        |       74 |                 49 |
+| I45928872   | Alibaba Group (China)                                                                   | CN        |      139 |                 48 |
+| I98301712   | Baidu (China)                                                                           | CN        |      166 |                 40 |
+| I4210118728 | State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing | CN        |      177 |                 33 |
+| I4210116723 | Robotics Research (United States)                                                       | US        |      127 |                 30 |
+| I4401726805 | Megvii (China)                                                                          |           |       98 |                 28 |
+| I4210159102 | Huawei Technologies (Sweden)                                                            | SE        |      100 |                 27 |
+| I50760025   | Hangzhou Dianzi University                                                              | CN        |      183 |                 26 |
+| I36399199   | Nanjing University of Science and Technology                                            | CN        |      294 |                 25 |
+| I4210112150 | Institute of Automation                                                                 | CN        |      208 |                 25 |
+| I10535382   | Chongqing University of Posts and Telecommunications                                    | CN        |      154 |                 24 |
+| I4210095624 | Alibaba Group (United States)                                                           | US        |      103 |                 23 |
+| I4210109870 | Vi Technology (United States)                                                           | US        |       66 |                 21 |
+| I2250653659 | Tencent (China)                                                                         | CN        |      202 |                 19 |
+| I4210128910 | Group Sense (China)                                                                     | HK        |      138 |                 18 |
+| I4210136793 | Peng Cheng Laboratory                                                                   | CN        |      176 |                 14 |
+| I4210094879 | Shandong Institute of Automation                                                        | CN        |      205 |                 14 |
+| I4210123843 | Advanced Technologies Group (United States)                                             | US        |       73 |                 14 |
+| I4210145761 | Shenzhen Institutes of Advanced Technology                                              | CN        |      252 |                 14 |
+| I4210113369 | Microsoft Research Asia (China)                                                         | CN        |      304 |                 13 |
+| I4401727007 | Hikvision (China)                                                                       |           |       23 |                 13 |
+| I60922564   | Naver (South Korea)                                                                     | KR        |       82 |                 13 |
+| I4391768151 | Toyota Research Institute                                                               |           |      110 |                 12 |
+| I4210105595 | Institute of Art                                                                        | PL        |      152 |                 12 |
+| I142078773  | Shenyang Institute of Automation                                                        | CN        |      106 |                 11 |
+| I4210090176 | Institute of Computing Technology                                                       | CN        |      192 |                 11 |
+| I114017466  | University of Technology Sydney                                                         | AU        |      434 |                 10 |
+| I4210145184 | Honda (United States)                                                                   | US        |       85 |                 10 |
+| I1456306    | North China University of Technology                                                    | CN        |       96 |                  9 |
+| I143868143  | Anhui University                                                                        | CN        |      217 |                  9 |
+| I4210109712 | Max Planck Institute for Informatics                                                    | DE        |      239 |                  9 |
+| I4210086143 | Alibaba Group (Cayman Islands)                                                          | KY        |       61 |                  9 |
+| I4210156165 | Lenovo (China)                                                                          | CN        |       57 |                  8 |
+| I220619192  | Valeo (France)                                                                          | FR        |       73 |                  8 |
+| I4210120115 | Robert Bosch (United States)                                                            | US        |       95 |                  8 |
+| I2800111664 | State Scientific Research Institute of Aviation Systems                                 | RU        |       20 |                  7 |
+| I4401726824 | Horizon Robotics (China)                                                                |           |       51 |                  7 |
+| I4210129579 | National Engineering Laboratory of Deep Learning Technology and Application             | CN        |       43 |                  7 |
+| I4210116052 | Inception Institute of Artificial Intelligence                                          | AE        |      130 |                  7 |
+| I4210093665 | Toyota Motor North America (United States)                                              | US        |       62 |                  6 |
+| I4210126639 | Valeo (Ireland)                                                                         | IE        |       32 |                  6 |
+| I4210103986 | Jingdong (China)                                                                        | CN        |      113 |                  6 |
+| I4210127558 | Australian Centre for Robotic Vision                                                    | AU        |      127 |                  6 |
+| I69356397   | Xi’an Jiaotong-Liverpool University                                                     | CN        |      156 |                  6 |
+| I196608512  | PES University                                                                          | IN        |       72 |                  6 |
+| I4210121405 | Centre for Artificial Intelligence and Robotics                                         | IN        |       52 |                  5 |
+| I123565023  | Vietnam National University Ho Chi Minh City                                            | VN        |      140 |                  5 |

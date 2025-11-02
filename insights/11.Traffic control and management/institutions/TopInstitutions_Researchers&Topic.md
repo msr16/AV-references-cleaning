@@ -1,0 +1,48 @@
+| ID          | name                                                             | country   |   hIndex |   workCountInTopic |
+|:------------|:-----------------------------------------------------------------|:----------|---------:|-------------------:|
+| I116953780  | Tongji University                                                | CN        |      388 |                116 |
+| I76569877   | Southeast University                                             | CN        |      367 |                 61 |
+| I25355098   | Chang'an University                                              | CN        |      186 |                 32 |
+| I21193070   | Beijing Jiaotong University                                      | CN        |      241 |                 29 |
+| I4392738231 | State Key Laboratory of Automotive Simulation and Control        |           |      102 |                 24 |
+| I98358874   | Delft University of Technology                                   | NL        |      558 |                 16 |
+| I4401727007 | Hikvision (China)                                                |           |       23 |                 13 |
+| I106165777  | University of Central Florida                                    | US        |      426 |                 12 |
+| I4210145184 | Honda (United States)                                            | US        |       85 |                 10 |
+| I1283382300 | BMW (Germany)                                                    | DE        |      104 |                  9 |
+| I37796252   | Beijing University of Technology                                 | CN        |      247 |                  9 |
+| I1456306    | North China University of Technology                             | CN        |       96 |                  9 |
+| I4210099312 | Shandong Jiaotong University                                     | CN        |       81 |                  7 |
+| I63371133   | Chongqing Jiaotong University                                    | CN        |      116 |                  7 |
+| I4210113138 | Guangzhou Automobile Group (China)                               | CN        |       49 |                  6 |
+| I4210093665 | Toyota Motor North America (United States)                       | US        |       62 |                  6 |
+| I4210145005 | State Key Laboratory of Vehicle NVH and Safety Technology        | CN        |       67 |                  5 |
+| I4210135175 | Hefei Institute of Technology Innovation                         | CN        |       41 |                  5 |
+| I4210156768 | BMW Group (Germany)                                              | DE        |       96 |                  5 |
+| I4210094894 | China Automotive Technology and Research Center                  | CN        |       74 |                  5 |
+| I4210127216 | Ministry of Transport                                            | CN        |       93 |                  5 |
+| I4210135257 | Volvo (United States)                                            | US        |       34 |                  5 |
+| I4210131649 | China Automotive Engineering Research Institute                  | CN        |       51 |                  4 |
+| I4210108865 | Zhejiang Institute of Communications                             | CN        |       31 |                  4 |
+| I4401726870 | Didi Chuxing (China)                                             |           |       56 |                  4 |
+| I4210112270 | Qingdao Academy of Intelligent Industries                        | CN        |       62 |                  3 |
+| I4210125392 | Centre for Automation and Robotics                               | ES        |       77 |                  3 |
+| I55741626   | Technical University of Crete                                    | GR        |      200 |                  3 |
+| I1322300227 | Audi (Germany)                                                   | DE        |       53 |                  3 |
+| I1311636904 | Michigan Department of Transportation                            | US        |       83 |                  3 |
+| I1294350288 | Scania (Sweden)                                                  | SE        |       94 |                  2 |
+| I1302611135 | Ministry of Public Security of the People's Republic of China    | CN        |       74 |                  2 |
+| I4210163147 | Traffic Management Research Institute                            | CN        |       24 |                  2 |
+| I4210107733 | Informatique, BioInformatique, Systèmes Complexes                | FR        |       63 |                  2 |
+| I891521709  | Daimler (Germany)                                                | DE        |      175 |                  2 |
+| I40753682   | Ford (Germany)                                                   | DE        |       54 |                  2 |
+| I246010334  | Università degli Studi di Enna Kore                              | IT        |      100 |                  2 |
+| I4210109718 | Shandong Transportation Research Institute                       | CN        |       68 |                  1 |
+| I4210155076 | Daimler Center for Automotive Information Technology Innovations | DE        |       17 |                  1 |
+| I4403386650 | Centre de Robotique                                              |           |       51 |                  1 |
+| I4210159565 | SAIC Motor (China)                                               | CN        |       49 |                  1 |
+| I4210153740 | Berkeley Systems (United States)                                 | US        |       18 |                  1 |
+| I4210101348 | Centre Inria de l'Université Grenoble Alpes                      | FR        |      150 |                  1 |
+| I4210122994 | Akka Technologies (France)                                       | FR        |       19 |                  1 |
+| I120250893  | New York University Abu Dhabi                                    | AE        |      160 |                  1 |
+| I4210107946 | Forschungsgesellschaft Kraftfahrwesen Aachen (Germany)           | DE        |       22 |                  1 |

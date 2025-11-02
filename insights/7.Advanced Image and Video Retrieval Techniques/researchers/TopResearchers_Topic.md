@@ -1,0 +1,52 @@
+| ID          | name              |   hIndex | lastInstitution                                |   numberOfWorkInTopic |
+|:------------|:------------------|---------:|:-----------------------------------------------|----------------------:|
+| A5001254143 | Luc Van Gool      |      172 | ETH Zurich                                     |                   410 |
+| A5100381753 | Shuicheng Yan     |      175 | Ningbo University of Technology                |                   378 |
+| A5074103823 | Dacheng Tao       |      146 | Nanyang Technological University               |                   360 |
+| A5050630882 | Licheng Jiao      |       95 | Xidian University                              |                   327 |
+| A5101457342 | Thomas S. Huang   |      145 | National Institute of Metrology                |                   324 |
+| A5111504451 | Qi Tian           |       72 | Southwest University of Science and Technology |                   303 |
+| A5100397026 | Hao Zhang         |      120 | PLA Information Engineering University         |                   286 |
+| A5024965898 | Xian‐Sheng Hua    |       69 | Tongji University                              |                   285 |
+| A5100377147 | Meng Wang         |      100 | Beijing Normal University                      |                   274 |
+| A5055469774 | Jiebo Luo         |       96 | Shantou University                             |                   273 |
+| A5055469774 | Jiebo Luo         |       96 | Shantou University Medical College             |                   273 |
+| A5081506611 | Alberto Del Bimbo |       57 | University of Florence                         |                   261 |
+| A5057678172 | Andrew Zisserman  |      174 | University of Oxford                           |                   257 |
+| A5078340555 | Michael Milford   |       45 | Queensland University of Technology            |                   252 |
+| A5006294869 | Chunhua Shen      |      119 | Zhejiang Lab                                   |                   251 |
+| A5006294869 | Chunhua Shen      |      119 | Zhejiang University of Technology              |                   251 |
+| A5028597017 | Qingming Huang    |       78 | Xiamen University                              |                   250 |
+| A5021908609 | Marc Pollefeys    |      108 | ETH Zurich                                     |                   246 |
+| A5017597537 | Tao Mei           |       84 | Fudan University                               |                   242 |
+| A5100740143 | Xuelong Li        |      123 | Tianjin University of Technology               |                   234 |
+| A5089404640 | Tat‐Seng Chua     |      108 | National University of Singapore               |                   233 |
+| A5082634513 | Ling Shao         |      120 | University of Chinese Academy of Sciences      |                   232 |
+| A5029105520 | Trevor Darrell    |      149 | University of California, Berkeley             |                   231 |
+| A5029105520 | Trevor Darrell    |      149 | Berkeley College                               |                   231 |
+| A5100431792 | Wei Liu           |      109 | Xiaomi (China)                                 |                   229 |
+| A5086706224 | Alan Yuille       |      135 | Johns Hopkins University                       |                   220 |
+| A5027171279 | Nicu Sebe         |       97 | University of Trento                           |                   211 |
+| A5109890544 | Cordelia Schmid   |      118 | Université Paris Sciences et Lettres           |                   208 |
+| A5035112538 | Jinhui Tang       |       82 | Nanjing Forestry University                    |                   206 |
+| A5100393506 | Qi Tian           |       82 | Central Conservatory of Music                  |                   204 |
+| A5006986293 | Huchuan Lu        |      100 | Dalian University of Technology                |                   201 |
+| A5100511737 | Hanqing Lu        |       57 | Amazon (United States)                         |                   200 |
+| A5100418319 | Ming–Hsuan Yang   |      145 | University of California System                |                   200 |
+| A5011359067 | Horst Bischof     |       87 | Graz University of Technology                  |                   197 |
+| A5010722442 | Chong‐Wah Ngo     |       57 | Singapore Management University                |                   196 |
+| A5111454036 | Larry S. Davis    |       97 | University of Maryland, College Park           |                   192 |
+| A5075880303 | Jingdong Wang     |       88 | Baidu (China)                                  |                   190 |
+| A5102762707 | Rama Chellappa    |      120 | Johns Hopkins University                       |                   189 |
+| A5074816094 | Tinne Tuytelaars  |       72 | KU Leuven                                      |                   187 |
+| A5053112307 | C. V. Jawahar     |       55 | Indian Institute of Technology Hyderabad       |                   180 |
+| A5083003222 | Roland Siegwart   |      121 | ETH Zurich                                     |                   179 |
+| A5018478553 | Wen Gao           |       79 | Peking University                              |                   178 |
+| A5030948871 | Rita Cucchiara    |       59 | University of Modena and Reggio Emilia         |                   176 |
+| A5007656938 | Jǐŕı Matas        |       93 | Czech Technical University in Prague           |                   175 |
+| A5051534545 | Bernt Schiele     |      131 | Max Planck Institute for Informatics           |                   175 |
+| A5024508073 | Cees G. M. Snoek  |       61 | University of Amsterdam                        |                   170 |
+| A5100412937 | Liang Lin         |       95 | Fujian Medical University                      |                   170 |
+| A5100412937 | Liang Lin         |       95 | Putian University                              |                   170 |
+| A5080823547 | Mubarak Shah      |      113 | University of Central Florida                  |                   169 |
+| A5100459168 | Zheng Zhang       |       87 | Chinese PLA General Hospital                   |                   168 |

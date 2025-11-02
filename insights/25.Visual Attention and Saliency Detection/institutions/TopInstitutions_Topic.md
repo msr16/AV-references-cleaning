@@ -1,0 +1,22 @@
+| ID          | name                                                                        | country   |   hIndex |   workCountInTopic |
+|:------------|:----------------------------------------------------------------------------|:----------|---------:|-------------------:|
+| I144112489  | McGovern Institute for Brain Research                                       | US        |      283 |                 83 |
+| I1306409833 | Adobe Systems (United States)                                               | US        |      215 |                201 |
+| I4210128910 | Group Sense (China)                                                         | HK        |      138 |                 59 |
+| I4210116052 | Inception Institute of Artificial Intelligence                              | AE        |      130 |                113 |
+| I4401726805 | Megvii (China)                                                              |           |       98 |                 18 |
+| I4210113480 | Mohamed bin Zayed University of Artificial Intelligence                     | AE        |       81 |                 55 |
+| I4210142583 | Snap (United States)                                                        | US        |       77 |                 20 |
+| I4401726859 | Kuaishou (China)                                                            |           |       62 |                 23 |
+| I869089601  | Netflix (United States)                                                     | US        |       58 |                 17 |
+| I4401726824 | Horizon Robotics (China)                                                    |           |       51 |                 11 |
+| I4210129579 | National Engineering Laboratory of Deep Learning Technology and Application | CN        |       43 |                 10 |
+| I4210126639 | Valeo (Ireland)                                                             | IE        |       32 |                  7 |
+| I4210111163 | Shanghai Open University                                                    | CN        |       27 |                 12 |
+| I4210118101 | SoftBank Robotics (France)                                                  | FR        |       27 |                  7 |
+| I4210111085 | Academy of Broadcasting Science                                             | CN        |       24 |                 17 |
+| I4401727009 | Sensetime (China)                                                           |           |       15 |                  3 |
+| I2801103342 | European Broadcasting Union                                                 | CH        |       10 |                  3 |
+| I4401726920 | Aibee (China)                                                               |           |        8 |                  1 |
+| I4401726932 | Pinterest (United States)                                                   |           |        7 |                  1 |
+| I4210163155 | Faurecia (Canada)                                                           | CA        |        2 |                  1 |

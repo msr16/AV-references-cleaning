@@ -1,0 +1,52 @@
+| ID          | name             |   hIndex | lastInstitution                                                  |   numberOfWork |
+|:------------|:-----------------|---------:|:-----------------------------------------------------------------|---------------:|
+| A5011166267 | Cyrill Stachniss |       69 | University of Bonn                                               |             15 |
+| A5100460011 | Fu Zhang         |       34 | Universidad del Noreste                                          |             12 |
+| A5032262344 | Xieyuanli Chen   |       25 | National University of Defense Technology                        |             10 |
+| A5108050395 | Jiayuan Li       |       35 | Xiamen University                                                |             10 |
+| A5068364473 | Jens Behley      |       33 | University of Bonn                                               |             10 |
+| A5100732450 | Hongsheng Li     |       92 | Guangzhou Medical University                                     |              9 |
+| A5089561793 | Jiajun Deng      |       21 | The University of Adelaide                                       |              8 |
+| A5034945418 | Qingwu Hu        |       30 | Wuhan University                                                 |              8 |
+| A5100628775 | Ke Wang          |       26 | Shanghai Jiao Tong University                                    |              7 |
+| A5108625236 | Yongjun Zhang    |       44 | Beijing University of Posts and Telecommunications               |              7 |
+| A5100362465 | Xiangyu Zhang    |       72 | Zero to Three                                                    |              6 |
+| A5100362465 | Xiangyu Zhang    |       72 | Wuhan University                                                 |              6 |
+| A5083443210 | Shaoshuai Shi    |       22 | Voyager Therapeutics (United States)                             |              6 |
+| A5005226727 | Xinge Zhu        |       27 | Huawei Technologies (China)                                      |              6 |
+| A5083443210 | Shaoshuai Shi    |       22 | Didi Chuxing (China)                                             |              6 |
+| A5001947944 | Shaojie Shen     |       55 | University of Hong Kong                                          |              6 |
+| A5001947944 | Shaojie Shen     |       55 | Hong Kong University of Science and Technology                   |              6 |
+| A5100365448 | Lihua Xie        |      111 | China Tobacco                                                    |              6 |
+| A5100337582 | Chen Wang        |       24 | University at Buffalo, State University of New York              |              6 |
+| A5061104105 | Jianmin Ji       |       15 | University of Science and Technology of China                    |              5 |
+| A5039972852 | Shuji Oishi      |       33 | National Institute of Advanced Industrial Science and Technology |              5 |
+| A5101949273 | Jin Fang         |       16 | Yanbian University                                               |              5 |
+| A5101843626 | Liangjun Zhang   |       25 | Baidu (China)                                                    |              5 |
+| A5100668197 | Pengcheng Shi    |       15 | Shenzhen Institute of Information Technology                     |              5 |
+| A5100678098 | Zehui Chen       |       11 | Xi'an Technological University                                   |              5 |
+| A5040761750 | Wei Xu           |       22 | Anhui University of Finance and Economics                        |              5 |
+| A5100379486 | Lu Xiong         |       30 | Tongji University                                                |              5 |
+| A5087798118 | Xiaoqing Ye      |       26 | Baidu (China)                                                    |              5 |
+| A5110647238 | Tiancai Wang     |       21 | Fujian Agriculture and Forestry University                       |              5 |
+| A5061104105 | Jianmin Ji       |       15 | National Science Centre                                          |              5 |
+| A5086877328 | Aris S. Lalos    |       20 | Industrial Systems Institute                                     |              5 |
+| A5078435846 | Atsuhiko Banno   |       16 | National Institute of Advanced Industrial Science and Technology |              5 |
+| A5009611484 | Dingfu Zhou      |       25 | Zhejiang Cancer Hospital                                         |              5 |
+| A5087818121 | Wanli Ouyang     |       93 | Beijing Academy of Artificial Intelligence                       |              5 |
+| A5080852978 | Hang Dai         |       22 | Henan Provincial People's Hospital                               |              5 |
+| A5080852978 | Hang Dai         |       22 | Zhengzhou University                                             |              5 |
+| A5007977858 | Junqiao Zhao     |       18 | Shanghai University of Traditional Chinese Medicine              |              5 |
+| A5038928126 | Kenji Koide      |       17 | National Institute of Advanced Industrial Science and Technology |              5 |
+| A5100668197 | Pengcheng Shi    |       15 | Harbin Institute of Technology                                   |              5 |
+| A5041977264 | Chongjian Yuan   |       10 | University of Hong Kong                                          |              5 |
+| A5024900204 | Masashi Yokozuka |       11 | National Institute of Advanced Industrial Science and Technology |              5 |
+| A5087818121 | Wanli Ouyang     |       93 | Shanghai Artificial Intelligence Laboratory                      |              5 |
+| A5083722247 | Jikai Wang       |       13 | Beihang University                                               |              5 |
+| A5010087030 | Dahua Lin        |       83 | Chinese University of Hong Kong                                  |              4 |
+| A5100347785 | Ming Liu         |       62 | Tongji University                                                |              4 |
+| A5060187904 | Ziying Song      |       12 | Beijing Jiaotong University                                      |              4 |
+| A5064754069 | Lue Fan          |        9 | Institute of Automation                                          |              4 |
+| A5022152675 | Jun Cheng        |        8 | Anhui Polytechnic University                                     |              4 |
+| A5064754069 | Lue Fan          |        9 | Chinese University of Hong Kong                                  |              4 |
+| A5091604093 | Teng Ran         |        9 | Xinjiang University                                              |              4 |

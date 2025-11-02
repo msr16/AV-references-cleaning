@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W4298204516,A Review on Kalman Filter Models,2022,Archives of Computational Methods in Engineering,245
+W3135204376,Robust Target Recognition and Tracking of Self-Driving Cars With Radar and Camera Information Fusion Under Severe Weather Conditions,2021,IEEE Transactions on Intelligent Transportation Systems,225
+W3120253624,Particle Filters: A Hands-On Tutorial,2021,Sensors,141
+W4229014698,Neural-Fly enables rapid learning for agile flight in strong winds,2022,Science Robotics,127
+W4226293621,Integrity Monitoring of GNSS/INS Based Positioning Systems for Autonomous Vehicles: State-of-the-Art and Open Challenges,2022,IEEE Transactions on Intelligent Transportation Systems,71
+W4214713171,Deep Learning-Enabled Fusion to Bridge GPS Outages for INS/GPS Integrated Navigation,2022,IEEE Sensors Journal,67
+W4385574728,Multi-Sensor Fusion and Cooperative Perception for Autonomous Driving: A Review,2023,IEEE Intelligent Transportation Systems Magazine,59
+W4383899637,A Review of Small UAV Navigation System Based on Multisource Sensor Fusion,2023,IEEE Sensors Journal,37
+W3128182865,Learning-Based Extended Object Tracking Using Hierarchical Truncation Measurement Model With Automotive Radar,2021,IEEE Journal of Selected Topics in Signal Processing,32
+W4200230220,Surrounding Objects Detection and Tracking for Autonomous Driving Using LiDAR and Radar Fusion,2021,Chinese Journal of Mechanical Engineering,26
+W4386472944,Radars for Autonomous Driving: A Review of Deep Learning Methods and Challenges,2023,IEEE Access,26
+W4362579132,Sensor Fusion of GNSS and IMU Data for Robust Localization via Smoothed Error State Kalman Filter,2023,Sensors,23
+W3201111605,Graph Laplacian Diffusion Localization of Connected and Automated Vehicles,2021,IEEE Transactions on Intelligent Transportation Systems,20
+W4366088811,Comparative Analysis of 3D LiDAR Scan-Matching Methods for State Estimation of Autonomous Surface Vessel,2023,Journal of Marine Science and Engineering,19
+W4282933345,Learning Selective Sensor Fusion for State Estimation,2022,IEEE Transactions on Neural Networks and Learning Systems,17
+W3142500478,Data-Driven Object Vehicle Estimation by Radar Accuracy Modeling with Weighted Interpolation,2021,Sensors,16
+W4309030591,Radar Sensor-Based Estimation of Vehicle Orientation for Autonomous Driving,2022,IEEE Sensors Journal,14
+W4388624486,UWB/INS Fusion Positioning Algorithm Based on Generalized Probability Data Association for Indoor Vehicle,2023,IEEE Transactions on Intelligent Vehicles,14
+W4386523119,Enhanced Fault Detection for GNSS/INS Integration Using Maximum Correntropy Filter and Local Outlier Factor,2023,IEEE Transactions on Intelligent Vehicles,12
+W3165361533,Lidar and radar fusion for real-time road-objects detection and tracking,2021,Intelligent Decision Technologies,11

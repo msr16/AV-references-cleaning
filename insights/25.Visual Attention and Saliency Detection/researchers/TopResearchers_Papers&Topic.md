@@ -1,0 +1,38 @@
+| ID          | name                 |   hIndex | lastInstitution                               |   numberOfWork |
+|:------------|:---------------------|---------:|:----------------------------------------------|---------------:|
+| A5087818121 | Wanli Ouyang         |       93 | Shanghai Artificial Intelligence Laboratory   |              2 |
+| A5087818121 | Wanli Ouyang         |       93 | Beijing Academy of Artificial Intelligence    |              2 |
+| A5017597537 | Tao Mei              |       84 | Fudan University                              |              2 |
+| A5088760097 | Ting Yao             |       55 | Chongqing Technology and Business University  |              2 |
+| A5049638480 | Alexander G. Schwing |       54 | University of Illinois Urbana-Champaign       |              1 |
+| A5100778603 | Dan Xu               |       24 | Qilu Hospital of Shandong University          |              1 |
+| A5027010844 | Kailun Yang          |       33 | Hunan University                              |              1 |
+| A5100659434 | Peng Chen            |       27 | Shenzhen University                           |              1 |
+| A5041101317 | Huaping Liu          |       50 | Tsinghua University                           |              1 |
+| A5041031140 | Enze Xie             |       32 | Huawei Technologies (Sweden)                  |              1 |
+| A5010087030 | Dahua Lin            |       83 | Chinese University of Hong Kong               |              1 |
+| A5010087030 | Dahua Lin            |       83 | Shanghai Artificial Intelligence Laboratory   |              1 |
+| A5100402515 | Jian Li              |       25 | Northwest A&F University                      |              1 |
+| A5100727358 | Yunhe Wang           |       43 | Hubei University                              |              1 |
+| A5047962986 | Yu–Gang Jiang        |       75 | Fudan University                              |              1 |
+| A5037191476 | Xinggang Wang        |       67 | Huazhong University of Science and Technology |              1 |
+| A5100404947 | Jie Yang             |       73 | Sichuan University                            |              1 |
+| A5100404947 | Jie Yang             |       73 | Analysis and Testing Centre                   |              1 |
+| A5101827340 | Wenhai Wang          |       29 | Chinese University of Hong Kong               |              1 |
+| A5045005999 | Kan Huang            |       10 | Shanghai Maritime University                  |              1 |
+| A5050031109 | Errui Ding           |       50 | Vision Technology (United States)             |              1 |
+| A5050031109 | Errui Ding           |       50 | Baidu (China)                                 |              1 |
+| A5100447806 | Wenjun Zhang         |       47 | Changchun University                          |              1 |
+| A5024965898 | Xian‐Sheng Hua       |       69 | Tongji University                             |              1 |
+| A5003418019 | Xiangyang Xue        |       60 | Henan University of Science and Technology    |              1 |
+| A5114549594 | Weiming Hu           |       65 | Lanzhou University Second Hospital            |              1 |
+| A5114549594 | Weiming Hu           |       65 | Lanzhou University                            |              1 |
+| A5100665053 | Wenyu Liu            |       80 | Tsinghua University                           |              1 |
+| A5090283032 | Laura Leal-Taixé     |       45 | Technical University of Munich                |              1 |
+| A5087051920 | Rainer Stiefelhagen  |       62 | Karlsruhe Institute of Technology             |              1 |
+| A5100616471 | Haojie Li            |       33 | Sichuan University                            |              1 |
+| A5100330138 | Si Liu               |       51 | Institute of Art                              |              1 |
+| A5100330138 | Si Liu               |       51 | Beihang University                            |              1 |
+| A5037322163 | Kris Kitani          |       58 | Carnegie Mellon University                    |              1 |
+| A5100748135 | Yu Qiao              |       95 | Kyung Hee University                          |              1 |
+| A5103125510 | Jianping Shi         |       73 | Anhui Normal University                       |              1 |

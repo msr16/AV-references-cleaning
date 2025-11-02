@@ -1,0 +1,13 @@
+| ID          | name                                                                        | country   |   hIndex |   workCountInTopic |
+|:------------|:----------------------------------------------------------------------------|:----------|---------:|-------------------:|
+| I4401726805 | Megvii (China)                                                              |           |       98 |                 28 |
+| I4210128910 | Group Sense (China)                                                         | HK        |      138 |                 18 |
+| I4210116052 | Inception Institute of Artificial Intelligence                              | AE        |      130 |                  7 |
+| I4210129579 | National Engineering Laboratory of Deep Learning Technology and Application | CN        |       43 |                  7 |
+| I4401726824 | Horizon Robotics (China)                                                    |           |       51 |                  7 |
+| I4210126639 | Valeo (Ireland)                                                             | IE        |       32 |                  6 |
+| I4210113480 | Mohamed bin Zayed University of Artificial Intelligence                     | AE        |       81 |                  5 |
+| I4401726920 | Aibee (China)                                                               |           |        8 |                  4 |
+| I4210142583 | Snap (United States)                                                        | US        |       77 |                  4 |
+| I4210111163 | Shanghai Open University                                                    | CN        |       27 |                  3 |
+| I4401726859 | Kuaishou (China)                                                            |           |       62 |                  1 |

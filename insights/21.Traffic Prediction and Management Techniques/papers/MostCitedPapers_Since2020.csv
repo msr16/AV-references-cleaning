@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W4226239849,A Survey on Trajectory-Prediction Methods for Autonomous Driving,2022,IEEE Transactions on Intelligent Vehicles,354
+W3156216502,Large Scale Interactive Motion Forecasting for Autonomous Driving : The Waymo Open Motion Dataset,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),318
+W4224231583,"Future Directions of Intelligent Vehicles: Potentials, Possibilities, and Perspectives",2022,IEEE Transactions on Intelligent Vehicles,207
+W3167586364,Graph neural network and reinforcement learning for multi‐agent cooperative control of connected autonomous vehicles,2021,Computer-Aided Civil and Infrastructure Engineering,196
+W3204369957,Edge AI‐Based Automated Detection and Classification of Road Anomalies in VANET Using Deep Learning,2021,Computational Intelligence and Neuroscience,190
+W4210389721,Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network,2022,IEEE Transactions on Intelligent Transportation Systems,166
+W3176912151,Driving Behavior Modeling Using Naturalistic Human Driving Data With Inverse Reinforcement Learning,2021,IEEE Transactions on Intelligent Transportation Systems,145
+W3210971248,Speech Emotion Recognition Enhanced Traffic Efficiency Solution for Autonomous Vehicles in a 5G-Enabled Space–Air–Ground Integrated Intelligent Transportation System,2021,IEEE Transactions on Intelligent Transportation Systems,135
+W4226286144,A Comprehensive Survey on the Application of Deep and Reinforcement Learning Approaches in Autonomous Driving,2022,Journal of King Saud University - Computer and Information Sciences,119
+W3181350748,TrafficSim: Learning to Simulate Realistic Multi-Agent Behaviors,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),118
+W3157716083,TrajGAIL: Generating urban vehicle trajectories using generative adversarial imitation learning,2021,Transportation Research Part C Emerging Technologies,114
+W3138299418,Fuzzy Power Heronian function based CoCoSo method for the advantage prioritization of autonomous vehicles in real-time traffic management,2021,Sustainable Cities and Society,100
+W4386544112,A hybrid CEEMD-GMM scheme for enhancing the detection of traffic flow on highways,2023,Soft Computing,95
+W4287115177,NuPlan: A closed-loop ML-based planning benchmark for autonomous vehicles,2021,arXiv (Cornell University),80
+W4285244183,Trajectory Prediction for Autonomous Driving Using Spatial-Temporal Graph Attention Transformer,2022,IEEE Transactions on Intelligent Transportation Systems,80
+W4283076523,Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline,2022,arXiv (Cornell University),78
+W4385221361,HDGT: Heterogeneous Driving Graph Transformer for Multi-Agent Trajectory Prediction via Scene Encoding,2023,IEEE Transactions on Pattern Analysis and Machine Intelligence,77
+W4226471664,HybridNets: End-to-End Perception Network,2022,arXiv (Cornell University),66
+W3155121415,Novel best path selection approach based on hybrid improved A* algorithm and reinforcement learning,2021,Applied Intelligence,66
+W3163257372,Lane-Change Intention Inference Based on RNN for Autonomous Driving on Highways,2021,IEEE Transactions on Vehicular Technology,63

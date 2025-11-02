@@ -1,0 +1,52 @@
+| ID          | name                 |   hIndex | lastInstitution                                                  |   numberOfWork |
+|:------------|:---------------------|---------:|:-----------------------------------------------------------------|---------------:|
+| A5088751649 | Xin Yang             |       33 | Dalian University of Technology                                  |              6 |
+| A5051326863 | Gangwei Xu           |       12 | Huazhong University of Science and Technology                    |              4 |
+| A5102015139 | Yuexin Ma            |       27 | ShanghaiTech University                                          |              4 |
+| A5002199949 | Chaoqiang Zhao       |       13 | AVIC Optronics (China)                                           |              3 |
+| A5060397815 | Junda Cheng          |        6 | Huazhong University of Science and Technology                    |              3 |
+| A5034945418 | Qingwu Hu            |       30 | Wuhan University                                                 |              3 |
+| A5100347785 | Ming Liu             |       62 | Tongji University                                                |              3 |
+| A5100409052 | Xiaoming Liu         |       63 | North Minzu University                                           |              3 |
+| A5112876106 | Haitao Meng          |        6 | Technical University of Munich                                   |              3 |
+| A5009698718 | Yan Zhuang           |       27 | Dalian University of Technology                                  |              3 |
+| A5100389329 | Gang Chen            |       26 | Xi'an Jiaotong University                                        |              3 |
+| A5064255140 | Qiyu Sun             |       15 | East China University of Science and Technology                  |              3 |
+| A5014764449 | Senthil Yogamani     |       35 | Technological University Dublin                                  |              3 |
+| A5077687075 | Kwang‐Ting Cheng     |       75 | University of Hong Kong                                          |              3 |
+| A5036202579 | Yuchao Dai           |       49 | Northwestern Polytechnical University                            |              3 |
+| A5022725755 | Zhelun Shen          |        9 | Baidu (China)                                                    |              3 |
+| A5061149469 | Zhibo Rao            |       11 | Nanchang Hangkong University                                     |              3 |
+| A5063781430 | Alois Knoll          |       60 | Technical University of Munich                                   |              3 |
+| A5031313498 | Daniel Morris        |       33 | Michigan State University                                        |              3 |
+| A5028570509 | Yang Tang            |       68 | East China University of Science and Technology                  |              3 |
+| A5103125510 | Jianping Shi         |       73 | Anhui Normal University                                          |              3 |
+| A5077687075 | Kwang‐Ting Cheng     |       75 | Hong Kong University of Science and Technology                   |              3 |
+| A5108050395 | Jiayuan Li           |       35 | Xiamen University                                                |              3 |
+| A5100460011 | Fu Zhang             |       34 | Universidad del Noreste                                          |              3 |
+| A5005226727 | Xinge Zhu            |       27 | Huawei Technologies (China)                                      |              3 |
+| A5100395977 | Peng Wang            |       27 | University of Hong Kong                                          |              2 |
+| A5069152730 | Y. F. Long           |       17 | Yunnan Provincial Department of Education                        |              2 |
+| A5089828993 | Xiaozhi Chen         |       19 | Guangxi University of Chinese Medicine                           |              2 |
+| A5084344419 | Chunran Zheng        |        7 | University of Hong Kong                                          |              2 |
+| A5100395977 | Peng Wang            |       27 | Nanyang Technological University                                 |              2 |
+| A5024117395 | Jonathan T. Barron   |       66 | Google (United States)                                           |              2 |
+| A5024117395 | Jonathan T. Barron   |       66 | University of Maine                                              |              2 |
+| A5051534545 | Bernt Schiele        |      131 | Max Planck Institute for Informatics                             |              2 |
+| A5001947944 | Shaojie Shen         |       55 | Hong Kong University of Science and Technology                   |              2 |
+| A5001947944 | Shaojie Shen         |       55 | University of Hong Kong                                          |              2 |
+| A5038928126 | Kenji Koide          |       17 | National Institute of Advanced Industrial Science and Technology |              2 |
+| A5021908609 | Marc Pollefeys       |      108 | ETH Zurich                                                       |              2 |
+| A5084344419 | Chunran Zheng        |        7 | Chinese University of Hong Kong                                  |              2 |
+| A5108137333 | Andrew J. Davison    |       67 | New South Wales Department of Health                             |              2 |
+| A5061519579 | Pratul P. Srinivasan |       39 | DeepMind (United Kingdom)                                        |              2 |
+| A5100692750 | Dong Ye              |       20 | Harbin Institute of Technology                                   |              2 |
+| A5087158377 | Junchi Yan           |       60 | Shanghai Jiao Tong University                                    |              2 |
+| A5061519579 | Pratul P. Srinivasan |       39 | Google (United States)                                           |              2 |
+| A5070356056 | Stewart Worrall      |       30 | The University of Sydney                                         |              2 |
+| A5020331930 | Yasin Almalıoğlu     |       17 | University of Oxford                                             |              2 |
+| A5101843626 | Liangjun Zhang       |       25 | Baidu (China)                                                    |              2 |
+| A5016606943 | Andreas Geiger       |       85 | Bernstein Center for Computational Neuroscience Tübingen         |              2 |
+| A5024900204 | Masashi Yokozuka     |       11 | National Institute of Advanced Industrial Science and Technology |              2 |
+| A5083849742 | Ben Mildenhall       |       35 | Google (United States)                                           |              2 |
+| A5087798118 | Xiaoqing Ye          |       26 | Baidu (China)                                                    |              2 |

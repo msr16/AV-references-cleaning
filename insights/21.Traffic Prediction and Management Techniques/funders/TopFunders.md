@@ -1,0 +1,52 @@
+| ID          | name                                                                            |   hIndex |   workCountInTopic |
+|:------------|:--------------------------------------------------------------------------------|---------:|-------------------:|
+| F4320321001 | National Natural Science Foundation of China                                    |      728 |                 35 |
+| F4320335777 | National Key Research and Development Program of China                          |      503 |                 10 |
+| F4320335787 | Fundamental Research Funds for the Central Universities                         |      428 |                  5 |
+| F4320320766 | Nanyang Technological University                                                |      212 |                  3 |
+| F4320322120 | National Research Foundation of Korea                                           |      445 |                  3 |
+| F4320322010 | Ministry of Land, Infrastructure and Transport                                  |      105 |                  3 |
+| F4320321681 | Ministry of Trade, Industry and Energy                                          |      192 |                  3 |
+| F4320306076 | National Science Foundation                                                     |      783 |                  3 |
+| F4320321543 | China Postdoctoral Science Foundation                                           |      421 |                  2 |
+| F4320309652 | University of Michigan                                                          |      149 |                  2 |
+| F4320321885 | Science and Technology Commission of Shanghai Municipality                      |      294 |                  2 |
+| F4320334704 | Australian Research Council                                                     |      494 |                  2 |
+| F4320307103 | Ford Motor Company                                                              |       75 |                  2 |
+| F4320333335 | Sichuan Province Science and Technology Support Program                         |      134 |                  1 |
+| F4320323771 | Centre National pour la Recherche Scientifique et Technique                     |      108 |                  1 |
+| F4320322108 | Ministry of Science and Technology                                              |      136 |                  1 |
+| F4320307102 | Intel Corporation                                                               |      136 |                  1 |
+| F4320323310 | Universiti Malaysia Pahang                                                      |      111 |                  1 |
+| F4320334764 | Japan Society for the Promotion of Science                                      |      407 |                  1 |
+| F4320322725 | China Scholarship Council                                                       |      394 |                  1 |
+| F4320324625 | Korea Agency for Infrastructure Technology Advancement                          |       71 |                  1 |
+| F4320322701 | Tianjin University                                                              |       97 |                  1 |
+| F4320321514 | Central South University                                                        |      157 |                  1 |
+| F4320323079 | Boğaziçi Üniversitesi                                                           |       43 |                  1 |
+| F4320322626 | Türkiye Bilimsel ve Teknolojik Araştırma Kurumu                                 |      159 |                  1 |
+| F4320306087 | Semiconductor Research Corporation                                              |      137 |                  1 |
+| F4320321408 | Ministry of Education                                                           |      241 |                  1 |
+| F4320336578 | Anhui Provincial Key Research and Development Plan                              |       59 |                  1 |
+| F4320315159 | Transport Canada                                                                |       36 |                  1 |
+| F4320322768 | Natural Science Foundation of Guangxi Province                                  |      145 |                  1 |
+| F4320322769 | Natural Science Foundation of Jiangsu Province                                  |      328 |                  1 |
+| F4320333642 | Scientific Research Foundation of Hunan Provincial Education Department         |       85 |                  1 |
+| F4320322843 | Natural Science Foundation of Hunan Province                                    |      211 |                  1 |
+| F4320322922 | Department of Science and Technology of Sichuan Province                        |      152 |                  1 |
+| F4320320696 | Agency for Science, Technology and Research                                     |      223 |                  1 |
+| F4320326705 | Science, Technology and Innovation Commission of Shenzhen Municipality          |      172 |                  1 |
+| F4320334593 | Natural Sciences and Engineering Research Council of Canada                     |      478 |                  1 |
+| F4320329120 | Impacting Research Innovation and Technology                                    |       24 |                  1 |
+| F4320321881 | Shanghai Municipal Education Commission                                         |      202 |                  1 |
+| F4320322030 | Ministry of Science, ICT and Future Planning                                    |      259 |                  1 |
+| F4320335353 | National Science Foundation of Sri Lanka                                        |      213 |                  1 |
+| F4320322025 | Conselho Nacional de Desenvolvimento Científico e Tecnológico                   |      336 |                  1 |
+| F4320336024 | Specialized Research Fund for the Doctoral Program of Higher Education of China |      205 |                  1 |
+| F4320306108 | U.S. Department of Transportation                                               |      108 |                  1 |
+| F4320322724 | Ministry of Education, India                                                    |      154 |                  1 |
+| F4320337111 | Basic and Applied Basic Research Foundation of Guangdong Province               |      121 |                  1 |
+| F4320323993 | Natural Science Foundation of Tianjin City                                      |      223 |                  1 |
+| F4320320883 | Agence Nationale de la Recherche                                                |      341 |                  1 |
+| F4320312071 | Ministry of Education, Libya                                                    |       76 |                  1 |
+| F4320315310 | Kentucky Transportation Cabinet                                                 |        8 |                  1 |

@@ -1,0 +1,22 @@
+| ID          | publisher                                                          |   publishedCount |   avgCitation |
+|:------------|:-------------------------------------------------------------------|-----------------:|--------------:|
+| S144771191  | IEEE Transactions on Intelligent Transportation Systems            |               25 |       37.6    |
+| S4210199657 | IEEE Transactions on Intelligent Vehicles                          |               12 |       30.3333 |
+| S4210169774 | IEEE Robotics and Automation Letters                               |               12 |       69.0833 |
+| S101949793  | Sensors                                                            |                8 |       41.125  |
+| S4210191458 | Proceedings of the AAAI Conference on Artificial Intelligence      |                7 |       96.1429 |
+| S199944782  | IEEE Transactions on Pattern Analysis and Machine Intelligence     |                6 |      111.5    |
+| S2485537415 | IEEE Access                                                        |                6 |       28      |
+| S900972176  | Engineering Applications of Artificial Intelligence                |                5 |       16.4    |
+| S45693802   | Neurocomputing                                                     |                5 |       30.4    |
+| S13144211   | Expert Systems with Applications                                   |                4 |       38      |
+| S147897268  | Neural Computing and Applications                                  |                3 |       32      |
+| S115173108  | IEEE Transactions on Circuits and Systems for Video Technology     |                3 |       20.3333 |
+| S10936095   | IEEE Transactions on Vehicular Technology                          |                3 |       26.6667 |
+| S110206669  | Multimedia Tools and Applications                                  |                3 |       45.6667 |
+| S189694085  | IEEE Sensors Journal                                               |                3 |       29      |
+| S25538012   | International Journal of Computer Vision                           |                3 |       83.6667 |
+| S4210210251 | IEEE Transactions on Emerging Topics in Computational Intelligence |                3 |       67      |
+| S4210175523 | IEEE Transactions on Neural Networks and Learning Systems          |                3 |       63      |
+| S4210194039 | Array                                                              |                3 |      169.333  |
+| S10892749   | IEEE Transactions on Instrumentation and Measurement               |                2 |      134.5    |

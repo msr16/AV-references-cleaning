@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W3127561923,Deep Reinforcement Learning for Autonomous Driving: A Survey,2021,IEEE Transactions on Intelligent Transportation Systems,1458
+W4226239849,A Survey on Trajectory-Prediction Methods for Autonomous Driving,2022,IEEE Transactions on Intelligent Vehicles,354
+W4353056919,Dense reinforcement learning for safety validation of autonomous vehicles,2023,Nature,279
+W3211345831,Decision making of autonomous vehicles in lane change scenarios: Deep reinforcement learning approaches with risk awareness,2021,Transportation Research Part C Emerging Technologies,209
+W3128395826,Interpretable End-to-End Urban Autonomous Driving With Latent Deep Reinforcement Learning,2021,IEEE Transactions on Intelligent Transportation Systems,198
+W3167586364,Graph neural network and reinforcement learning for multi‐agent cooperative control of connected autonomous vehicles,2021,Computer-Aided Civil and Infrastructure Engineering,196
+W4285228542,Autonomous Vehicles on the Edge: A Survey on Autonomous Vehicle Racing,2022,IEEE Open Journal of Intelligent Transportation Systems,190
+W4281644335,"Autonomous Vehicles and Intelligent Automation: Applications, Challenges, and Opportunities",2022,Mobile Information Systems,171
+W4285179475,Autonomous Vehicle Kinematics and Dynamics Synthesis for Sideslip Angle Estimation Based on Consensus Kalman Filter,2022,IEEE Transactions on Control Systems Technology,159
+W3176912151,Driving Behavior Modeling Using Naturalistic Human Driving Data With Inverse Reinforcement Learning,2021,IEEE Transactions on Intelligent Transportation Systems,145
+W3027406032,A Survey of Reinforcement Learning Algorithms for Dynamically Varying Environments,2021,ACM Computing Surveys,144
+W3121045039,A Survey of Deep RL and IL for Autonomous Driving Policy Learning,2021,IEEE Transactions on Intelligent Transportation Systems,141
+W4285272860,Prediction-Uncertainty-Aware Decision-Making for Autonomous Vehicles,2022,IEEE Transactions on Intelligent Vehicles,124
+W4226257065,Efficient Deep Reinforcement Learning With Imitative Expert Priors for Autonomous Driving,2022,IEEE Transactions on Neural Networks and Learning Systems,122
+W4205373550,Deep reinforcement learning based control for Autonomous Vehicles in CARLA,2022,Multimedia Tools and Applications,120
+W4285108207,Deep Learning-Based Trajectory Planning and Control for Autonomous Ground Vehicle Parking Maneuver,2022,IEEE Transactions on Automation Science and Engineering,118
+W3181350748,TrafficSim: Learning to Simulate Realistic Multi-Agent Behaviors,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),118
+W3203076355,MetaDrive: Composing Diverse Driving Scenarios for Generalizable Reinforcement Learning,2022,IEEE Transactions on Pattern Analysis and Machine Intelligence,116
+W3193987867,End-to-End Urban Driving by Imitating a Reinforcement Learning Coach,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),115
+W3136119534,An Intelligent Lane-Changing Behavior Prediction and Decision-Making Strategy for an Autonomous Vehicle,2021,IEEE Transactions on Industrial Electronics,107

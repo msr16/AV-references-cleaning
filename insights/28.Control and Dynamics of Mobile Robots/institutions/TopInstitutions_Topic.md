@@ -1,0 +1,24 @@
+| ID          | name                                                  | country   |   hIndex |   workCountInTopic |
+|:------------|:------------------------------------------------------|:----------|---------:|-------------------:|
+| I43313876   | Dalian Maritime University                            | CN        |      173 |                365 |
+| I4210116723 | Robotics Research (United States)                     | US        |      127 |                 80 |
+| I142078773  | Shenyang Institute of Automation                      | CN        |      106 |                165 |
+| I4210088387 | Heuristics and Diagnostics for Complex Systems        | FR        |       95 |                 98 |
+| I4210125392 | Centre for Automation and Robotics                    | ES        |       77 |                 42 |
+| I4210116741 | Innopolis University                                  | RU        |       68 |                 45 |
+| I4210107733 | Informatique, BioInformatique, Systèmes Complexes     | FR        |       63 |                 63 |
+| I4210129003 | SYSU-CMU International Joint Research Institute       | CN        |       56 |                 11 |
+| I73685970   | Vietnam Maritime University                           | VN        |       55 |                 29 |
+| I4391767639 | State Key Laboratory of Robotics and Systems          |           |       54 |                 27 |
+| I4403386650 | Centre de Robotique                                   |           |       51 |                 22 |
+| I4210144102 | Wuhu Hit Robot Technology Research Institute          | CN        |       45 |                 37 |
+| I4210135709 | Industrial Systems Institute                          | GR        |       43 |                 43 |
+| I4210143630 | Program Systems Institute of RAS                      | RU        |       37 |                 25 |
+| I4210143335 | Boston Dynamics (United States)                       | US        |       36 |                  9 |
+| I4210148944 | Dà-Jiāng Innovations Science and Technology (China)   | CN        |       34 |                  4 |
+| I4210096735 | Korea Institute of Robot and Convergence              | KR        |       33 |                 34 |
+| I179760745  | Mahaveer Academy of Technology and Science University | IN        |       32 |                 14 |
+| I4391767788 | Institute of Robotics                                 |           |       30 |                 11 |
+| I4210130689 | Volkswagen Group (United Kingdom)                     | GB        |       11 |                  1 |
+| I4210104313 | Maritime Robotics (Norway)                            | NO        |       10 |                  1 |
+| I4210125373 | Delta Motorsport (United Kingdom)                     | GB        |        5 |                  1 |

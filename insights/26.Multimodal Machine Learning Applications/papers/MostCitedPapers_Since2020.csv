@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W4287322212,A Survey on Deep Semi-Supervised Learning,2022,IEEE Transactions on Knowledge and Data Engineering,540
+W3165924482,UP-DETR: Unsupervised Pre-training for Object Detection with Transformers,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),434
+W4386071839,OneFormer: One Transformer to Rule Universal Image Segmentation,2023,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),231
+W4323717348,"Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",2023,arXiv (Cornell University),162
+W3175269419,ST3D: Self-training for Unsupervised Domain Adaptation on 3D Object Detection,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),154
+W3188394685,TF-Blender: Temporal Feature Blender for Video Object Detection,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),152
+W4220840735,Motion planning and control for mobile robot navigation using machine learning: a survey,2022,Autonomous Robots,152
+W3214127792,What Makes Multi-modal Learning Better than Single (Provably),2021,arXiv (Cornell University),135
+W3112530000,DenserNet: Weakly Supervised Visual Localization Using Multi-Scale Feature Aggregation,2021,Proceedings of the AAAI Conference on Artificial Intelligence,122
+W4317038436,SePiCo: Semantic-Guided Pixel Contrast for Domain Adaptive Semantic Segmentation,2023,IEEE Transactions on Pattern Analysis and Machine Intelligence,121
+W3169575272,DETReg: Unsupervised Pretraining with Region Priors for Object Detection,2022,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),102
+W3203949114,3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),92
+W3182910454,Scan2Cap: Context-aware Dense Captioning in RGB-D Scans,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),88
+W4312769831,Hierarchical Interpretable Imitation Learning for End-to-End Autonomous Driving,2022,IEEE Transactions on Intelligent Vehicles,84
+W4386075580,CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP,2023,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),76
+W3175849542,AttaNet: Attention-Augmented Network for Fast and Accurate Scene Parsing,2021,Proceedings of the AAAI Conference on Artificial Intelligence,73
+W4230769173,Unsupervised Domain Adaptive 3D Detection with Multi-Level Consistency,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),70
+W3127177108,A Lifelong Learning Approach to Mobile Robot Navigation,2021,IEEE Robotics and Automation Letters,70
+W4293112749,DeepInteraction: 3D Object Detection via Modality Interaction,2022,arXiv (Cornell University),56
+W4214689917,Contrastive Multimodal Fusion with TupleInfoNCE,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),55

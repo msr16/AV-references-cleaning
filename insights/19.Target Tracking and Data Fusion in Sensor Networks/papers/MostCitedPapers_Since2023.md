@@ -1,0 +1,4 @@
+| ID          | paperTitle                                                                                      |   year | publisher                            |   citationCount |
+|:------------|:------------------------------------------------------------------------------------------------|-------:|:-------------------------------------|----------------:|
+| W4399418563 | Performance Study of Object Tracking with Multiple Kalman Filters in Autonomous Driving Systems |   2024 | ACM SIGAda Ada Letters               |               0 |
+| W4406158051 | Incorporating Point Uncertainty in Radar SLAM                                                   |   2025 | IEEE Robotics and Automation Letters |               0 |

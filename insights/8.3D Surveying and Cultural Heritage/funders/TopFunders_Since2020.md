@@ -1,0 +1,52 @@
+| ID          | name                                                                                     |   hIndex |   workCountInTopic |
+|:------------|:-----------------------------------------------------------------------------------------|---------:|-------------------:|
+| F4320321001 | National Natural Science Foundation of China                                             |      728 |                 43 |
+| F4320335777 | National Key Research and Development Program of China                                   |      503 |                 11 |
+| F4320335787 | Fundamental Research Funds for the Central Universities                                  |      428 |                  8 |
+| F4320337504 | Research and Development                                                                 |      139 |                  4 |
+| F4320320879 | Deutsche Forschungsgemeinschaft                                                          |      566 |                  3 |
+| F4320321543 | China Postdoctoral Science Foundation                                                    |      421 |                  3 |
+| F4320332999 | Horizon 2020 Framework Programme                                                         |      304 |                  2 |
+| F4320321034 | New Energy and Industrial Technology Development Organization                            |      154 |                  2 |
+| F4320326938 | State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing |       35 |                  2 |
+| F4320335322 | European Regional Development Fund                                                       |      327 |                  2 |
+| F4320332180 | Defense Advanced Research Projects Agency                                                |      327 |                  2 |
+| F4320306101 | National Aeronautics and Space Administration                                            |      364 |                  2 |
+| F4320324174 | Natural Science Foundation of Shandong Province                                          |      251 |                  2 |
+| F4320336125 | National Science Fund for Distinguished Young Scholars                                   |      181 |                  2 |
+| F4320322725 | China Scholarship Council                                                                |      394 |                  2 |
+| F4320323668 | Wojskowa Akademia Techniczna                                                             |       30 |                  1 |
+| F4320326705 | Science, Technology and Innovation Commission of Shenzhen Municipality                   |      172 |                  1 |
+| F4320334631 | Natural Environment Research Council                                                     |      290 |                  1 |
+| F4320322769 | Natural Science Foundation of Jiangsu Province                                           |      328 |                  1 |
+| F4320321881 | Shanghai Municipal Education Commission                                                  |      202 |                  1 |
+| F4320327518 | Priority Academic Program Development of Jiangsu Higher Education Institutions           |      269 |                  1 |
+| F4320326696 | Jiangxi Provincial Department of Science and Technology                                  |       68 |                  1 |
+| F4320307330 | Knowledge Foundation                                                                     |       45 |                  1 |
+| F4320335833 | National Defense Basic Scientific Research Program of China                              |       65 |                  1 |
+| F4320334704 | Australian Research Council                                                              |      494 |                  1 |
+| F4320314731 | UK Research and Innovation                                                               |      127 |                  1 |
+| F4320320847 | Science Foundation Ireland                                                               |      252 |                  1 |
+| F4320335830 | International Science and Technology Cooperation Programme                               |      103 |                  1 |
+| F4320322120 | National Research Foundation of Korea                                                    |      445 |                  1 |
+| F4320326870 | State Key Laboratory of Advanced Design and Manufacturing for Vehicle Body               |       57 |                  1 |
+| F4320322919 | Natural Science Foundation of Beijing Municipality                                       |      296 |                  1 |
+| F4320321920 | Innovation and Technology Commission                                                     |      159 |                  1 |
+| F4320320708 | Maritime and Port Authority of Singapore                                                 |       32 |                  1 |
+| F4320313620 | Hubei Provincial Department of Education                                                 |       95 |                  1 |
+| F4320329860 | National Science and Technology Major Project                                            |      101 |                  1 |
+| F4320322300 | Jilin University                                                                         |      121 |                  1 |
+| F4320332178 | National Institute of Standards and Technology                                           |      172 |                  1 |
+| F4320329637 | National Fire Agency                                                                     |       16 |                  1 |
+| F4320323893 | Fundo para o Desenvolvimento das Ciências e da Tecnologia                                |      124 |                  1 |
+| F4320335957 | Major Science and Technology Project of Hainan Province                                  |       56 |                  1 |
+| F4320334879 | Korea Evaluation Institute of Industrial Technology                                      |      106 |                  1 |
+| F4320332447 | U.S. Army                                                                                |      109 |                  1 |
+| F4320335086 | Direction Générale de l’Armement                                                         |       74 |                  1 |
+| F4320321921 | Natural Science Foundation of Guangdong Province                                         |      300 |                  1 |
+| F4320322186 | Natural Science Foundation of Hubei Province                                             |      225 |                  1 |
+| F4320321540 | Ministry of Science and Technology of the People's Republic of China                     |      501 |                  1 |
+| F4320335254 | Horizon 2020                                                                             |      246 |                  1 |
+| F4320335960 | National Major Science and Technology Projects of China                                  |      122 |                  1 |
+| F4320335209 | Bio-oriented Technology Research Advancement Institution                                 |       62 |                  1 |
+| F4320334764 | Japan Society for the Promotion of Science                                               |      407 |                  1 |

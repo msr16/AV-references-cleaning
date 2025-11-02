@@ -1,0 +1,25 @@
+| ID          | name                                                                 | country   |   hIndex |   workCountInTopic |
+|:------------|:---------------------------------------------------------------------|:----------|---------:|-------------------:|
+| I78675632   | Beijing Information Science & Technology University                  | CN        |       92 |                  9 |
+| I4210110558 | Xi'an Technological University                                       | CN        |      118 |                  9 |
+| I119449181  | Technische Universität Ilmenau                                       | DE        |      161 |                  7 |
+| I169645620  | Institut Pascal                                                      | FR        |      127 |                  6 |
+| I4210126639 | Valeo (Ireland)                                                      | IE        |       32 |                  6 |
+| I4210088164 | Changchun Institute of Optics, Fine Mechanics and Physics            | CN        |      159 |                  6 |
+| I4210148944 | Dà-Jiāng Innovations Science and Technology (China)                  | CN        |       34 |                  5 |
+| I4210089040 | Beijing Institute of Optoelectronic Technology                       | CN        |       66 |                  5 |
+| I4210112099 | Valeo (Germany)                                                      | DE        |       21 |                  4 |
+| I177721651  | Oakland University                                                   | US        |      250 |                  4 |
+| I4402554026 | The Sense Innovation and Research Center                             |           |       50 |                  3 |
+| I4210145192 | Siemens (Belgium)                                                    | BE        |       45 |                  3 |
+| I95053508   | Nippon Institute of Technology                                       | JP        |       62 |                  2 |
+| I4210151155 | Academy of Opto-Electronics                                          | CN        |       55 |                  2 |
+| I4210148872 | Magic Leap (United States)                                           | US        |       24 |                  1 |
+| I4210101348 | Centre Inria de l'Université Grenoble Alpes                          | FR        |      150 |                  1 |
+| I4210120442 | AVIC Optronics (China)                                               | CN        |       32 |                  1 |
+| I4210130914 | Institute for Laser Technology in Medicine and Measurement Technique | DE        |       57 |                  1 |
+| I4210150884 | Fondation Sophia Antipolis                                           | FR        |       91 |                  1 |
+| I58236372   | Ngee Ann Polytechnic                                                 | SG        |      151 |                  1 |
+| I4210152705 | Universidad Blas Pascal                                              | AR        |       40 |                  1 |
+| I4210139986 | Microsoft (Switzerland)                                              | CH        |       31 |                  1 |
+| I4210099297 | Jilian Technology Group (China)                                      | CN        |       28 |                  1 |

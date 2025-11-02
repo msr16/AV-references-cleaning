@@ -1,0 +1,52 @@
+| ID          | name                                                          |   hIndex |   workCountInTopic |
+|:------------|:--------------------------------------------------------------|---------:|-------------------:|
+| F4320321001 | National Natural Science Foundation of China                  |      728 |                 68 |
+| F4320335777 | National Key Research and Development Program of China        |      503 |                 15 |
+| F4320335787 | Fundamental Research Funds for the Central Universities       |      428 |                 11 |
+| F4320334627 | Engineering and Physical Sciences Research Council            |      461 |                  6 |
+| F4320337345 | Office of Naval Research                                      |      397 |                  5 |
+| F4320334593 | Natural Sciences and Engineering Research Council of Canada   |      478 |                  5 |
+| F4320332180 | Defense Advanced Research Projects Agency                     |      327 |                  4 |
+| F4320306076 | National Science Foundation                                   |      783 |                  4 |
+| F4320322025 | Conselho Nacional de Desenvolvimento Científico e Tecnológico |      336 |                  4 |
+| F4320322120 | National Research Foundation of Korea                         |      445 |                  4 |
+| F4320306101 | National Aeronautics and Space Administration                 |      364 |                  3 |
+| F4320321091 | Coordenação de Aperfeiçoamento de Pessoal de Nível Superior   |      282 |                  3 |
+| F4320321543 | China Postdoctoral Science Foundation                         |      421 |                  3 |
+| F4320322725 | China Scholarship Council                                     |      394 |                  3 |
+| F4320309652 | University of Michigan                                        |      149 |                  2 |
+| F4320321133 | Chinese Academy of Sciences                                   |      439 |                  2 |
+| F4320324174 | Natural Science Foundation of Shandong Province               |      251 |                  2 |
+| F4320337504 | Research and Development                                      |      139 |                  2 |
+| F4320322030 | Ministry of Science, ICT and Future Planning                  |      259 |                  2 |
+| F4320322795 | Ministry of Science and Technology, Taiwan                    |      285 |                  2 |
+| F4320334764 | Japan Society for the Promotion of Science                    |      407 |                  2 |
+| F4320322064 | Korea Institute for Advancement of Technology                 |       91 |                  2 |
+| F4320321108 | Academy of Finland                                            |      299 |                  2 |
+| F4320320879 | Deutsche Forschungsgemeinschaft                               |      566 |                  2 |
+| F4320322163 | Natural Science Foundation of Hebei Province                  |      166 |                  2 |
+| F4320325831 | Handong Global University                                     |        9 |                  1 |
+| F4320306233 | Argosy Foundation                                             |       12 |                  1 |
+| F4320324638 | Wuhan University of Technology                                |      100 |                  1 |
+| F4320311779 | Shanghai Association for Science and Technology               |       60 |                  1 |
+| F4320332771 | UK Wind Energy Research - Centre for Doctoral Training        |       21 |                  1 |
+| F4320310160 | University of Arizona                                         |       93 |                  1 |
+| F4320306175 | Lynde and Harry Bradley Foundation                            |       27 |                  1 |
+| F4320322437 | National Science and Technology Development Agency            |      116 |                  1 |
+| F4320321034 | New Energy and Industrial Technology Development Organization |      154 |                  1 |
+| F4320315144 | MathWorks                                                     |       35 |                  1 |
+| F4320320671 | National Research Foundation                                  |      228 |                  1 |
+| F4320336744 | Science and Technology Program of Hubei Province              |       35 |                  1 |
+| F4320320994 | Canada Research Chairs                                        |      241 |                  1 |
+| F4320325902 | Beijing Municipal Science and Technology Commission           |      195 |                  1 |
+| F4320321408 | Ministry of Education                                         |      241 |                  1 |
+| F4320321681 | Ministry of Trade, Industry and Energy                        |      192 |                  1 |
+| F4320308943 | Microsoft Research                                            |      113 |                  1 |
+| F4320335480 | Guangzhou Municipal Science and Technology Project            |      100 |                  1 |
+| F4320309480 | Nvidia                                                        |      127 |                  1 |
+| F4320326084 | Regione Toscana                                               |       72 |                  1 |
+| F4320326441 | Institute for Basic Science                                   |      164 |                  1 |
+| F4320337392 | Division of Electrical, Communications and Cyber Systems      |      155 |                  1 |
+| F4320334879 | Korea Evaluation Institute of Industrial Technology           |      106 |                  1 |
+| F4320323668 | Wojskowa Akademia Techniczna                                  |       30 |                  1 |
+| F4320323837 | National Taiwan Normal University                             |       57 |                  1 |

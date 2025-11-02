@@ -1,0 +1,52 @@
+| ID          | name                                                                                    | country   |   hIndex |   workCountInTopic |
+|:------------|:----------------------------------------------------------------------------------------|:----------|---------:|-------------------:|
+| I125839683  | Beijing Institute of Technology                                                         | CN        |      386 |                135 |
+| I82880672   | Beihang University                                                                      | CN        |      374 |                 95 |
+| I4391012619 | Shanghai Artificial Intelligence Laboratory                                             |           |       86 |                 90 |
+| I37461747   | Wuhan University                                                                        | CN        |      463 |                 89 |
+| I177725633  | Chinese University of Hong Kong                                                         | HK        |      649 |                 84 |
+| I62916508   | Technical University of Munich                                                          | DE        |      680 |                 62 |
+| I4210100255 | Beijing Academy of Artificial Intelligence                                              | CN        |      123 |                 54 |
+| I4210122302 | ShangHai JiAi Genetics & IVF Institute                                                  | CN        |       74 |                 49 |
+| I157485424  | Korea Advanced Institute of Science and Technology                                      | KR        |      454 |                 42 |
+| I98301712   | Baidu (China)                                                                           | CN        |      166 |                 40 |
+| I74973139   | Carnegie Mellon University                                                              | US        |      878 |                 38 |
+| I4210118728 | State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing | CN        |      177 |                 33 |
+| I4210116723 | Robotics Research (United States)                                                       | US        |      127 |                 30 |
+| I170215575  | National University of Defense Technology                                               | CN        |      234 |                 29 |
+| I4401726805 | Megvii (China)                                                                          |           |       98 |                 28 |
+| I4391767639 | State Key Laboratory of Robotics and Systems                                            |           |       54 |                 26 |
+| I4210112150 | Institute of Automation                                                                 | CN        |      208 |                 25 |
+| I4210109870 | Vi Technology (United States)                                                           | US        |       66 |                 21 |
+| I8488066    | Chiba Institute of Technology                                                           | JP        |      110 |                 20 |
+| I4210128910 | Group Sense (China)                                                                     | HK        |      138 |                 18 |
+| I4210116924 | Chinese University of Hong Kong, Shenzhen                                               | CN        |      203 |                 16 |
+| I160993911  | Queensland University of Technology                                                     | AU        |      446 |                 16 |
+| I4210145761 | Shenzhen Institutes of Advanced Technology                                              | CN        |      252 |                 14 |
+| I4210094879 | Shandong Institute of Automation                                                        | CN        |      205 |                 14 |
+| I4210123843 | Advanced Technologies Group (United States)                                             | US        |       73 |                 14 |
+| I60922564   | Naver (South Korea)                                                                     | KR        |       82 |                 13 |
+| I4391767838 | State Key Laboratory of Industrial Control Technology                                   |           |      116 |                 13 |
+| I4210143601 | Decision Systems (United States)                                                        | US        |      163 |                 13 |
+| I4401727007 | Hikvision (China)                                                                       |           |       23 |                 13 |
+| I4391768151 | Toyota Research Institute                                                               |           |      110 |                 12 |
+| I26437253   | Örebro University                                                                       | SE        |      245 |                 12 |
+| I207014233  | Kyushu Institute of Technology                                                          | JP        |      177 |                 11 |
+| I142078773  | Shenyang Institute of Automation                                                        | CN        |      106 |                 11 |
+| I114017466  | University of Technology Sydney                                                         | AU        |      434 |                 10 |
+| I4210145184 | Honda (United States)                                                                   | US        |       85 |                 10 |
+| I78675632   | Beijing Information Science & Technology University                                     | CN        |       92 |                  9 |
+| I255234318  | Universidad de Zaragoza                                                                 | ES        |      348 |                  9 |
+| I1456306    | North China University of Technology                                                    | CN        |       96 |                  9 |
+| I65181880   | Indian Institute of Technology Hyderabad                                                | IN        |      156 |                  9 |
+| I220619192  | Valeo (France)                                                                          | FR        |       73 |                  8 |
+| I4210120115 | Robert Bosch (United States)                                                            | US        |       95 |                  8 |
+| I44504214   | Czech Technical University in Prague                                                    | CZ        |      255 |                  8 |
+| I2800111664 | State Scientific Research Institute of Aviation Systems                                 | RU        |       20 |                  7 |
+| I4210129579 | National Engineering Laboratory of Deep Learning Technology and Application             | CN        |       43 |                  7 |
+| I143910747  | TH Bingen University of Applied Sciences                                                | DE        |      108 |                  7 |
+| I4401726824 | Horizon Robotics (China)                                                                |           |       51 |                  7 |
+| I1304085615 | Nvidia (United Kingdom)                                                                 | GB        |      131 |                  6 |
+| I4210126639 | Valeo (Ireland)                                                                         | IE        |       32 |                  6 |
+| I4210127558 | Australian Centre for Robotic Vision                                                    | AU        |      127 |                  6 |
+| I147962203  | Democritus University of Thrace                                                         | GR        |      208 |                  6 |

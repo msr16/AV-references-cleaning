@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W3138516171,Swin Transformer: Hierarchical Vision Transformer using Shifted Windows,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),20564
+W4386076325,YOLOv7: Trainable Bag-of-Freebies Sets New State-of-the-Art for Real-Time Object Detectors,2023,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),7680
+W3140854437,"Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",2021,Journal Of Big Data,5617
+W4390874575,Segment Anything,2023,2021 IEEE/CVF International Conference on Computer Vision (ICCV),4138
+W3132455321,Image Segmentation Using Deep Learning: A Survey,2021,IEEE Transactions on Pattern Analysis and Machine Intelligence,3041
+W3211490618,SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers,2021,arXiv (Cornell University),2806
+W4213019189,A Survey on Vision Transformer,2022,IEEE Transactions on Pattern Analysis and Machine Intelligence,2527
+W4210598935,A Review of Yolo Algorithm Developments,2022,Procedia Computer Science,1718
+W4312815172,Masked-attention Mask Transformer for Universal Image Segmentation,2022,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),1666
+W3175515048,PVT v2: Improved baselines with Pyramid Vision Transformer,2022,Computational Visual Media,1450
+W4214755140,Point Transformer,2021,2021 IEEE/CVF International Conference on Computer Vision (ICCV),1423
+W3167095230,Center-based 3D Object Detection and Tracking,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),1298
+W3196904463,BiSeNet V2: Bilateral Network with Guided Aggregation for Real-Time Semantic Segmentation,2021,International Journal of Computer Vision,1212
+W4402754006,DETRs Beat YOLOs on Real-time Object Detection,2024,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),1208
+W3172752666,Sparse R-CNN: End-to-End Object Detection with Learnable Proposals,2021,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),1096
+W4226334005,Scaling Up Your Kernels to 31×31: Revisiting Large Kernel Design in CNNs,2022,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),904
+W4398810114,YOLOv10: Real-Time End-to-End Object Detection,2024,arXiv (Cornell University),810
+W3159196909,A survey of modern deep learning based object detection models,2022,Digital Signal Processing,792
+W3118341329,Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection,2021,Proceedings of the AAAI Conference on Artificial Intelligence,688
+W3213165621,Per-Pixel Classification is Not All You Need for Semantic Segmentation,2021,arXiv (Cornell University),663

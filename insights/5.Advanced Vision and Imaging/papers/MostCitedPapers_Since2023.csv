@@ -1,0 +1,16 @@
+ID,paperTitle,year,publisher,citationCount
+W4396941548,Exploring Recurrent Long-Term Temporal Fusion for Multi-View 3D Perception,2024,IEEE Robotics and Automation Letters,27
+W4402727617,MoCha-Stereo: Motif Channel Attention Network for Stereo Matching,2024,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),23
+W4402754131,Selective-Stereo: Adaptive Frequency Information Selection for Stereo Matching,2024,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),17
+W4402727483,Neural Markov Random Field for Stereo Matching,2024,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),10
+W4399563560,MC-Stereo: Multi-Peak Lookup and Cascade Search Range for Stereo Matching,2024,2021 International Conference on 3D Vision (3DV),8
+W4404838556,DCVSMNet: Double Cost Volume Stereo Matching Network,2024,Neurocomputing,7
+W4403822165,PV-LaP: Multi-sensor fusion for 3D Scene Understanding in intelligent transportation systems,2024,Signal Processing,6
+W4393317283,UKF‐MOT: An unscented Kalman filter‐based 3D multi‐object tracker,2024,CAAI Transactions on Intelligence Technology,4
+W4391097242,CollabMOT Stereo Camera Collaborative Multi Object Tracking,2024,IEEE Access,3
+W4396933822,Hourglass cascaded recurrent stereo matching network,2024,Image and Vision Computing,3
+W4391892573,ODD-M3D: Object-Wise Dense Depth Estimation for Monocular 3-D Object Detection,2024,IEEE Transactions on Consumer Electronics,2
+W4394867707,"Rethinking Iterative Stereo Matching from Diffusion Bridge Model
+  Perspective",2024,arXiv (Cornell University),1
+W4391691225,Adaptive Point-Line Fusion: A Targetless LiDAR–Camera Calibration Method with Scheme Selection for Autonomous Driving,2024,Sensors,1
+W4402401444,Robust Visual Localization System With HD Map Based on Joint Probabilistic Data Association,2024,IEEE Robotics and Automation Letters,1

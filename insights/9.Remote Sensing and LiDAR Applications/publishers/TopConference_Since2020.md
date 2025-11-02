@@ -1,0 +1,17 @@
+| ID          | publisher                                                                                                |   publishedCount |   avgCitation |
+|:------------|:---------------------------------------------------------------------------------------------------------|-----------------:|--------------:|
+| S4363607734 | 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)                          |               10 |          24.6 |
+| S4363607701 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)                               |                8 |         110.5 |
+| S4363607764 | 2021 IEEE/CVF International Conference on Computer Vision (ICCV)                                         |                2 |         151.5 |
+| S4363608757 | Proceedings of the 30th ACM International Conference on Multimedia                                       |                1 |           9   |
+| S4363608215 | 2022 27th Asia Pacific Conference on Communications (APCC)                                               |                1 |          12   |
+| S4363604230 | 2021 China Automation Congress (CAC)                                                                     |                1 |           2   |
+| S4363607737 | 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)                     |                1 |           3   |
+| S4363609010 | Proceedings of the 7th International Conference on Vehicle Technology and Intelligent Transport Systems  |                1 |           1   |
+| S4363607776 | 2022 IEEE Wireless Communications and Networking Conference (WCNC)                                       |                1 |           8   |
+| S4363607959 | 2023 IEEE International Conference on Consumer Electronics (ICCE)                                        |                1 |           4   |
+| S4363608458 | 2021 International Conference on 3D Vision (3DV)                                                         |                1 |          12   |
+| S4363607702 | ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)     |                1 |           1   |
+| S4363606568 | 2022 IEEE 65th International Midwest Symposium on Circuits and Systems (MWSCAS)                          |                1 |           6   |
+| S4363608283 | 2022 4th International Conference on Communications, Information System and Computer Engineering (CISCE) |                1 |           4   |
+| S4306418818 | IEEE Sensors                                                                                             |                1 |           9   |

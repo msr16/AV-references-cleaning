@@ -1,0 +1,32 @@
+| ID          | publisher                                                                               |   hIndex |
+|:------------|:----------------------------------------------------------------------------------------|---------:|
+| S4306417987 | Computer Vision and Pattern Recognition                                                 |      533 |
+| S4363607701 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)              |      384 |
+| S4210173141 | IEEE Transactions on Image Processing                                                   |      380 |
+| S4306419272 | International Conference on Computer Vision                                             |      371 |
+| S185367456  | ACM Transactions on Graphics                                                            |      314 |
+| S25538012   | International Journal of Computer Vision                                                |      285 |
+| S4363607795 | 2009 IEEE Conference on Computer Vision and Pattern Recognition                         |      279 |
+| S4363607764 | 2021 IEEE/CVF International Conference on Computer Vision (ICCV)                        |      260 |
+| S115173108  | IEEE Transactions on Circuits and Systems for Video Technology                          |      213 |
+| S137030581  | IEEE Transactions on Multimedia                                                         |      183 |
+| S177430994  | Image and Vision Computing                                                              |      179 |
+| S185008460  | Computer Vision and Image Understanding                                                 |      176 |
+| S4363608757 | Proceedings of the 30th ACM International Conference on Multimedia                      |      122 |
+| S38090728   | Signal Processing Image Communication                                                   |      115 |
+| S4363607748 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)   |      114 |
+| S105424869  | Journal of Visual Communication and Image Representation                                |      113 |
+| S73060445   | The Visual Computer                                                                     |      101 |
+| S4363607719 | 2022 IEEE International Conference on Image Processing (ICIP)                           |       96 |
+| S133078663  | Cognitive Computation                                                                   |       83 |
+| S4393918233 | IEEE Computer Society Conference on Computer Vision and Pattern Recognition workshops   |       70 |
+| S153767265  | EURASIP Journal on Image and Video Processing                                           |       66 |
+| S2488537894 | IEEE Transactions on Cognitive and Developmental Systems                                |       58 |
+| S166929102  | IET Computer Vision                                                                     |       52 |
+| S4393918690 | IEEE Winter Conference on Applications of Computer Vision                               |       39 |
+| S2487656537 | Computational Visual Media                                                              |       36 |
+| S4210227276 | Electronic Imaging                                                                      |       36 |
+| S83210289   | Foundations and Trends® in Computer Graphics and Vision                                 |       33 |
+| S4210224695 | Virtual Reality & Intelligent Hardware                                                  |       30 |
+| S4210209204 | Springer series in perception engineering                                               |       21 |
+| S4363608554 | 2022 7th International Conference on Communication, Image and Signal Processing (CCISP) |        8 |

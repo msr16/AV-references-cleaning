@@ -1,0 +1,52 @@
+| ID          | publisher                                                                                  |   hIndex |
+|:------------|:-------------------------------------------------------------------------------------------|---------:|
+| S199944782  | IEEE Transactions on Pattern Analysis and Machine Intelligence                             |      542 |
+| S4306417987 | Computer Vision and Pattern Recognition                                                    |      533 |
+| S4306419272 | International Conference on Computer Vision                                                |      371 |
+| S178776955  | Optics Express                                                                             |      329 |
+| S185367456  | ACM Transactions on Graphics                                                               |      314 |
+| S25538012   | International Journal of Computer Vision                                                   |      285 |
+| S4363607795 | 2009 IEEE Conference on Computer Vision and Pattern Recognition                            |      279 |
+| S4363607764 | 2021 IEEE/CVF International Conference on Computer Vision (ICCV)                           |      260 |
+| S130108588  | Journal of the Optical Society of America A                                                |      238 |
+| S128368299  | Mechanical Systems and Signal Processing                                                   |      235 |
+| S183492911  | Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE |      232 |
+| S173339282  | ISPRS Journal of Photogrammetry and Remote Sensing                                         |      221 |
+| S151820558  | Pattern Recognition Letters                                                                |      216 |
+| S116420536  | IEEE Transactions on Robotics and Automation                                               |      213 |
+| S10892749   | IEEE Transactions on Instrumentation and Measurement                                       |      187 |
+| S177430994  | Image and Vision Computing                                                                 |      179 |
+| S109302362  | Measurement Science and Technology                                                         |      176 |
+| S185008460  | Computer Vision and Image Understanding                                                    |      176 |
+| S67831204   | Computer Graphics Forum                                                                    |      164 |
+| S4306419523 | International Conference on Image Processing                                               |      160 |
+| S147767848  | Measurement                                                                                |      159 |
+| S175543413  | Optical Engineering                                                                        |      155 |
+| S102728161  | Optics and Lasers in Engineering                                                           |      141 |
+| S206927758  | Computer-Aided Civil and Infrastructure Engineering                                        |      129 |
+| S4210212310 | Computer Vision Graphics and Image Processing                                              |      124 |
+| S201441698  | Optik                                                                                      |      122 |
+| S152600803  | SIAM Journal on Imaging Sciences                                                           |      102 |
+| S66221708   | Journal of Mathematical Imaging and Vision                                                 |      100 |
+| S27728525   | Machine Vision and Applications                                                            |       97 |
+| S105799543  | IEEE Journal on Robotics and Automation                                                    |       84 |
+| S2737215817 | The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences                                                                                            |       83 |
+| S130039360  | International Journal of Precision Engineering and Manufacturing                           |       78 |
+| S4210217939 | Proceedings - IEEE International Conference on Robotics and Automation/Proceedings         |       77 |
+| S140111354  | The Photogrammetric Record                                                                 |       70 |
+| S4393918233 | IEEE Computer Society Conference on Computer Vision and Pattern Recognition workshops      |       70 |
+| S4210223844 | Proceedings - International Conference on Image Processing                                 |       64 |
+| S2737735205 | ISPRS annals of the photogrammetry, remote sensing and spatial information sciences        |       60 |
+| S4210181928 | Advances in computer vision and pattern recognition                                        |       58 |
+| S4363608458 | 2021 International Conference on 3D Vision (3DV)                                           |       57 |
+| S4363608750 | Proceedings of the 17th International Conference on Pattern Recognition, 2004. ICPR 2004.  |       55 |
+| S2898187931 | Graphical Models and Image Processing                                                      |       52 |
+| S166929102  | IET Computer Vision                                                                        |       52 |
+| S183861542  | Journal of Surveying Engineering                                                           |       51 |
+| S2898124066 | CVGIP Graphical Models and Image Processing                                                |       51 |
+| S4393918239 | International Conference on Indoor Positioning and Indoor Navigation                       |       42 |
+| S2764929239 | Image Processing On Line                                                                   |       41 |
+| S4393918690 | IEEE Winter Conference on Applications of Computer Vision                                  |       39 |
+| S2487656537 | Computational Visual Media                                                                 |       36 |
+| S4210227276 | Electronic Imaging                                                                         |       36 |
+| S4210187823 | 3D Research                                                                                |       34 |

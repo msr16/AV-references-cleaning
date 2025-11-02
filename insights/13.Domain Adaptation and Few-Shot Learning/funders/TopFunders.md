@@ -1,0 +1,49 @@
+| ID          | name                                                                     |   hIndex |   workCountInTopic |
+|:------------|:-------------------------------------------------------------------------|---------:|-------------------:|
+| F4320321001 | National Natural Science Foundation of China                             |      728 |                 26 |
+| F4320335777 | National Key Research and Development Program of China                   |      503 |                  4 |
+| F4320335787 | Fundamental Research Funds for the Central Universities                  |      428 |                  3 |
+| F4320334704 | Australian Research Council                                              |      494 |                  3 |
+| F4320321885 | Science and Technology Commission of Shanghai Municipality               |      294 |                  3 |
+| F4320306076 | National Science Foundation                                              |      783 |                  3 |
+| F4320321543 | China Postdoctoral Science Foundation                                    |      421 |                  2 |
+| F4320338335 | H2020 European Research Council                                          |      391 |                  2 |
+| F4320337345 | Office of Naval Research                                                 |      397 |                  1 |
+| F4320322841 | Universidade de Macau                                                    |      140 |                  1 |
+| F4320321592 | Research Grants Council, University Grants Committee                     |      277 |                  1 |
+| F4320321681 | Ministry of Trade, Industry and Energy                                   |      192 |                  1 |
+| F4320322121 | Institució Catalana de Recerca i Estudis Avançats                        |      110 |                  1 |
+| F4320327514 | Beijing Institute of Technology Research Fund Program for Young Scholars |       90 |                  1 |
+| F4320320671 | National Research Foundation                                             |      228 |                  1 |
+| F4320320997 | Fundação de Amparo à Pesquisa do Estado de São Paulo                     |      279 |                  1 |
+| F4320309327 | Google                                                                   |      160 |                  1 |
+| F4320321920 | Innovation and Technology Commission                                     |      159 |                  1 |
+| F4320332222 | University of Illinois at Urbana-Champaign                               |      106 |                  1 |
+| F4320311687 | Ministry of Education                                                    |      154 |                  1 |
+| F4320333051 | Intelligence Advanced Research Projects Activity                         |      120 |                  1 |
+| F4320335197 | Norway Grants                                                            |       43 |                  1 |
+| F4320326705 | Science, Technology and Innovation Commission of Shenzhen Municipality   |      172 |                  1 |
+| F4320309480 | Nvidia                                                                   |      127 |                  1 |
+| F4320335507 | Toyota Motor Europe                                                      |       28 |                  1 |
+| F4320307791 | Cisco Systems                                                            |       62 |                  1 |
+| F4320309893 | City University of Hong Kong                                             |      187 |                  1 |
+| F4320337504 | Research and Development                                                 |      139 |                  1 |
+| F4320306137 | Bill and Melinda Gates Foundation                                        |      333 |                  1 |
+| F4320323893 | Fundo para o Desenvolvimento das Ciências e da Tecnologia                |      124 |                  1 |
+| F4320321114 | Bundesministerium für Bildung und Forschung                              |      381 |                  1 |
+| F4320328119 | National University's Basic Research Foundation of China                 |      146 |                  1 |
+| F4320322449 | Tongji University                                                        |       99 |                  1 |
+| F4320335803 | Shenzhen Fundamental Research and Discipline Layout project              |       60 |                  1 |
+| F4320334593 | Natural Sciences and Engineering Research Council of Canada              |      478 |                  1 |
+| F4320332708 | Cornell Center for Materials Research                                    |       50 |                  1 |
+| F4320321921 | Natural Science Foundation of Guangdong Province                         |      300 |                  1 |
+| F4320335627 | State Key Laboratory on Integrated Optoelectronics                       |       45 |                  1 |
+| F4320322622 | Toyota Motor Corporation                                                 |       74 |                  1 |
+| F4320323172 | Natural Science Foundation of Chongqing                                  |      153 |                  1 |
+| F4320326178 | Heilongjiang Provincial Postdoctoral Science Foundation                  |       88 |                  1 |
+| F4320309291 | Indiana University                                                       |       87 |                  1 |
+| F4320320766 | Nanyang Technological University                                         |      212 |                  1 |
+| F4320327962 | Singapore Telecommunications Limited                                     |       24 |                  1 |
+| F4320333199 | Materials Research Institute, Pennsylvania State University              |       38 |                  1 |
+| F4320332299 | National Institute of Food and Agriculture                               |      240 |                  1 |
+| F4320321133 | Chinese Academy of Sciences                                              |      439 |                  1 |

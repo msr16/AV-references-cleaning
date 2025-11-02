@@ -1,0 +1,9 @@
+ID,paperTitle,year,publisher,citationCount
+W4390748068,Deep learning-based fusion networks with high-order attention mechanism for 3D object detection in autonomous driving scenarios,2024,Applied Soft Computing,17
+W4391051285,Enhanced encoder–decoder architecture for visual perception multitasking of autonomous driving,2024,Expert Systems with Applications,9
+W4402961717,Detecting as Labeling: Rethinking LiDAR-Camera Fusion in 3D Object Detection,2024,Lecture notes in computer science,9
+W4403841936,GraphBEV: Towards Robust BEV Feature Alignment for Multi-modal 3D Object Detection,2024,Lecture notes in computer science,7
+W4394597983,Alleviating Foreground Sparsity for Semi-Supervised Monocular 3D Object Detection,2024,2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV),3
+W4394951244,Hierarchical Perception Enhancement for Different Levels of Autonomous Driving: A Review,2024,IEEE Sensors Journal,2
+W4395047885,VoxelFSD: voxel-based fully sparse detector with sparse convolution for 3D object detection,2024,Research Square (Research Square),1
+W4408126854,S2-ODM: Dual-Stage Improved PointPillar Feature-Based 3D Object Detection Method for Autonomous Driving*,2025,Sensors,1

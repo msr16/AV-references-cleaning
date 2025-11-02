@@ -1,0 +1,25 @@
+| ID          | name                  |   hIndex | lastInstitution                                   |   numberOfWork |
+|:------------|:----------------------|---------:|:--------------------------------------------------|---------------:|
+| A5100608938 | Bai Li                |       48 | Chongqing University                              |              4 |
+| A5100416422 | Youmin Zhang          |       83 | Hodges University                                 |              2 |
+| A5050543156 | Chao Xu               |       37 | Zhejiang University of Technology                 |              2 |
+| A5086914377 | Fei Gao               |       31 | Jilin University                                  |              2 |
+| A5036994690 | Mohamed A. Kamel      |       16 | Military Technical College                        |              1 |
+| A5085012064 | Antonios Tsourdos     |       56 | Cranfield University                              |              1 |
+| A5100600433 | Caihong Li            |       21 | Friedrich-Alexander-Universität Erlangen-Nürnberg |              1 |
+| A5100600433 | Caihong Li            |       21 | Universitätsklinikum Erlangen                     |              1 |
+| A5100670645 | Jie Meng              |       22 | Lanzhou Institute of Chemical Physics             |              1 |
+| A5100670645 | Jie Meng              |       22 | Chinese Academy of Sciences                       |              1 |
+| A5102020756 | Xiangrong Xu          |       12 | Guangxi University                                |              1 |
+| A5100605691 | Huiping Li            |       30 | Shanghai Jiao Tong University                     |              1 |
+| A5100605691 | Huiping Li            |       30 | Shanghai Ninth People's Hospital                  |              1 |
+| A5032529996 | Sreenatha G. Anavatti |       33 | UNSW Sydney                                       |              1 |
+| A5064811459 | Matthew Garratt       |       31 | UNSW Sydney                                       |              1 |
+| A5064811459 | Matthew Garratt       |       31 | University of Canberra                            |              1 |
+| A5070349528 | Senchun Chai          |       30 | Beijing Institute of Technology                   |              1 |
+| A5100379486 | Lu Xiong              |       30 | Tongji University                                 |              1 |
+| A5100651809 | Yong Song             |       23 | Shandong University                               |              1 |
+| A5078435236 | Ming Yue              |       27 | Dalian University of Technology                   |              1 |
+| A5031513104 | Shihong Ding          |       43 | Jiangsu University                                |              1 |
+| A5064231378 | Yuanqing Xia          |       79 | Donghua University                                |              1 |
+| A5101838263 | Liquan Jiang          |       14 | Wuhan Textile University                          |              1 |

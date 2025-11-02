@@ -1,0 +1,52 @@
+| ID          | name                                                                                    | country   |   hIndex |   workCountInTopic |
+|:------------|:----------------------------------------------------------------------------------------|:----------|---------:|-------------------:|
+| I99065089   | Tsinghua University                                                                     | CN        |      714 |                214 |
+| I125839683  | Beijing Institute of Technology                                                         | CN        |      386 |                135 |
+| I76130692   | Zhejiang University                                                                     | CN        |      538 |                110 |
+| I183067930  | Shanghai Jiao Tong University                                                           | CN        |      553 |                108 |
+| I82880672   | Beihang University                                                                      | CN        |      374 |                 95 |
+| I4391012619 | Shanghai Artificial Intelligence Laboratory                                             |           |       86 |                 90 |
+| I37461747   | Wuhan University                                                                        | CN        |      463 |                 89 |
+| I177725633  | Chinese University of Hong Kong                                                         | HK        |      649 |                 84 |
+| I172675005  | Nanyang Technological University                                                        | SG        |      639 |                 74 |
+| I1291425158 | Google (United States)                                                                  | US        |      576 |                 56 |
+| I4210100255 | Beijing Academy of Artificial Intelligence                                              | CN        |      123 |                 54 |
+| I4210122302 | ShangHai JiAi Genetics & IVF Institute                                                  | CN        |       74 |                 49 |
+| I45928872   | Alibaba Group (China)                                                                   | CN        |      139 |                 48 |
+| I98301712   | Baidu (China)                                                                           | CN        |      166 |                 40 |
+| I74973139   | Carnegie Mellon University                                                              | US        |      878 |                 38 |
+| I4210118728 | State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing | CN        |      177 |                 33 |
+| I4210116723 | Robotics Research (United States)                                                       | US        |      127 |                 30 |
+| I21193070   | Beijing Jiaotong University                                                             | CN        |      241 |                 29 |
+| I170215575  | National University of Defense Technology                                               | CN        |      234 |                 29 |
+| I4401726805 | Megvii (China)                                                                          |           |       98 |                 28 |
+| I165932596  | National University of Singapore                                                        | SG        |      744 |                 27 |
+| I4210159102 | Huawei Technologies (Sweden)                                                            | SE        |      100 |                 27 |
+| I50760025   | Hangzhou Dianzi University                                                              | CN        |      183 |                 26 |
+| I2250955327 | Huawei Technologies (China)                                                             | CN        |      150 |                 26 |
+| I36399199   | Nanjing University of Science and Technology                                            | CN        |      294 |                 25 |
+| I4210112150 | Institute of Automation                                                                 | CN        |      208 |                 25 |
+| I150229711  | University of Electronic Science and Technology of China                                | CN        |      346 |                 24 |
+| I10535382   | Chongqing University of Posts and Telecommunications                                    | CN        |      154 |                 24 |
+| I4210095624 | Alibaba Group (United States)                                                           | US        |      103 |                 23 |
+| I4210109870 | Vi Technology (United States)                                                           | US        |       66 |                 21 |
+| I2250653659 | Tencent (China)                                                                         | CN        |      202 |                 19 |
+| I4210128910 | Group Sense (China)                                                                     | HK        |      138 |                 18 |
+| I204512498  | University of Macau                                                                     | MO        |      264 |                 18 |
+| I4210136793 | Peng Cheng Laboratory                                                                   | CN        |      176 |                 14 |
+| I4210145761 | Shenzhen Institutes of Advanced Technology                                              | CN        |      252 |                 14 |
+| I149594827  | Xidian University                                                                       | CN        |      256 |                 14 |
+| I4210123843 | Advanced Technologies Group (United States)                                             | US        |       73 |                 14 |
+| I4210094879 | Shandong Institute of Automation                                                        | CN        |      205 |                 14 |
+| I60922564   | Naver (South Korea)                                                                     | KR        |       82 |                 13 |
+| I4210113369 | Microsoft Research Asia (China)                                                         | CN        |      304 |                 13 |
+| I74525822   | Hubei University of Technology                                                          | CN        |      132 |                 13 |
+| I4210105595 | Institute of Art                                                                        | PL        |      152 |                 12 |
+| I142078773  | Shenyang Institute of Automation                                                        | CN        |      106 |                 11 |
+| I4210090176 | Institute of Computing Technology                                                       | CN        |      192 |                 11 |
+| I4210136907 | InternetLab                                                                             | BR        |        4 |                 11 |
+| I2252078561 | Meta (Israel)                                                                           | IL        |      245 |                 11 |
+| I114017466  | University of Technology Sydney                                                         | AU        |      434 |                 10 |
+| I4210134929 | Jilin Province Science and Technology Department                                        | CN        |       87 |                 10 |
+| I4210086143 | Alibaba Group (Cayman Islands)                                                          | KY        |       61 |                  9 |
+| I143868143  | Anhui University                                                                        | CN        |      217 |                  9 |

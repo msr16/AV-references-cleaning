@@ -1,0 +1,52 @@
+| ID          | name                                                                           |   hIndex |   workCountInTopic |
+|:------------|:-------------------------------------------------------------------------------|---------:|-------------------:|
+| F4320321001 | National Natural Science Foundation of China                                   |      728 |                 62 |
+| F4320335777 | National Key Research and Development Program of China                         |      503 |                 16 |
+| F4320335787 | Fundamental Research Funds for the Central Universities                        |      428 |                  9 |
+| F4320322120 | National Research Foundation of Korea                                          |      445 |                  6 |
+| F4320320879 | Deutsche Forschungsgemeinschaft                                                |      566 |                  5 |
+| F4320306076 | National Science Foundation                                                    |      783 |                  4 |
+| F4320335322 | European Regional Development Fund                                             |      327 |                  3 |
+| F4320337504 | Research and Development                                                       |      139 |                  3 |
+| F4320335796 | Program of Shanghai Academic Research Leader                                   |      120 |                  3 |
+| F4320322769 | Natural Science Foundation of Jiangsu Province                                 |      328 |                  2 |
+| F4320330944 | Nature                                                                         |       22 |                  2 |
+| F4320321881 | Shanghai Municipal Education Commission                                        |      202 |                  2 |
+| F4320320300 | European Commission                                                            |      450 |                  2 |
+| F4320322795 | Ministry of Science and Technology, Taiwan                                     |      285 |                  2 |
+| F4320338464 | Natural Science Foundation of Zhejiang Province                                |      269 |                  2 |
+| F4320335568 | International Cooperation and Exchange Programme                               |       56 |                  2 |
+| F4320320709 | National Research Foundation Singapore                                         |      304 |                  2 |
+| F4320334874 | Defense Acquisition Program Administration                                     |       62 |                  2 |
+| F4320322930 | Ministerio de Ciencia e Innovación                                             |      264 |                  2 |
+| F4320321543 | China Postdoctoral Science Foundation                                          |      421 |                  2 |
+| F4320322186 | Natural Science Foundation of Hubei Province                                   |      225 |                  2 |
+| F4320328359 | Ministry of Science and ICT, South Korea                                       |      129 |                  2 |
+| F4320322725 | China Scholarship Council                                                      |      394 |                  2 |
+| F4320322392 | Tsinghua University                                                            |      164 |                  1 |
+| F4320316838 | Kempe Foundation                                                               |       25 |                  1 |
+| F4320317106 | Sony                                                                           |       20 |                  1 |
+| F4320316083 | Tencent                                                                        |       51 |                  1 |
+| F4320311687 | Ministry of Education                                                          |      154 |                  1 |
+| F4320331759 | Anhui Postdoctoral Science Foundation                                          |       12 |                  1 |
+| F4320336823 | Science Fund for Distinguished Young Scholars of Tianjin                       |       42 |                  1 |
+| F4320314731 | UK Research and Innovation                                                     |      127 |                  1 |
+| F4320320847 | Science Foundation Ireland                                                     |      252 |                  1 |
+| F4320322919 | Natural Science Foundation of Beijing Municipality                             |      296 |                  1 |
+| F4320320006 | Royal Society                                                                  |      308 |                  1 |
+| F4320323993 | Natural Science Foundation of Tianjin City                                     |      223 |                  1 |
+| F4320335785 | Project 211                                                                    |      147 |                  1 |
+| F4320321878 | Natural Science Foundation of Fujian Province                                  |      190 |                  1 |
+| F4320334897 | Natural Science Foundation of Anhui Province                                   |      185 |                  1 |
+| F4320325108 | Consellería de Cultura, Educación e Ordenación Universitaria, Xunta de Galicia |       87 |                  1 |
+| F4320327777 | Jiangsu Provincial Key Research and Development Program                        |      100 |                  1 |
+| F4320338440 | HORIZON EUROPE Health                                                          |       21 |                  1 |
+| F4320336039 | NIHR Imperial Biomedical Research Centre                                       |       70 |                  1 |
+| F4320334977 | Beijing Municipal Natural Science Foundation                                   |      135 |                  1 |
+| F4320322857 | Aeronautical Science Foundation of China                                       |      119 |                  1 |
+| F4320313495 | Lakehead University                                                            |       27 |                  1 |
+| F4320332999 | Horizon 2020 Framework Programme                                               |      304 |                  1 |
+| F4320321034 | New Energy and Industrial Technology Development Organization                  |      154 |                  1 |
+| F4320309618 | Ministry of Science and Technology                                             |      165 |                  1 |
+| F4320332178 | National Institute of Standards and Technology                                 |      172 |                  1 |
+| F4320335489 | Institute for Information and Communications Technology Promotion              |      113 |                  1 |

@@ -1,0 +1,19 @@
+| ID          | publisher                                                                                                                                    |   publishedCount |   avgCitation |
+|:------------|:---------------------------------------------------------------------------------------------------------------------------------------------|-----------------:|--------------:|
+| S4363607701 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)                                                                   |               22 |      518.273  |
+| S4363607764 | 2021 IEEE/CVF International Conference on Computer Vision (ICCV)                                                                             |               17 |     1261.59   |
+| S4363607846 | 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)                                                                       |                4 |        3      |
+| S4363607759 | 2022 International Conference on Robotics and Automation (ICRA)                                                                              |                3 |       69.6667 |
+| S4363607979 | 2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)                                                                    |                2 |        8      |
+| S4363608757 | Proceedings of the 30th ACM International Conference on Multimedia                                                                           |                2 |       28      |
+| S4363607734 | 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)                                                              |                2 |        4      |
+| S4363607892 | 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)                                                         |                1 |       10      |
+| S4363607748 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)                                                        |                1 |       41      |
+| S4363605805 | 2021 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)                          |                1 |        2      |
+| S4363607737 | 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)                                                         |                1 |        5      |
+| S4363607731 | 2022 26th International Conference on Pattern Recognition (ICPR)                                                                             |                1 |       27      |
+| S4363607702 | ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)                                         |                1 |       33      |
+| S4363607703 | 2022 41st Chinese Control Conference (CCC)                                                                                                   |                1 |        1      |
+| S4363607863 | 2022 22nd International Conference on Control, Automation and Systems (ICCAS)                                                                |                1 |        2      |
+| S4363608142 | 2022 19th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON) |                1 |        9      |
+| S4363608592 | 2022 International Conference on Information Networking (ICOIN)                                                                              |                1 |        1      |

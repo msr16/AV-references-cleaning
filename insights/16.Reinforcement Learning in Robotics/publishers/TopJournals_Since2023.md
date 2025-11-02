@@ -1,0 +1,4 @@
+| ID          | publisher                                 |   publishedCount |   avgCitation |
+|:------------|:------------------------------------------|-----------------:|--------------:|
+| S2595095599 | Frontiers in Robotics and AI              |                1 |             2 |
+| S4210199657 | IEEE Transactions on Intelligent Vehicles |                1 |            20 |

@@ -1,0 +1,52 @@
+| ID          | name                  |   hIndex | lastInstitution                                                                         |   numberOfWorkInTopic |
+|:------------|:----------------------|---------:|:----------------------------------------------------------------------------------------|----------------------:|
+| A5033860704 | Henk Wymeersch        |       66 | Chalmers University of Technology                                                       |                   379 |
+| A5067048409 | Moe Z. Win            |       88 | Massachusetts Institute of Technology                                                   |                   202 |
+| A5029924052 | Ruizhi Chen           |       49 | State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing |                   184 |
+| A5029924052 | Ruizhi Chen           |       49 | Wuhan University                                                                        |                   184 |
+| A5083585913 | Gonzalo Seco‐Granados |       38 | Universitat Autònoma de Barcelona                                                       |                   182 |
+| A5102222671 | Zhongliang Deng       |       27 | Chongqing Medical University                                                            |                   177 |
+| A5102222671 | Zhongliang Deng       |       27 | Second Affiliated Hospital of Chongqing Medical University                              |                   177 |
+| A5102222671 | Zhongliang Deng       |       27 | Dalian Medical University                                                               |                   177 |
+| A5052022779 | Yuan Shen             |       44 | Tsinghua University                                                                     |                   175 |
+| A5070071735 | Yunhao Liu            |       64 | Tsinghua University                                                                     |                   161 |
+| A5100365448 | Lihua Xie             |      111 | China Tobacco                                                                           |                   160 |
+| A5044957601 | Li‐Ta Hsu             |       39 | Hohai University                                                                        |                   156 |
+| A5064176463 | Davide Dardari        |       49 | University of Bologna                                                                   |                   153 |
+| A5100394750 | Yingying Chen         |       71 | Shanghai Jiao Tong University                                                           |                   152 |
+| A5063382658 | Elena Simona Lohan    |       39 | Tampere University                                                                      |                   147 |
+| A5091253792 | Aboelmagd Noureldin   |       42 | Royal Military College of Canada                                                        |                   137 |
+| A5042307561 | H. Vincent Poor       |      179 | Princeton University                                                                    |                   127 |
+| A5013079905 | Shi Jin               |       88 | Southeast University                                                                    |                   126 |
+| A5026943179 | Martin Vossiek        |       32 | Friedrich-Alexander-Universität Erlangen-Nürnberg                                       |                   126 |
+| A5042454030 | Naser El‐Sheimy       |       52 | University of Calgary                                                                   |                   124 |
+| A5052487611 | R. Michael Buehrer    |       48 | Virginia Tech                                                                           |                   122 |
+| A5061103594 | Zheng Yang            |       53 | Shenyang Institute of Engineering                                                       |                   121 |
+| A5061103594 | Zheng Yang            |       53 | Shenyang University of Technology                                                       |                   121 |
+| A5054197935 | Mikko Valkama         |       54 | Tampere University                                                                      |                   121 |
+| A5008198554 | Andrew G. Dempster    |       49 | UNSW Sydney                                                                             |                   118 |
+| A5078340555 | Michael Milford       |       45 | Queensland University of Technology                                                     |                   117 |
+| A5030962220 | Benoît Denis          |       24 | Commissariat à l'Énergie Atomique et aux Énergies Alternatives                          |                   112 |
+| A5030962220 | Benoît Denis          |       24 | Laboratoire d'Électronique des Technologies de l'Information                            |                   112 |
+| A5066333395 | Yuan Zhuang           |       41 | Beibu Gulf University                                                                   |                   108 |
+| A5051240427 | Zaher M. Kassas       |       34 | The Ohio State University                                                               |                   107 |
+| A5005541527 | Xiaoji Niu            |       41 | Wuhan University                                                                        |                   106 |
+| A5089101522 | Geert Leus            |       65 | Delft University of Technology                                                          |                   104 |
+| A5058002446 | Fredrik Gustafsson    |       62 | Linköping University                                                                    |                   101 |
+| A5058002446 | Fredrik Gustafsson    |       62 | Uppsala University                                                                      |                   101 |
+| A5010637110 | Niki Trigoni          |       57 | University of Oxford                                                                    |                   100 |
+| A5065103224 | Dingyi Fang           |       35 | Kunming Children's Hospital                                                             |                    95 |
+| A5060023238 | Sinan Gezici          |       37 | Bilkent University                                                                      |                    95 |
+| A5016722903 | İsmail Güvenç         |       58 | North Carolina State University                                                         |                    95 |
+| A5065011089 | Armin Dammann         |       23 | Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)                                   |                    93 |
+| A5027491138 | Paolo Nepa            |       38 | University of Pisa                                                                      |                    91 |
+| A5100751311 | Zhaoyang Zhang        |       71 | Xi'an Jiaotong University                                                               |                    91 |
+| A5072718462 | Chris Rizos           |       53 | Cosine (Netherlands)                                                                    |                    90 |
+| A5006080984 | Derrick Wing Kwan Ng  |       86 | UNSW Sydney                                                                             |                    90 |
+| A5052635380 | Haiyong Luo           |       31 | Institute of Computing Technology                                                       |                    89 |
+| A5052635380 | Haiyong Luo           |       31 | Chinese Academy of Sciences                                                             |                    89 |
+| A5083003222 | Roland Siegwart       |      121 | ETH Zurich                                                                              |                    87 |
+| A5087141784 | Long Cheng            |       24 | Wuhan Donghu University                                                                 |                    86 |
+| A5100329778 | Fang Zhao             |       44 | Jilin University                                                                        |                    86 |
+| A5076239667 | Valérie Renaudin      |       26 | Université Gustave Eiffel                                                               |                    86 |
+| A5007131492 | Kaibin Huang          |       58 | General Hospital of Guangzhou Military Command                                          |                    86 |

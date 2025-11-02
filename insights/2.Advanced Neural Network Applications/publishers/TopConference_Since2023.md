@@ -1,0 +1,6 @@
+| ID          | publisher                                                                  |   publishedCount |   avgCitation |
+|:------------|:---------------------------------------------------------------------------|-----------------:|--------------:|
+| S4363607701 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) |                6 |       216.833 |
+| S4363607979 | 2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)  |                2 |         5     |
+| S4363608458 | 2021 International Conference on 3D Vision (3DV)                           |                1 |         7     |
+| S4363607846 | 2021 IEEE International Conference on Robotics and Biomimetics (ROBIO)     |                1 |         0     |

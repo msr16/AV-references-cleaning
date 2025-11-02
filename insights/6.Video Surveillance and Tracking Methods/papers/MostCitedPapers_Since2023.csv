@@ -1,0 +1,21 @@
+ID,paperTitle,year,publisher,citationCount
+W4402754006,DETRs Beat YOLOs on Real-time Object Detection,2024,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),1208
+W4394596823,Robust Object Detection in Challenging Weather Conditions,2024,2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV),27
+W4396941548,Exploring Recurrent Long-Term Temporal Fusion for Multi-View 3D Perception,2024,IEEE Robotics and Automation Letters,27
+W4393149498,Far3D: Expanding the Horizon for Surround-View 3D Object Detection,2024,Proceedings of the AAAI Conference on Artificial Intelligence,24
+W4396855832,Vehicle Detection Algorithms for Autonomous Driving: A Review,2024,Sensors,22
+W4403750847,TSD-DETR: A lightweight real-time detection transformer of traffic sign detection for long-range perception of autonomous driving,2024,Engineering Applications of Artificial Intelligence,21
+W4399881121,MonoGAE: Roadside Monocular 3D Object Detection With Ground-Aware Embeddings,2024,IEEE Transactions on Intelligent Transportation Systems,18
+W4400111437,Dynamic object detection using sparse LiDAR data for autonomous machine driving and road safety applications,2024,Expert Systems with Applications,16
+W4400488054,Deep Learning-Based Robust Multi-Object Tracking via Fusion of mmWave Radar and Camera Sensors,2024,IEEE Transactions on Intelligent Transportation Systems,9
+W4400278868,Enhanced Object Detection in Autonomous Vehicles through LiDAR—Camera Sensor Fusion,2024,World Electric Vehicle Journal,7
+W4392515398,A survey on 3D object detection in real time for autonomous driving,2024,Frontiers in Robotics and AI,6
+W4400043174,Improved Lightweight Zero-Reference Deep Curve Estimation Low-Light Enhancement Algorithm for Night-Time Cow Detection,2024,Agriculture,6
+W4401758042,"A Systematic Survey of Transformer-Based 3D Object Detection for Autonomous Driving: Methods, Challenges and Trends",2024,Drones,6
+W4400039976,Snow-CLOCs: Camera-LiDAR Object Candidate Fusion for 3D Object Detection in Snowy Conditions,2024,Sensors,6
+W4408411785,Dual Radar: A Multi-modal Dataset with Dual 4D Radar for Autononous Driving,2025,Scientific Data,6
+W4396238916,MENet: Multi-Modal Mapping Enhancement Network for 3D Object Detection in Autonomous Driving,2024,IEEE Transactions on Intelligent Transportation Systems,5
+W4391323824,MonoAux: Fully Exploiting Auxiliary Information and Uncertainty for Monocular 3D Object Detection,2024,Cyborg and Bionic Systems,5
+W4404565450,Adaptive and soft constrained vision-map vehicle localization using Gaussian processes and instance segmentation,2024,Expert Systems with Applications,4
+W4393317283,UKF‐MOT: An unscented Kalman filter‐based 3D multi‐object tracker,2024,CAAI Transactions on Intelligence Technology,4
+W4403211011,Channel-wise and spatially-guided Multimodal feature fusion network for 3D Object Detection in Autonomous Vehicles,2024,IEEE Transactions on Geoscience and Remote Sensing,4

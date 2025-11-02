@@ -1,0 +1,52 @@
+| ID          | name                    |   hIndex | lastInstitution                                                         |   numberOfWorkInTopic |
+|:------------|:------------------------|---------:|:------------------------------------------------------------------------|----------------------:|
+| A5028209738 | Josef Kittler           |       90 | University of Surrey                                                    |                    79 |
+| A5055331421 | Uwe D. Hanebeck         |       39 | Karlsruhe Institute of Technology                                       |                    61 |
+| A5016258462 | Katsushi Ikeuchi        |       73 | Robotics Research (United States)                                       |                    59 |
+| A5016258462 | Katsushi Ikeuchi        |       73 | Microsoft (United States)                                               |                    59 |
+| A5087111199 | Reinhard Klette         |       45 | Auckland University of Technology                                       |                    58 |
+| A5073930300 | Jürgen Beyerer          |       33 | Karlsruhe Institute of Technology                                       |                    57 |
+| A5100613677 | Anil K. Jain            |      176 | Springer Nature (United Kingdom)                                        |                    56 |
+| A5057678172 | Andrew Zisserman        |      174 | University of Oxford                                                    |                    52 |
+| A5018207993 | Roberto Cipolla         |       86 | University of Cambridge                                                 |                    48 |
+| A5075246991 | Martial Hebert          |      103 | Carnegie Mellon University                                              |                    45 |
+| A5025640070 | Yaonan Wang             |       56 | Capital Medical University                                              |                    43 |
+| A5007656938 | Jǐŕı Matas              |       93 | Czech Technical University in Prague                                    |                    43 |
+| A5011359067 | Horst Bischof           |       87 | Graz University of Technology                                           |                    43 |
+| A5102762707 | Rama Chellappa          |      120 | Johns Hopkins University                                                |                    40 |
+| A5100644375 | Hong Yan                |       72 | City University of Hong Kong                                            |                    40 |
+| A5110261261 | Nicholas Ayache         |      100 | Institut national de recherche en sciences et technologies du numérique |                    39 |
+| A5038674741 | Pascal Fua              |      101 | École Polytechnique Fédérale de Lausanne                                |                    39 |
+| A5025093894 | B.B. Chaudhuri          |       52 | Indian Statistical Institute                                            |                    39 |
+| A5087710605 | Daniel Cremers          |      103 | Technical University of Munich                                          |                    38 |
+| A5021908609 | Marc Pollefeys          |      108 | ETH Zurich                                                              |                    37 |
+| A5007937949 | Majid Mirmehdi          |       42 | University of Bristol                                                   |                    37 |
+| A5006918685 | Gérard Medioni          |       59 | Amazon (Germany)                                                        |                    36 |
+| A5111454036 | Larry S. Davis          |       97 | University of Maryland, College Park                                    |                    35 |
+| A5100613889 | Jonathan Li             |       76 | University of Waterloo                                                  |                    35 |
+| A5046520540 | Bin Fang                |       36 | Hunan Police Academy                                                    |                    34 |
+| A5017031914 | Hongbin Zha             |       43 | Peking University                                                       |                    33 |
+| A5057798674 | Jean‐Michel Morel       |       68 | City University of Hong Kong                                            |                    33 |
+| A5071483672 | Wilfried Philips        |       47 | Ghent University                                                        |                    33 |
+| A5100452641 | Han Wang                |       63 | Qingdao University                                                      |                    33 |
+| A5009750573 | Mohammed Bennamoun      |       70 | The University of Western Australia                                     |                    32 |
+| A5085971943 | Aleš Leonardis          |       56 | University of Birmingham                                                |                    31 |
+| A5111655773 | Suchendra M. Bhandarkar |       27 | University of Georgia                                                   |                    30 |
+| A5031429692 | Mustafa Ünel            |       21 | Sabancı Üniversitesi                                                    |                    30 |
+| A5110510655 | Michel Devy             |       27 | Laboratoire d'Analyse et d'Architecture des Systèmes                    |                    30 |
+| A5110017697 | J. Illingworth          |       41 | University of Surrey                                                    |                    30 |
+| A5085309296 | Hiroshi Murase          |       36 | Ogaki Municipal Hospital                                                |                    29 |
+| A5028024287 | Anton van den Hengel    |       77 | The University of Adelaide                                              |                    28 |
+| A5028024287 | Anton van den Hengel    |       77 | Australian Centre for Robotic Vision                                    |                    28 |
+| A5005819073 | Hideo Saitô             |       33 | Keio University                                                         |                    28 |
+| A5103020232 | Sukhan Lee              |       32 | Sungkyunkwan University                                                 |                    28 |
+| A5052299650 | A.W.M. Smeulders        |       58 | University of Amsterdam                                                 |                    28 |
+| A5100416961 | Cheng Wang              |       63 | Xiamen University                                                       |                    28 |
+| A5057924291 | Takeo Kanade            |      136 | Carnegie Mellon University                                              |                    27 |
+| A5060956609 | Michel Dhome            |       30 | Sigma Clermont                                                          |                    27 |
+| A5060956609 | Michel Dhome            |       30 | Université Clermont Auvergne                                            |                    27 |
+| A5060956609 | Michel Dhome            |       30 | Centre National de la Recherche Scientifique                            |                    27 |
+| A5030948871 | Rita Cucchiara          |       59 | University of Modena and Reggio Emilia                                  |                    27 |
+| A5109151740 | Zhanyi Hu               |       30 | East China Normal University                                            |                    26 |
+| A5045382199 | Slobodan Ilić           |       42 | Siemens (Germany)                                                       |                    26 |
+| A5012904339 | Andrew Wallace          |       43 | Heriot-Watt University                                                  |                    25 |

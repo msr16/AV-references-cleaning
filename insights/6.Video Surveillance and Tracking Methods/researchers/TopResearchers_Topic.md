@@ -1,0 +1,52 @@
+| ID          | name                |   hIndex | lastInstitution                                   |   numberOfWorkInTopic |
+|:------------|:--------------------|---------:|:--------------------------------------------------|----------------------:|
+| A5001254143 | Luc Van Gool        |      172 | ETH Zurich                                        |                   286 |
+| A5044448641 | Kang-Hyun Jo        |       29 | University of Ulsan                               |                   248 |
+| A5006986293 | Huchuan Lu          |      100 | Dalian University of Technology                   |                   240 |
+| A5100418319 | Ming–Hsuan Yang     |      145 | University of California System                   |                   226 |
+| A5080823547 | Mubarak Shah        |      113 | University of Central Florida                     |                   224 |
+| A5068831718 | Mohan M. Trivedi    |       83 | Darshan University                                |                   218 |
+| A5068831718 | Mohan M. Trivedi    |       83 | Darshan Dental College and Hospital               |                   218 |
+| A5030948871 | Rita Cucchiara      |       59 | University of Modena and Reggio Emilia            |                   213 |
+| A5074103823 | Dacheng Tao         |      146 | Nanyang Technological University                  |                   190 |
+| A5082634513 | Ling Shao           |      120 | University of Chinese Academy of Sciences         |                   188 |
+| A5102762707 | Rama Chellappa      |      120 | Johns Hopkins University                          |                   183 |
+| A5100381753 | Shuicheng Yan       |      175 | Ningbo University of Technology                   |                   182 |
+| A5051534545 | Bernt Schiele       |      131 | Max Planck Institute for Informatics              |                   174 |
+| A5108050904 | Wei‐Shi Zheng       |       70 | Second Affiliated Hospital of Zhejiang University |                   169 |
+| A5108050904 | Wei‐Shi Zheng       |       70 | Zhejiang University                               |                   169 |
+| A5061469520 | Haibin Ling         |       91 | Stony Brook University                            |                   165 |
+| A5114549594 | Weiming Hu          |       65 | Lanzhou University Second Hospital                |                   154 |
+| A5114549594 | Weiming Hu          |       65 | Lanzhou University                                |                   154 |
+| A5006294869 | Chunhua Shen        |      119 | Zhejiang Lab                                      |                   153 |
+| A5006294869 | Chunhua Shen        |      119 | Zhejiang University of Technology                 |                   153 |
+| A5100444820 | Xiaogang Wang       |      211 | Peking University                                 |                   152 |
+| A5087051920 | Rainer Stiefelhagen |       62 | Karlsruhe Institute of Technology                 |                   150 |
+| A5055128383 | Sridha Sridharan    |       61 | SASTRA University                                 |                   148 |
+| A5038674741 | Pascal Fua          |      101 | École Polytechnique Fédérale de Lausanne          |                   143 |
+| A5100404947 | Jie Yang            |       73 | Sichuan University                                |                   141 |
+| A5100404947 | Jie Yang            |       73 | Analysis and Testing Centre                       |                   141 |
+| A5011359067 | Horst Bischof       |       87 | Graz University of Technology                     |                   140 |
+| A5100460385 | Jiwen Lu            |       87 | Tsinghua University                               |                   139 |
+| A5111454036 | Larry S. Davis      |       97 | University of Maryland, College Park              |                   138 |
+| A5034095159 | Clinton Fookes      |       53 | Queensland University of Technology               |                   136 |
+| A5100391493 | Dong Wang           |       49 | Dalian University of Technology                   |                   136 |
+| A5028597017 | Qingming Huang      |       78 | Xiamen University                                 |                   136 |
+| A5101457342 | Thomas S. Huang     |      145 | National Institute of Metrology                   |                   135 |
+| A5047405956 | Nanning Zheng       |       74 | Xi'an Jiaotong University                         |                   134 |
+| A5082786719 | Stan Z. Li          |      100 | Westlake University                               |                   134 |
+| A5087818121 | Wanli Ouyang        |       93 | Shanghai Artificial Intelligence Laboratory       |                   132 |
+| A5087818121 | Wanli Ouyang        |       93 | Beijing Academy of Artificial Intelligence        |                   132 |
+| A5100431792 | Wei Liu             |      109 | Xiaomi (China)                                    |                   131 |
+| A5038550641 | Fatih Porikli       |       77 | Qualcomm (United States)                          |                   130 |
+| A5100341321 | Qi Wang             |       62 | Northwestern Polytechnical University             |                   130 |
+| A5022176859 | Thomas B. Moeslund  |       51 | Aalborg University                                |                   129 |
+| A5000226831 | Sergio A. Velastín  |       41 | Universidad Carlos III de Madrid                  |                   127 |
+| A5000226831 | Sergio A. Velastín  |       41 | Queen Mary University of London                   |                   127 |
+| A5101702810 | Jenq‐Neng Hwang     |       54 | University of Washington                          |                   126 |
+| A5101702810 | Jenq‐Neng Hwang     |       54 | Seattle University                                |                   126 |
+| A5027171279 | Nicu Sebe           |       97 | University of Trento                              |                   126 |
+| A5115602506 | Liang Wang          |       96 | Beijing Shijitan Hospital                         |                   125 |
+| A5115602506 | Liang Wang          |       96 | Capital Medical University                        |                   125 |
+| A5109299788 | Zhen Lei            |       71 | Center for Interdisciplinary Studies              |                   123 |
+| A5083626840 | Simon Denman        |       43 | Queensland University of Technology               |                   122 |

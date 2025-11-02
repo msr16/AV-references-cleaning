@@ -1,0 +1,20 @@
+| ID          | publisher                                                                                                |   publishedCount |   avgCitation |
+|:------------|:---------------------------------------------------------------------------------------------------------|-----------------:|--------------:|
+| S4363607701 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)                               |                5 |      110.2    |
+| S4363607764 | 2021 IEEE/CVF International Conference on Computer Vision (ICCV)                                         |                4 |      129      |
+| S4363607734 | 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)                          |                3 |       15.6667 |
+| S4363607731 | 2022 26th International Conference on Pattern Recognition (ICPR)                                         |                2 |       66.5    |
+| S4363608321 | 2021 IEEE 24th International Conference on Information Fusion (FUSION)                                   |                2 |       62.5    |
+| S4363608215 | 2022 27th Asia Pacific Conference on Communications (APCC)                                               |                1 |       12      |
+| S4363607723 | 2022 International Conference on Microwave and Millimeter Wave Technology (ICMMT)                        |                1 |        3      |
+| S4363606603 | 2022 IEEE Symposium on Security and Privacy (SP)                                                         |                1 |      146      |
+| S4363607737 | 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)                     |                1 |        5      |
+| S4363609010 | Proceedings of the 7th International Conference on Vehicle Technology and Intelligent Transport Systems  |                1 |        1      |
+| S4363607959 | 2023 IEEE International Conference on Consumer Electronics (ICCE)                                        |                1 |        4      |
+| S4363608816 | Proceedings of the 59th ACM/IEEE Design Automation Conference                                            |                1 |       18      |
+| S4363608458 | 2021 International Conference on 3D Vision (3DV)                                                         |                1 |       22      |
+| S4363607716 | 2021 IEEE 5th Conference on Energy Internet and Energy System Integration (EI2)                          |                1 |        2      |
+| S4363607744 | 2022 IEEE 95th Vehicular Technology Conference: (VTC2022-Spring)                                         |                1 |        4      |
+| S4363608082 | 2021 IEEE International Conference on Data Science and Computer Application (ICDSCA)                     |                1 |        5      |
+| S4363608283 | 2022 4th International Conference on Communications, Information System and Computer Engineering (CISCE) |                1 |        4      |
+| S4306418818 | IEEE Sensors                                                                                             |                1 |        9      |

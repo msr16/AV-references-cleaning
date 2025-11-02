@@ -1,0 +1,52 @@
+| ID          | name               |   hIndex | lastInstitution                                         |   numberOfWorkInTopic |
+|:------------|:-------------------|---------:|:--------------------------------------------------------|----------------------:|
+| A5065396778 | Michael J. Black   |      110 | Max Planck Institute for Intelligent Systems            |                   265 |
+| A5020664641 | Christian Theobalt |      102 | Max Planck Institute for Informatics                    |                   262 |
+| A5080823547 | Mubarak Shah       |      113 | University of Central Florida                           |                   246 |
+| A5001254143 | Luc Van Gool       |      172 | ETH Zurich                                              |                   239 |
+| A5100381753 | Shuicheng Yan      |      175 | Ningbo University of Technology                         |                   219 |
+| A5012240246 | Jüergen Gall       |       63 | University of Bonn                                      |                   208 |
+| A5057678172 | Andrew Zisserman   |      174 | University of Oxford                                    |                   201 |
+| A5109890544 | Cordelia Schmid    |      118 | Université Paris Sciences et Lettres                    |                   199 |
+| A5108050904 | Wei‐Shi Zheng      |       70 | Second Affiliated Hospital of Zhejiang University       |                   183 |
+| A5108050904 | Wei‐Shi Zheng      |       70 | Zhejiang University                                     |                   183 |
+| A5085245110 | Junsong Yuan       |       76 | University at Buffalo, State University of New York     |                   182 |
+| A5082634513 | Ling Shao          |      120 | University of Chinese Academy of Sciences               |                   181 |
+| A5074103823 | Dacheng Tao        |      146 | Nanyang Technological University                        |                   179 |
+| A5115602506 | Liang Wang         |       96 | Beijing Shijitan Hospital                               |                   170 |
+| A5115602506 | Liang Wang         |       96 | Capital Medical University                              |                   170 |
+| A5038674741 | Pascal Fua         |      101 | École Polytechnique Fédérale de Lausanne                |                   169 |
+| A5100436505 | Limin Wang         |       61 | Nanjing University                                      |                   159 |
+| A5027171279 | Nicu Sebe          |       97 | University of Trento                                    |                   158 |
+| A5100748135 | Yu Qiao            |       95 | Kyung Hee University                                    |                   154 |
+| A5001594573 | Jitendra Malik     |      150 | Berkeley College                                        |                   150 |
+| A5001594573 | Jitendra Malik     |      150 | University of California, Berkeley                      |                   150 |
+| A5030948871 | Rita Cucchiara     |       59 | University of Modena and Reggio Emilia                  |                   146 |
+| A5029105520 | Trevor Darrell     |      149 | University of California, Berkeley                      |                   146 |
+| A5029105520 | Trevor Darrell     |      149 | Berkeley College                                        |                   146 |
+| A5111454036 | Larry S. Davis     |       97 | University of Maryland, College Park                    |                   145 |
+| A5102762707 | Rama Chellappa     |      120 | Johns Hopkins University                                |                   144 |
+| A5078141810 | Houqiang Li        |       72 | Shandong First Medical University                       |                   141 |
+| A5078141810 | Houqiang Li        |       72 | Academy of Medical Sciences                             |                   141 |
+| A5087818121 | Wanli Ouyang       |       93 | Shanghai Artificial Intelligence Laboratory             |                   140 |
+| A5087818121 | Wanli Ouyang       |       93 | Beijing Academy of Artificial Intelligence              |                   140 |
+| A5084829008 | Michael S. Ryoo    |       42 | Stony Brook University                                  |                   139 |
+| A5055469774 | Jiebo Luo          |       96 | Shantou University                                      |                   139 |
+| A5055469774 | Jiebo Luo          |       96 | Shantou University Medical College                      |                   139 |
+| A5086706224 | Alan Yuille        |      135 | Johns Hopkins University                                |                   139 |
+| A5051534545 | Bernt Schiele      |      131 | Max Planck Institute for Informatics                    |                   137 |
+| A5024763828 | Bernard Ghanem     |       62 | King Abdullah University of Science and Technology      |                   137 |
+| A5087781064 | Ivan Laptev        |       72 | Mohamed bin Zayed University of Artificial Intelligence |                   136 |
+| A5076908763 | Gerard Pons‐Moll   |       55 | TH Bingen University of Applied Sciences                |                   134 |
+| A5047962986 | Yu–Gang Jiang      |       75 | Fudan University                                        |                   133 |
+| A5017597537 | Tao Mei            |       84 | Fudan University                                        |                   132 |
+| A5100377147 | Meng Wang          |      100 | Beijing Normal University                               |                   131 |
+| A5044490167 | Richard Bowden     |       51 | University of Surrey                                    |                   130 |
+| A5049300388 | Mathieu Salzmann   |       60 | ETH Zurich                                              |                   130 |
+| A5049300388 | Mathieu Salzmann   |       60 | Swiss Data Science Center                               |                   130 |
+| A5037322163 | Kris Kitani        |       58 | Carnegie Mellon University                              |                   128 |
+| A5024508073 | Cees G. M. Snoek   |       61 | University of Amsterdam                                 |                   126 |
+| A5040633710 | Yoshihiko Nakamura |       69 | Mohamed bin Zayed University of Artificial Intelligence |                   126 |
+| A5014324841 | Taku Komura        |       45 | University of Hong Kong                                 |                   125 |
+| A5114549594 | Weiming Hu         |       65 | Lanzhou University Second Hospital                      |                   124 |
+| A5114549594 | Weiming Hu         |       65 | Lanzhou University                                      |                   124 |

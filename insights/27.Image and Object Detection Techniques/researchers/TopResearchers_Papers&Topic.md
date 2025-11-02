@@ -1,0 +1,10 @@
+| ID          | name                  |   hIndex | lastInstitution                      |   numberOfWork |
+|:------------|:----------------------|---------:|:-------------------------------------|---------------:|
+| A5016636021 | Dániel Baráth         |       21 | ETH Zurich                           |              2 |
+| A5007656938 | Jǐŕı Matas            |       93 | Czech Technical University in Prague |              1 |
+| A5036684787 | Huijun Gao            |      127 | Harbin Institute of Technology       |              1 |
+| A5055299977 | Paul Newman           |       60 | Robotics Research (United States)    |              1 |
+| A5055299977 | Paul Newman           |       60 | University of Oxford                 |              1 |
+| A5021908609 | Marc Pollefeys        |      108 | ETH Zurich                           |              1 |
+| A5066237365 | Henrik I. Christensen |       58 | University of California, San Diego  |              1 |
+| A5056112272 | Viktor Larsson        |       27 | Lund University                      |              1 |

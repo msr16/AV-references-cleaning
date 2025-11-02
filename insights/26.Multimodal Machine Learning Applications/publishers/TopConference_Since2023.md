@@ -1,0 +1,4 @@
+| ID          | publisher                                                                             |   publishedCount |   avgCitation |
+|:------------|:--------------------------------------------------------------------------------------|-----------------:|--------------:|
+| S4363607748 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) |                1 |             4 |
+| S4363607701 | 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)            |                1 |            14 |

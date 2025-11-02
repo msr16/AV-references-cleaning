@@ -1,0 +1,8 @@
+| ID          | publisher                                                                                   |   publishedCount |   avgCitation |
+|:------------|:--------------------------------------------------------------------------------------------|-----------------:|--------------:|
+| S4363607734 | 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)             |                1 |             0 |
+| S4363605592 | 2022 IEEE/SICE International Symposium on System Integration (SII)                          |                1 |             2 |
+| S4363608617 | 2022 11th International Conference on Control, Automation and Information Sciences (ICCAIS) |                1 |             3 |
+| S4363607711 | ICC 2022 - IEEE International Conference on Communications                                  |                1 |            10 |
+| S4363607744 | 2022 IEEE 95th Vehicular Technology Conference: (VTC2022-Spring)                            |                1 |             4 |
+| S4363608153 | 2022 25th International Conference on Information Fusion (FUSION)                           |                1 |             1 |

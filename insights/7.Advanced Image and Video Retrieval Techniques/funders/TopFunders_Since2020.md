@@ -1,0 +1,52 @@
+| ID          | name                                                                           |   hIndex |   workCountInTopic |
+|:------------|:-------------------------------------------------------------------------------|---------:|-------------------:|
+| F4320321001 | National Natural Science Foundation of China                                   |      728 |                 59 |
+| F4320335777 | National Key Research and Development Program of China                         |      503 |                 13 |
+| F4320335787 | Fundamental Research Funds for the Central Universities                        |      428 |                  9 |
+| F4320322120 | National Research Foundation of Korea                                          |      445 |                  4 |
+| F4320321543 | China Postdoctoral Science Foundation                                          |      421 |                  3 |
+| F4320337504 | Research and Development                                                       |      139 |                  2 |
+| F4320322186 | Natural Science Foundation of Hubei Province                                   |      225 |                  2 |
+| F4320334764 | Japan Society for the Promotion of Science                                     |      407 |                  2 |
+| F4320321133 | Chinese Academy of Sciences                                                    |      439 |                  2 |
+| F4320323993 | Natural Science Foundation of Tianjin City                                     |      223 |                  2 |
+| F4320320671 | National Research Foundation                                                   |      228 |                  2 |
+| F4320322025 | Conselho Nacional de Desenvolvimento Científico e Tecnológico                  |      336 |                  2 |
+| F4320336756 | Tianjin Science and Technology Program                                         |       65 |                  1 |
+| F4320321309 | University of Ulsan                                                            |       50 |                  1 |
+| F4320322841 | Universidade de Macau                                                          |      140 |                  1 |
+| F4320314665 | North Carolina Humanities Council                                              |       10 |                  1 |
+| F4320322121 | Institució Catalana de Recerca i Estudis Avançats                              |      110 |                  1 |
+| F4320323086 | Natural Science Foundation of Liaoning Province                                |      164 |                  1 |
+| F4320333856 | Stanford Artificial Intelligence Lab-Toyota Center For AI Research             |        5 |                  1 |
+| F4320313609 | Guangdong Innovative and Entrepreneurial Research Team Program                 |      109 |                  1 |
+| F4320325902 | Beijing Municipal Science and Technology Commission                            |      195 |                  1 |
+| F4320321681 | Ministry of Trade, Industry and Energy                                         |      192 |                  1 |
+| F4320336618 | Science and Technology Program of Suzhou                                       |       42 |                  1 |
+| F4320332180 | Defense Advanced Research Projects Agency                                      |      327 |                  1 |
+| F4320325108 | Consellería de Cultura, Educación e Ordenación Universitaria, Xunta de Galicia |       87 |                  1 |
+| F4320319993 | Leverhulme Trust                                                               |      246 |                  1 |
+| F4320332999 | Horizon 2020 Framework Programme                                               |      304 |                  1 |
+| F4320336823 | Science Fund for Distinguished Young Scholars of Tianjin                       |       42 |                  1 |
+| F4320334627 | Engineering and Physical Sciences Research Council                             |      461 |                  1 |
+| F4320335197 | Norway Grants                                                                  |       43 |                  1 |
+| F4320328899 | China University of Geosciences                                                |       46 |                  1 |
+| F4320309612 | Natural Science Foundation of Shanghai                                         |      221 |                  1 |
+| F4320335773 | National High-tech Research and Development Program                            |      133 |                  1 |
+| F4320328359 | Ministry of Science and ICT, South Korea                                       |      129 |                  1 |
+| F4320330214 | Key Research and Development Program of Hunan Province of China                |       69 |                  1 |
+| F4320321408 | Ministry of Education                                                          |      241 |                  1 |
+| F4320335480 | Guangzhou Municipal Science and Technology Project                             |      100 |                  1 |
+| F4320335564 | Chinese Government Scholarship                                                 |       73 |                  1 |
+| F4320320300 | European Commission                                                            |      450 |                  1 |
+| F4320324638 | Wuhan University of Technology                                                 |      100 |                  1 |
+| F4320313620 | Hubei Provincial Department of Education                                       |       95 |                  1 |
+| F4320309618 | Ministry of Science and Technology                                             |      165 |                  1 |
+| F4320323893 | Fundo para o Desenvolvimento das Ciências e da Tecnologia                      |      124 |                  1 |
+| F4320321114 | Bundesministerium für Bildung und Forschung                                    |      381 |                  1 |
+| F4320320879 | Deutsche Forschungsgemeinschaft                                                |      566 |                  1 |
+| F4320322930 | Ministerio de Ciencia e Innovación                                             |      264 |                  1 |
+| F4320335322 | European Regional Development Fund                                             |      327 |                  1 |
+| F4320329860 | National Science and Technology Major Project                                  |      101 |                  1 |
+| F4320322437 | National Science and Technology Development Agency                             |      116 |                  1 |
+| F4320326705 | Science, Technology and Innovation Commission of Shenzhen Municipality         |      172 |                  1 |

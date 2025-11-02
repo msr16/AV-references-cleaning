@@ -1,0 +1,35 @@
+| ID          | name                                                                                    | country   |   hIndex |   workCountInTopic |
+|:------------|:----------------------------------------------------------------------------------------|:----------|---------:|-------------------:|
+| I4391012619 | Shanghai Artificial Intelligence Laboratory                                             |           |       86 |                 90 |
+| I37461747   | Wuhan University                                                                        | CN        |      463 |                 89 |
+| I4210118728 | State Key Laboratory of Information Engineering in Surveying Mapping and Remote Sensing | CN        |      177 |                 33 |
+| I4401726805 | Megvii (China)                                                                          |           |       98 |                 28 |
+| I4401727007 | Hikvision (China)                                                                       |           |       23 |                 13 |
+| I93860229   | Politecnico di Milano                                                                   | IT        |      385 |                  8 |
+| I4210129579 | National Engineering Laboratory of Deep Learning Technology and Application             | CN        |       43 |                  7 |
+| I2800111664 | State Scientific Research Institute of Aviation Systems                                 | RU        |       20 |                  7 |
+| I4401726824 | Horizon Robotics (China)                                                                |           |       51 |                  7 |
+| I169645620  | Institut Pascal                                                                         | FR        |      127 |                  6 |
+| I4210127558 | Australian Centre for Robotic Vision                                                    | AU        |      127 |                  6 |
+| I4210144102 | Wuhu Hit Robot Technology Research Institute                                            | CN        |       45 |                  5 |
+| I4210148944 | Dà-Jiāng Innovations Science and Technology (China)                                     | CN        |       34 |                  5 |
+| I6289922    | Universidade de Vigo                                                                    | ES        |      286 |                  5 |
+| I4210141363 | Samsung (Russia)                                                                        | RU        |       40 |                  4 |
+| I122991210  | Istituto di Scienza e Tecnologie dell'Informazione "Alessandro Faedo"                   | IT        |      156 |                  4 |
+| I4210117254 | Konya Technical University                                                              | TR        |       64 |                  4 |
+| I122534668  | Marche Polytechnic University                                                           | IT        |      277 |                  3 |
+| I33876163   | Finnish Geospatial Research Institute                                                   | FI        |      112 |                  2 |
+| I174458059  | National Technical University of Athens                                                 | GR        |      312 |                  2 |
+| I4210152452 | Consorzio Interuniversitario Nazionale per l'Informatica                                | IT        |       49 |                  2 |
+| I2277624104 | Fondazione Bruno Kessler                                                                | IT        |      161 |                  2 |
+| I4210125590 | Institute for Systems Engineering and Computers                                         | PT        |      135 |                  2 |
+| I246010334  | Università degli Studi di Enna Kore                                                     | IT        |      100 |                  2 |
+| I4403386650 | Centre de Robotique                                                                     |           |       51 |                  1 |
+| I4210107693 | École Nationale Supérieure d'Architecture de Nantes                                     | FR        |       29 |                  1 |
+| I4210164829 | Sensatech Designs (United Kingdom)                                                      | GB        |        6 |                  1 |
+| I4210148872 | Magic Leap (United States)                                                              | US        |       24 |                  1 |
+| I4210118220 | Shantui (China)                                                                         | CN        |       15 |                  1 |
+| I4210152705 | Universidad Blas Pascal                                                                 | AR        |       40 |                  1 |
+| I4210139986 | Microsoft (Switzerland)                                                                 | CH        |       31 |                  1 |
+| I4210094138 | University of West Attica                                                               | GR        |       85 |                  1 |
+| I4401726997 | Tusimple (United States)                                                                |           |        7 |                  1 |

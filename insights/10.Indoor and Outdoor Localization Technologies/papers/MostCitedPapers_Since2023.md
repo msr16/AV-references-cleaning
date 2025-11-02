@@ -1,0 +1,6 @@
+| ID          | paperTitle                                                                                                       |   year | publisher                                                |   citationCount |
+|:------------|:-----------------------------------------------------------------------------------------------------------------|-------:|:---------------------------------------------------------|----------------:|
+| W4393972713 | A Deep Analysis of Visual SLAM Methods for Highly Automated and Autonomous Vehicles in Complex Urban Environment |   2024 | IEEE Transactions on Intelligent Transportation Systems  |              10 |
+| W4394964661 | LGD: A fast place recognition method based on the fusion of local and global descriptors                         |   2024 | Expert Systems with Applications                         |               3 |
+| W4392251788 | Robust Perception-Based Visual Simultaneous Localization and Tracking in Dynamic Environments                    |   2024 | IEEE Transactions on Cognitive and Developmental Systems |               3 |
+| W4390604226 | Fast-Lio: A Fast, Robust Lidar-Inertial Odometry Package by Tightly-Coupled Iterated Kalman Filter               |   2024 | SSRN Electronic Journal                                  |               0 |
